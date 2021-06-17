@@ -1,0 +1,3125 @@
+2019-10-19 16:27:41,587 - ## iteration:1, learning problems: 0
+2019-10-19 16:34:55,359 - ## iteration:1, learning problems: 0
+2019-10-19 16:38:29,544 - ## iteration:1, learning problems: 1
+2019-10-19 16:41:54,704 - ## iteration:1, learning problems: 2
+2019-10-19 16:45:20,676 - ## iteration:1, learning problems: 3
+2019-10-19 16:48:41,783 - ## iteration:1, learning problems: 4
+2019-10-19 16:51:56,094 - ## iteration:1, learning problems: 5
+2019-10-19 16:55:10,199 - ## iteration:1, learning problems: 6
+2019-10-19 16:58:23,386 - ## iteration:1, learning problems: 7
+2019-10-19 17:01:36,816 - ## iteration:1, learning problems: 8
+2019-10-19 17:04:50,254 - ## iteration:1, learning problems: 9
+2019-10-19 17:08:04,095 - ## iteration:1, learning problems: 10
+2019-10-19 17:11:17,715 - ## iteration:1, learning problems: 11
+2019-10-19 17:14:31,991 - ## iteration:1, learning problems: 12
+2019-10-19 17:17:31,358 - ## iteration:1, learning problems: 13
+2019-10-19 17:20:50,283 - ## iteration:1, learning problems: 14
+2019-10-19 17:24:04,345 - ## iteration:1, learning problems: 15
+2019-10-19 17:27:16,029 - ## iteration:1, learning problems: 16
+2019-10-19 17:29:03,083 - ## iteration:1, learning problems: 17
+2019-10-19 17:31:10,937 - ## iteration:1, learning problems: 18
+2019-10-19 17:34:25,128 - ## iteration:1, learning problems: 19
+2019-10-19 17:37:38,254 - ## iteration:1, learning problems: 20
+2019-10-19 17:40:21,249 - ## iteration:1, learning problems: 21
+2019-10-19 17:43:33,602 - ## iteration:1, learning problems: 22
+2019-10-19 17:46:38,316 - ## iteration:1, learning problems: 23
+2019-10-19 17:49:50,589 - ## iteration:1, learning problems: 24
+2019-10-19 17:53:03,222 - ## iteration:1, learning problems: 25
+2019-10-19 17:56:14,751 - ## iteration:1, learning problems: 26
+2019-10-19 17:59:26,347 - ## iteration:1, learning problems: 27
+2019-10-19 18:01:14,803 - ## iteration:1, learning problems: 28
+2019-10-19 18:04:25,064 - ## iteration:1, learning problems: 29
+2019-10-19 18:07:36,677 - ## iteration:1, learning problems: 30
+2019-10-19 18:10:56,949 - ## iteration:1, learning problems: 31
+2019-10-19 18:13:45,529 - ## iteration:1, learning problems: 32
+2019-10-19 18:16:04,084 - ## iteration:1, learning problems: 33
+2019-10-19 18:18:58,457 - ## iteration:1, learning problems: 34
+2019-10-19 18:21:58,058 - ## iteration:1, learning problems: 35
+2019-10-19 18:25:10,503 - ## iteration:1, learning problems: 36
+2019-10-19 18:27:31,221 - ## iteration:1, learning problems: 37
+2019-10-19 18:30:17,879 - ## iteration:1, learning problems: 38
+2019-10-19 18:33:57,897 - ## iteration:1, learning problems: 39
+2019-10-19 18:36:53,320 - ## iteration:1, learning problems: 40
+2019-10-19 18:39:25,316 - ## iteration:1, learning problems: 41
+2019-10-19 18:42:44,692 - ## iteration:1, learning problems: 42
+2019-10-19 18:45:28,668 - ## iteration:1, learning problems: 43
+2019-10-19 18:48:26,938 - ## iteration:1, learning problems: 44
+2019-10-19 18:50:45,189 - ## iteration:1, learning problems: 45
+2019-10-19 18:53:23,731 - ## iteration:1, learning problems: 46
+2019-10-19 18:54:23,925 - ## iteration:1, learning problems: 47
+2019-10-19 18:55:35,576 - ## iteration:1, learning problems: 48
+2019-10-19 18:57:58,057 - ## iteration:1, learning problems: 49
+2019-10-19 18:59:42,284 - ## iteration:1, learning problems: 50
+2019-10-19 19:01:49,949 - ## iteration:1, learning problems: 51
+2019-10-19 19:03:11,683 - ## iteration:1, learning problems: 52
+2019-10-19 19:06:24,384 - ## iteration:1, learning problems: 53
+2019-10-19 19:08:33,390 - ## iteration:1, learning problems: 54
+2019-10-19 19:09:37,046 - ## iteration:1, learning problems: 55
+2019-10-19 19:11:35,232 - ## iteration:1, learning problems: 56
+2019-10-19 19:13:36,461 - ## iteration:1, learning problems: 57
+2019-10-19 19:15:30,875 - ## iteration:1, learning problems: 58
+2019-10-19 19:16:32,284 - ## iteration:1, learning problems: 59
+2019-10-19 19:18:36,217 - ## iteration:1, learning problems: 60
+2019-10-19 19:20:24,069 - ## iteration:1, learning problems: 61
+2019-10-19 19:23:36,729 - ## iteration:1, learning problems: 62
+2019-10-19 19:25:39,177 - ## iteration:1, learning problems: 63
+2019-10-19 19:28:51,521 - ## iteration:1, learning problems: 64
+2019-10-19 19:32:42,583 - ## iteration:1, learning problems: 65
+2019-10-19 19:35:21,552 - ## iteration:1, learning problems: 66
+2019-10-19 19:38:12,822 - ## iteration:1, learning problems: 67
+2019-10-19 19:41:04,921 - ## iteration:1, learning problems: 68
+2019-10-19 19:43:37,083 - ## iteration:1, learning problems: 69
+2019-10-19 19:46:57,812 - ## iteration:1, learning problems: 70
+2019-10-19 19:48:59,913 - ## iteration:1, learning problems: 71
+2019-10-19 19:51:38,316 - ## iteration:1, learning problems: 72
+2019-10-19 19:54:28,030 - ## iteration:1, learning problems: 73
+2019-10-19 19:56:16,162 - ## iteration:1, learning problems: 74
+2019-10-19 19:59:30,618 - ## iteration:1, learning problems: 75
+2019-10-19 20:00:58,365 - ## iteration:1, learning problems: 76
+2019-10-19 20:03:00,291 - ## iteration:1, learning problems: 77
+2019-10-19 20:05:09,653 - ## iteration:1, learning problems: 78
+2019-10-19 20:06:14,933 - ## iteration:1, learning problems: 79
+2019-10-19 20:09:29,330 - ## iteration:1, learning problems: 80
+2019-10-19 20:12:47,802 - ## iteration:1, learning problems: 81
+2019-10-19 20:16:51,029 - ## iteration:1, learning problems: 82
+2019-10-19 20:19:46,012 - ## iteration:1, learning problems: 83
+2019-10-19 20:22:16,530 - ## iteration:1, learning problems: 84
+2019-10-19 20:23:18,233 - ## iteration:1, learning problems: 85
+2019-10-19 20:25:32,075 - ## iteration:1, learning problems: 86
+2019-10-19 20:28:09,757 - ## iteration:1, learning problems: 87
+2019-10-19 20:30:54,677 - ## iteration:1, learning problems: 88
+2019-10-19 20:35:06,380 - ## iteration:1, learning problems: 89
+2019-10-19 20:36:42,506 - ## iteration:1, learning problems: 90
+2019-10-19 20:41:08,682 - ## iteration:1, learning problems: 91
+2019-10-19 20:44:40,218 - ## iteration:1, learning problems: 92
+2019-10-19 20:48:05,579 - ## iteration:1, learning problems: 93
+2019-10-19 20:49:57,465 - ## iteration:1, learning problems: 94
+2019-10-19 20:53:28,892 - ## iteration:1, learning problems: 95
+2019-10-19 20:56:50,702 - ## iteration:1, learning problems: 96
+2019-10-19 21:00:10,697 - ## iteration:1, learning problems: 97
+2019-10-19 21:03:18,566 - ## iteration:1, learning problems: 98
+2019-10-19 21:06:25,554 - ## iteration:1, learning problems: 99
+2019-10-19 21:10:21,089 - ## iteration:1, learning problems: 0
+2019-10-19 21:10:37,254 - ## current iteration weight[1, 0]
+2019-10-19 21:10:37,254 - ## current iteration use step 1000
+2019-10-19 21:10:37,254 - ## current iteration use stay370
+2019-10-19 21:10:53,282 - ## current iteration weight[0.9, 0.1]
+2019-10-19 21:10:53,282 - ## current iteration use step 1000
+2019-10-19 21:10:53,282 - ## current iteration use stay267
+2019-10-19 21:11:09,948 - ## current iteration weight[0.8, 0.2]
+2019-10-19 21:11:09,951 - ## current iteration use step 1000
+2019-10-19 21:11:09,951 - ## current iteration use stay265
+2019-10-19 21:11:26,215 - ## current iteration weight[0.7, 0.3]
+2019-10-19 21:11:26,216 - ## current iteration use step 1000
+2019-10-19 21:11:26,216 - ## current iteration use stay321
+2019-10-19 21:11:42,344 - ## current iteration weight[0.6, 0.4]
+2019-10-19 21:11:42,344 - ## current iteration use step 1000
+2019-10-19 21:11:42,344 - ## current iteration use stay333
+2019-10-19 21:11:58,625 - ## current iteration weight[0.5, 0.5]
+2019-10-19 21:11:58,625 - ## current iteration use step 1000
+2019-10-19 21:11:58,625 - ## current iteration use stay328
+2019-10-19 21:12:14,710 - ## current iteration weight[0.4, 0.6]
+2019-10-19 21:12:14,710 - ## current iteration use step 1000
+2019-10-19 21:12:14,710 - ## current iteration use stay328
+2019-10-19 21:12:30,638 - ## current iteration weight[0.3, 0.7]
+2019-10-19 21:12:30,639 - ## current iteration use step 1000
+2019-10-19 21:12:30,639 - ## current iteration use stay208
+2019-10-19 21:12:46,758 - ## current iteration weight[0.2, 0.8]
+2019-10-19 21:12:46,758 - ## current iteration use step 1000
+2019-10-19 21:12:46,758 - ## current iteration use stay182
+2019-10-19 21:13:03,567 - ## current iteration weight[0.1, 0.9]
+2019-10-19 21:13:03,567 - ## current iteration use step 1000
+2019-10-19 21:13:03,568 - ## current iteration use stay165
+2019-10-19 21:13:19,654 - ## current iteration weight[0, 1]
+2019-10-19 21:13:19,656 - ## current iteration use step 1000
+2019-10-19 21:13:19,656 - ## current iteration use stay384
+2019-10-19 21:13:19,661 - ## iteration:1, learning problems: 1
+2019-10-19 21:13:35,736 - ## current iteration weight[1, 0]
+2019-10-19 21:13:35,736 - ## current iteration use step 1000
+2019-10-19 21:13:35,736 - ## current iteration use stay385
+2019-10-19 21:13:51,648 - ## current iteration weight[0.9, 0.1]
+2019-10-19 21:13:51,648 - ## current iteration use step 1000
+2019-10-19 21:13:51,649 - ## current iteration use stay266
+2019-10-19 21:14:07,611 - ## current iteration weight[0.8, 0.2]
+2019-10-19 21:14:07,611 - ## current iteration use step 1000
+2019-10-19 21:14:07,611 - ## current iteration use stay285
+2019-10-19 21:14:23,482 - ## current iteration weight[0.7, 0.3]
+2019-10-19 21:14:23,482 - ## current iteration use step 1000
+2019-10-19 21:14:23,482 - ## current iteration use stay326
+2019-10-19 21:14:39,393 - ## current iteration weight[0.6, 0.4]
+2019-10-19 21:14:39,393 - ## current iteration use step 1000
+2019-10-19 21:14:39,393 - ## current iteration use stay328
+2019-10-19 21:14:55,368 - ## current iteration weight[0.5, 0.5]
+2019-10-19 21:14:55,368 - ## current iteration use step 1000
+2019-10-19 21:14:55,368 - ## current iteration use stay332
+2019-10-19 21:15:11,296 - ## current iteration weight[0.4, 0.6]
+2019-10-19 21:15:11,296 - ## current iteration use step 1000
+2019-10-19 21:15:11,296 - ## current iteration use stay330
+2019-10-19 21:15:27,253 - ## current iteration weight[0.3, 0.7]
+2019-10-19 21:15:27,253 - ## current iteration use step 1000
+2019-10-19 21:15:27,254 - ## current iteration use stay195
+2019-10-19 21:15:43,180 - ## current iteration weight[0.2, 0.8]
+2019-10-19 21:15:43,180 - ## current iteration use step 1000
+2019-10-19 21:15:43,180 - ## current iteration use stay187
+2019-10-19 21:16:00,361 - ## current iteration weight[0.1, 0.9]
+2019-10-19 21:16:00,363 - ## current iteration use step 1000
+2019-10-19 21:16:00,364 - ## current iteration use stay163
+2019-10-19 21:16:16,473 - ## current iteration weight[0, 1]
+2019-10-19 21:16:16,473 - ## current iteration use step 1000
+2019-10-19 21:16:16,473 - ## current iteration use stay364
+2019-10-19 21:16:16,473 - ## iteration:1, learning problems: 2
+2019-10-19 21:16:32,511 - ## current iteration weight[1, 0]
+2019-10-19 21:16:32,511 - ## current iteration use step 1000
+2019-10-19 21:16:32,512 - ## current iteration use stay355
+2019-10-19 21:16:48,694 - ## current iteration weight[0.9, 0.1]
+2019-10-19 21:16:48,694 - ## current iteration use step 1000
+2019-10-19 21:16:48,694 - ## current iteration use stay263
+2019-10-19 21:17:04,728 - ## current iteration weight[0.8, 0.2]
+2019-10-19 21:17:04,728 - ## current iteration use step 1000
+2019-10-19 21:17:04,729 - ## current iteration use stay270
+2019-10-19 21:17:21,597 - ## current iteration weight[0.7, 0.3]
+2019-10-19 21:17:21,597 - ## current iteration use step 1000
+2019-10-19 21:17:21,597 - ## current iteration use stay326
+2019-10-19 21:17:38,052 - ## current iteration weight[0.6, 0.4]
+2019-10-19 21:17:38,054 - ## current iteration use step 1000
+2019-10-19 21:17:38,055 - ## current iteration use stay325
+2019-10-19 21:17:53,999 - ## current iteration weight[0.5, 0.5]
+2019-10-19 21:17:53,999 - ## current iteration use step 1000
+2019-10-19 21:17:53,999 - ## current iteration use stay331
+2019-10-19 21:18:10,552 - ## current iteration weight[0.4, 0.6]
+2019-10-19 21:18:10,554 - ## current iteration use step 1000
+2019-10-19 21:18:10,554 - ## current iteration use stay349
+2019-10-19 21:18:26,683 - ## current iteration weight[0.3, 0.7]
+2019-10-19 21:18:26,683 - ## current iteration use step 1000
+2019-10-19 21:18:26,683 - ## current iteration use stay189
+2019-10-19 21:18:42,656 - ## current iteration weight[0.2, 0.8]
+2019-10-19 21:18:42,657 - ## current iteration use step 1000
+2019-10-19 21:18:42,657 - ## current iteration use stay183
+2019-10-19 21:18:58,746 - ## current iteration weight[0.1, 0.9]
+2019-10-19 21:18:58,747 - ## current iteration use step 1000
+2019-10-19 21:18:58,747 - ## current iteration use stay161
+2019-10-19 21:19:14,854 - ## current iteration weight[0, 1]
+2019-10-19 21:19:14,854 - ## current iteration use step 1000
+2019-10-19 21:19:14,854 - ## current iteration use stay385
+2019-10-20 15:09:30,712 - ## iteration:1, learning problems: 0
+2019-10-20 15:11:58,091 - ## iteration:1, learning problems: 0
+2019-10-20 15:58:59,981 - ## iteration:1, learning problems: 0
+2019-10-20 16:12:52,044 - ## iteration:1, learning problems: 0
+2019-10-22 19:02:36,453 - ## iteration:1, learning problems: 0
+2019-10-22 19:06:10,586 - ## iteration:1, learning problems: 1
+2019-10-22 19:09:47,147 - ## iteration:1, learning problems: 2
+2019-10-22 19:13:32,474 - ## iteration:1, learning problems: 3
+2019-10-22 19:17:10,487 - ## iteration:1, learning problems: 4
+2019-10-22 19:20:45,502 - ## iteration:1, learning problems: 5
+2019-10-22 19:24:10,818 - ## iteration:1, learning problems: 6
+2019-10-22 19:27:26,622 - ## iteration:1, learning problems: 7
+2019-10-22 19:30:43,353 - ## iteration:1, learning problems: 8
+2019-10-22 19:33:59,127 - ## iteration:1, learning problems: 9
+2019-10-22 19:37:30,393 - ## iteration:1, learning problems: 10
+2019-10-22 19:40:59,412 - ## iteration:1, learning problems: 11
+2019-10-22 19:44:31,750 - ## iteration:1, learning problems: 12
+2019-10-22 19:48:02,781 - ## iteration:1, learning problems: 13
+2019-10-22 19:51:32,739 - ## iteration:1, learning problems: 14
+2019-10-22 19:55:00,882 - ## iteration:1, learning problems: 15
+2019-10-22 19:58:31,568 - ## iteration:1, learning problems: 16
+2019-10-22 20:00:12,525 - ## iteration:1, learning problems: 17
+2019-10-22 20:03:09,377 - ## iteration:1, learning problems: 18
+2019-10-22 20:06:36,588 - ## iteration:1, learning problems: 19
+2019-10-22 20:10:01,817 - ## iteration:1, learning problems: 20
+2019-10-22 20:13:29,068 - ## iteration:1, learning problems: 21
+2019-10-22 20:16:57,285 - ## iteration:1, learning problems: 22
+2019-10-22 20:20:23,411 - ## iteration:1, learning problems: 23
+2019-10-22 20:23:51,569 - ## iteration:1, learning problems: 24
+2019-10-22 20:24:58,726 - ## iteration:1, learning problems: 25
+2019-10-22 20:28:19,288 - ## iteration:1, learning problems: 26
+2019-10-22 20:30:15,428 - ## iteration:1, learning problems: 27
+2019-10-22 20:33:29,625 - ## iteration:1, learning problems: 28
+2019-10-22 20:36:49,720 - ## iteration:1, learning problems: 29
+2019-10-22 20:40:14,745 - ## iteration:1, learning problems: 30
+2019-10-22 20:43:54,801 - ## iteration:1, learning problems: 31
+2019-10-22 20:45:42,894 - ## iteration:1, learning problems: 32
+2019-10-22 20:48:58,729 - ## iteration:1, learning problems: 33
+2019-10-22 20:51:33,352 - ## iteration:1, learning problems: 34
+2019-10-22 20:54:32,466 - ## iteration:1, learning problems: 35
+2019-10-22 20:57:49,734 - ## iteration:1, learning problems: 36
+2019-10-22 21:01:05,543 - ## iteration:1, learning problems: 37
+2019-10-22 21:04:19,141 - ## iteration:1, learning problems: 38
+2019-10-22 21:07:33,242 - ## iteration:1, learning problems: 39
+2019-10-22 21:10:52,453 - ## iteration:1, learning problems: 40
+2019-10-22 21:13:49,502 - ## iteration:1, learning problems: 41
+2019-10-22 21:17:05,298 - ## iteration:1, learning problems: 42
+2019-10-22 21:19:24,517 - ## iteration:1, learning problems: 43
+2019-10-22 21:22:38,128 - ## iteration:1, learning problems: 44
+2019-10-22 21:25:29,866 - ## iteration:1, learning problems: 45
+2019-10-22 21:28:44,255 - ## iteration:1, learning problems: 46
+2019-10-22 21:30:29,708 - ## iteration:1, learning problems: 47
+2019-10-22 21:33:02,580 - ## iteration:1, learning problems: 48
+2019-10-22 21:34:47,073 - ## iteration:1, learning problems: 49
+2019-10-22 21:37:30,894 - ## iteration:1, learning problems: 50
+2019-10-22 21:40:50,179 - ## iteration:1, learning problems: 51
+2019-10-22 21:44:06,906 - ## iteration:1, learning problems: 52
+2019-10-22 21:46:39,110 - ## iteration:1, learning problems: 53
+2019-10-22 21:49:27,257 - ## iteration:1, learning problems: 54
+2019-10-22 21:52:41,812 - ## iteration:1, learning problems: 55
+2019-10-22 21:53:59,929 - ## iteration:1, learning problems: 56
+2019-10-22 21:57:13,747 - ## iteration:1, learning problems: 57
+2019-10-22 22:00:27,671 - ## iteration:1, learning problems: 58
+2019-10-22 22:03:41,511 - ## iteration:1, learning problems: 59
+2019-10-22 22:06:52,991 - ## iteration:1, learning problems: 60
+2019-10-22 22:10:06,158 - ## iteration:1, learning problems: 61
+2019-10-22 22:12:24,226 - ## iteration:1, learning problems: 62
+2019-10-22 22:14:20,486 - ## iteration:1, learning problems: 63
+2019-10-22 22:16:22,345 - ## iteration:1, learning problems: 64
+2019-10-22 22:18:47,960 - ## iteration:1, learning problems: 65
+2019-10-22 22:20:52,642 - ## iteration:1, learning problems: 66
+2019-10-22 22:23:16,904 - ## iteration:1, learning problems: 67
+2019-10-22 22:24:32,805 - ## iteration:1, learning problems: 68
+2019-10-22 22:27:16,642 - ## iteration:1, learning problems: 69
+2019-10-22 22:29:10,972 - ## iteration:1, learning problems: 70
+2019-10-22 22:30:27,199 - ## iteration:1, learning problems: 71
+2019-10-22 22:32:44,657 - ## iteration:1, learning problems: 72
+2019-10-22 22:34:20,684 - ## iteration:1, learning problems: 73
+2019-10-22 22:36:16,749 - ## iteration:1, learning problems: 74
+2019-10-22 22:38:46,452 - ## iteration:1, learning problems: 75
+2019-10-22 22:41:11,570 - ## iteration:1, learning problems: 76
+2019-10-22 22:43:11,497 - ## iteration:1, learning problems: 77
+2019-10-22 22:46:05,094 - ## iteration:1, learning problems: 78
+2019-10-22 22:47:33,775 - ## iteration:1, learning problems: 79
+2019-10-22 22:50:44,977 - ## iteration:1, learning problems: 80
+2019-10-22 22:52:01,259 - ## iteration:1, learning problems: 81
+2019-10-22 22:55:13,166 - ## iteration:1, learning problems: 82
+2019-10-22 22:57:22,430 - ## iteration:1, learning problems: 83
+2019-10-22 22:58:37,454 - ## iteration:1, learning problems: 84
+2019-10-22 23:01:49,829 - ## iteration:1, learning problems: 85
+2019-10-22 23:03:50,698 - ## iteration:1, learning problems: 86
+2019-10-22 23:04:53,883 - ## iteration:1, learning problems: 87
+2019-10-22 23:06:37,334 - ## iteration:1, learning problems: 88
+2019-10-22 23:08:01,888 - ## iteration:1, learning problems: 89
+2019-10-22 23:09:33,555 - ## iteration:1, learning problems: 90
+2019-10-22 23:10:57,957 - ## iteration:1, learning problems: 91
+2019-10-22 23:12:32,640 - ## iteration:1, learning problems: 92
+2019-10-22 23:14:13,998 - ## iteration:1, learning problems: 93
+2019-10-22 23:15:12,827 - ## iteration:1, learning problems: 94
+2019-10-22 23:17:55,198 - ## iteration:1, learning problems: 95
+2019-10-22 23:20:33,464 - ## iteration:1, learning problems: 96
+2019-10-22 23:23:45,281 - ## iteration:1, learning problems: 97
+2019-10-22 23:25:36,373 - ## iteration:1, learning problems: 98
+2019-10-22 23:28:48,690 - ## iteration:1, learning problems: 99
+2019-10-22 23:31:36,873 - ## iteration:1, learning problems: 0
+2019-10-22 23:31:39,549 - ## current iteration weight[1, 0]
+2019-10-22 23:31:39,549 - ## current iteration use step 169
+2019-10-22 23:31:39,549 - ## current iteration use stay42
+2019-10-22 23:31:42,256 - ## current iteration weight[0.9, 0.1]
+2019-10-22 23:31:42,256 - ## current iteration use step 172
+2019-10-22 23:31:42,256 - ## current iteration use stay41
+2019-10-22 23:31:46,489 - ## current iteration weight[0.8, 0.2]
+2019-10-22 23:31:46,489 - ## current iteration use step 264
+2019-10-22 23:31:46,489 - ## current iteration use stay94
+2019-10-22 23:32:02,380 - ## current iteration weight[0.7, 0.3]
+2019-10-22 23:32:02,380 - ## current iteration use step 1000
+2019-10-22 23:32:02,380 - ## current iteration use stay351
+2019-10-22 23:32:18,344 - ## current iteration weight[0.6, 0.4]
+2019-10-22 23:32:18,344 - ## current iteration use step 1000
+2019-10-22 23:32:18,344 - ## current iteration use stay467
+2019-10-22 23:32:34,299 - ## current iteration weight[0.5, 0.5]
+2019-10-22 23:32:34,299 - ## current iteration use step 1000
+2019-10-22 23:32:34,299 - ## current iteration use stay528
+2019-10-22 23:32:50,304 - ## current iteration weight[0.4, 0.6]
+2019-10-22 23:32:50,304 - ## current iteration use step 1000
+2019-10-22 23:32:50,304 - ## current iteration use stay518
+2019-10-22 23:33:06,328 - ## current iteration weight[0.3, 0.7]
+2019-10-22 23:33:06,328 - ## current iteration use step 1000
+2019-10-22 23:33:06,328 - ## current iteration use stay535
+2019-10-22 23:33:22,394 - ## current iteration weight[0.2, 0.8]
+2019-10-22 23:33:22,395 - ## current iteration use step 1000
+2019-10-22 23:33:22,395 - ## current iteration use stay562
+2019-10-22 23:33:38,358 - ## current iteration weight[0.1, 0.9]
+2019-10-22 23:33:38,358 - ## current iteration use step 1000
+2019-10-22 23:33:38,358 - ## current iteration use stay619
+2019-10-22 23:33:54,342 - ## current iteration weight[0, 1]
+2019-10-22 23:33:54,342 - ## current iteration use step 1000
+2019-10-22 23:33:54,342 - ## current iteration use stay608
+2019-10-22 23:33:54,346 - ## iteration:1, learning problems: 1
+2019-10-22 23:33:57,039 - ## current iteration weight[1, 0]
+2019-10-22 23:33:57,039 - ## current iteration use step 169
+2019-10-22 23:33:57,039 - ## current iteration use stay44
+2019-10-22 23:34:01,025 - ## current iteration weight[0.9, 0.1]
+2019-10-22 23:34:01,025 - ## current iteration use step 249
+2019-10-22 23:34:01,025 - ## current iteration use stay66
+2019-10-22 23:34:06,535 - ## current iteration weight[0.8, 0.2]
+2019-10-22 23:34:06,535 - ## current iteration use step 340
+2019-10-22 23:34:06,535 - ## current iteration use stay103
+2019-10-22 23:34:22,642 - ## current iteration weight[0.7, 0.3]
+2019-10-22 23:34:22,643 - ## current iteration use step 1000
+2019-10-22 23:34:22,643 - ## current iteration use stay358
+2019-10-22 23:34:38,721 - ## current iteration weight[0.6, 0.4]
+2019-10-22 23:34:38,722 - ## current iteration use step 1000
+2019-10-22 23:34:38,722 - ## current iteration use stay462
+2019-10-22 23:34:54,553 - ## current iteration weight[0.5, 0.5]
+2019-10-22 23:34:54,553 - ## current iteration use step 1000
+2019-10-22 23:34:54,553 - ## current iteration use stay527
+2019-10-22 23:35:10,475 - ## current iteration weight[0.4, 0.6]
+2019-10-22 23:35:10,476 - ## current iteration use step 1000
+2019-10-22 23:35:10,476 - ## current iteration use stay522
+2019-10-22 23:35:26,578 - ## current iteration weight[0.3, 0.7]
+2019-10-22 23:35:26,578 - ## current iteration use step 1000
+2019-10-22 23:35:26,579 - ## current iteration use stay552
+2019-10-22 23:35:42,667 - ## current iteration weight[0.2, 0.8]
+2019-10-22 23:35:42,667 - ## current iteration use step 1000
+2019-10-22 23:35:42,668 - ## current iteration use stay550
+2019-10-22 23:35:58,694 - ## current iteration weight[0.1, 0.9]
+2019-10-22 23:35:58,696 - ## current iteration use step 1000
+2019-10-22 23:35:58,696 - ## current iteration use stay598
+2019-10-22 23:36:14,593 - ## current iteration weight[0, 1]
+2019-10-22 23:36:14,593 - ## current iteration use step 1000
+2019-10-22 23:36:14,593 - ## current iteration use stay624
+2019-10-22 23:36:14,593 - ## iteration:1, learning problems: 2
+2019-10-22 23:36:18,477 - ## current iteration weight[1, 0]
+2019-10-22 23:36:18,477 - ## current iteration use step 245
+2019-10-22 23:36:18,477 - ## current iteration use stay61
+2019-10-22 23:36:21,857 - ## current iteration weight[0.9, 0.1]
+2019-10-22 23:36:21,857 - ## current iteration use step 207
+2019-10-22 23:36:21,857 - ## current iteration use stay56
+2019-10-22 23:36:26,930 - ## current iteration weight[0.8, 0.2]
+2019-10-22 23:36:26,931 - ## current iteration use step 315
+2019-10-22 23:36:26,931 - ## current iteration use stay131
+2019-10-22 23:36:42,795 - ## current iteration weight[0.7, 0.3]
+2019-10-22 23:36:42,795 - ## current iteration use step 1000
+2019-10-22 23:36:42,795 - ## current iteration use stay355
+2019-10-22 23:36:58,783 - ## current iteration weight[0.6, 0.4]
+2019-10-22 23:36:58,783 - ## current iteration use step 1000
+2019-10-22 23:36:58,783 - ## current iteration use stay468
+2019-10-22 23:37:14,732 - ## current iteration weight[0.5, 0.5]
+2019-10-22 23:37:14,734 - ## current iteration use step 1000
+2019-10-22 23:37:14,735 - ## current iteration use stay521
+2019-10-22 23:37:30,701 - ## current iteration weight[0.4, 0.6]
+2019-10-22 23:37:30,701 - ## current iteration use step 1000
+2019-10-22 23:37:30,702 - ## current iteration use stay511
+2019-10-22 23:37:46,530 - ## current iteration weight[0.3, 0.7]
+2019-10-22 23:37:46,530 - ## current iteration use step 1000
+2019-10-22 23:37:46,530 - ## current iteration use stay556
+2019-10-22 23:38:02,666 - ## current iteration weight[0.2, 0.8]
+2019-10-22 23:38:02,668 - ## current iteration use step 1000
+2019-10-22 23:38:02,668 - ## current iteration use stay553
+2019-10-22 23:38:18,775 - ## current iteration weight[0.1, 0.9]
+2019-10-22 23:38:18,776 - ## current iteration use step 1000
+2019-10-22 23:38:18,776 - ## current iteration use stay609
+2019-10-22 23:38:35,814 - ## current iteration weight[0, 1]
+2019-10-22 23:38:35,814 - ## current iteration use step 1000
+2019-10-22 23:38:35,814 - ## current iteration use stay614
+2019-10-22 23:38:35,814 - ## iteration:1, learning problems: 3
+2019-10-22 23:38:38,601 - ## current iteration weight[1, 0]
+2019-10-22 23:38:38,601 - ## current iteration use step 171
+2019-10-22 23:38:38,601 - ## current iteration use stay45
+2019-10-22 23:38:42,535 - ## current iteration weight[0.9, 0.1]
+2019-10-22 23:38:42,536 - ## current iteration use step 246
+2019-10-22 23:38:42,536 - ## current iteration use stay66
+2019-10-22 23:38:47,071 - ## current iteration weight[0.8, 0.2]
+2019-10-22 23:38:47,072 - ## current iteration use step 286
+2019-10-22 23:38:47,072 - ## current iteration use stay109
+2019-10-22 23:39:03,002 - ## current iteration weight[0.7, 0.3]
+2019-10-22 23:39:03,002 - ## current iteration use step 1000
+2019-10-22 23:39:03,002 - ## current iteration use stay359
+2019-10-22 23:39:18,910 - ## current iteration weight[0.6, 0.4]
+2019-10-22 23:39:18,910 - ## current iteration use step 1000
+2019-10-22 23:39:18,910 - ## current iteration use stay473
+2019-10-22 23:39:34,714 - ## current iteration weight[0.5, 0.5]
+2019-10-22 23:39:34,714 - ## current iteration use step 1000
+2019-10-22 23:39:34,714 - ## current iteration use stay511
+2019-10-22 23:39:50,733 - ## current iteration weight[0.4, 0.6]
+2019-10-22 23:39:50,733 - ## current iteration use step 1000
+2019-10-22 23:39:50,733 - ## current iteration use stay514
+2019-10-22 23:40:06,730 - ## current iteration weight[0.3, 0.7]
+2019-10-22 23:40:06,730 - ## current iteration use step 1000
+2019-10-22 23:40:06,730 - ## current iteration use stay538
+2019-10-22 23:40:22,586 - ## current iteration weight[0.2, 0.8]
+2019-10-22 23:40:22,586 - ## current iteration use step 1000
+2019-10-22 23:40:22,586 - ## current iteration use stay549
+2019-10-22 23:40:38,631 - ## current iteration weight[0.1, 0.9]
+2019-10-22 23:40:38,632 - ## current iteration use step 1000
+2019-10-22 23:40:38,632 - ## current iteration use stay603
+2019-10-22 23:40:54,595 - ## current iteration weight[0, 1]
+2019-10-22 23:40:54,595 - ## current iteration use step 1000
+2019-10-22 23:40:54,595 - ## current iteration use stay623
+2019-10-22 23:40:54,595 - ## iteration:1, learning problems: 4
+2019-10-22 23:40:57,497 - ## current iteration weight[1, 0]
+2019-10-22 23:40:57,499 - ## current iteration use step 169
+2019-10-22 23:40:57,499 - ## current iteration use stay42
+2019-10-22 23:41:01,865 - ## current iteration weight[0.9, 0.1]
+2019-10-22 23:41:01,865 - ## current iteration use step 265
+2019-10-22 23:41:01,865 - ## current iteration use stay71
+2019-10-22 23:41:06,518 - ## current iteration weight[0.8, 0.2]
+2019-10-22 23:41:06,519 - ## current iteration use step 286
+2019-10-22 23:41:06,519 - ## current iteration use stay108
+2019-10-22 23:41:22,691 - ## current iteration weight[0.7, 0.3]
+2019-10-22 23:41:22,691 - ## current iteration use step 1000
+2019-10-22 23:41:22,692 - ## current iteration use stay351
+2019-10-22 23:41:38,786 - ## current iteration weight[0.6, 0.4]
+2019-10-22 23:41:38,787 - ## current iteration use step 1000
+2019-10-22 23:41:38,787 - ## current iteration use stay475
+2019-10-22 23:41:54,722 - ## current iteration weight[0.5, 0.5]
+2019-10-22 23:41:54,722 - ## current iteration use step 1000
+2019-10-22 23:41:54,723 - ## current iteration use stay516
+2019-10-22 23:42:10,688 - ## current iteration weight[0.4, 0.6]
+2019-10-22 23:42:10,689 - ## current iteration use step 1000
+2019-10-22 23:42:10,689 - ## current iteration use stay524
+2019-10-22 23:42:26,664 - ## current iteration weight[0.3, 0.7]
+2019-10-22 23:42:26,664 - ## current iteration use step 1000
+2019-10-22 23:42:26,664 - ## current iteration use stay558
+2019-10-22 23:42:42,518 - ## current iteration weight[0.2, 0.8]
+2019-10-22 23:42:42,518 - ## current iteration use step 1000
+2019-10-22 23:42:42,518 - ## current iteration use stay550
+2019-10-22 23:42:58,554 - ## current iteration weight[0.1, 0.9]
+2019-10-22 23:42:58,554 - ## current iteration use step 1000
+2019-10-22 23:42:58,554 - ## current iteration use stay614
+2019-10-22 23:43:14,804 - ## current iteration weight[0, 1]
+2019-10-22 23:43:14,806 - ## current iteration use step 1000
+2019-10-22 23:43:14,807 - ## current iteration use stay622
+2019-10-23 18:13:41,836 - ## iteration:1, learning problems: 0
+2019-10-23 18:18:27,867 - ## iteration:1, learning problems: 1
+2019-10-23 18:23:05,682 - ## iteration:1, learning problems: 2
+2019-10-23 18:27:33,019 - ## iteration:1, learning problems: 3
+2019-10-23 18:32:39,574 - ## iteration:1, learning problems: 4
+2019-10-23 18:37:09,988 - ## iteration:1, learning problems: 5
+2019-10-23 18:41:42,202 - ## iteration:1, learning problems: 6
+2019-10-23 18:46:17,592 - ## iteration:1, learning problems: 7
+2019-10-23 18:51:03,698 - ## iteration:1, learning problems: 8
+2019-10-23 18:55:34,971 - ## iteration:1, learning problems: 9
+2019-10-23 19:00:48,647 - ## iteration:1, learning problems: 10
+2019-10-23 19:06:09,514 - ## iteration:1, learning problems: 11
+2019-10-23 19:12:07,841 - ## iteration:1, learning problems: 12
+2019-10-23 19:17:12,325 - ## iteration:1, learning problems: 13
+2019-10-23 19:21:42,233 - ## iteration:1, learning problems: 14
+2019-10-23 19:26:12,097 - ## iteration:1, learning problems: 15
+2019-10-23 19:30:35,606 - ## iteration:1, learning problems: 16
+2019-10-23 19:34:52,451 - ## iteration:1, learning problems: 17
+2019-10-23 19:39:24,623 - ## iteration:1, learning problems: 18
+2019-10-23 19:44:05,212 - ## iteration:1, learning problems: 19
+2019-10-23 19:48:40,752 - ## iteration:1, learning problems: 20
+2019-10-23 19:53:06,647 - ## iteration:1, learning problems: 21
+2019-10-23 19:57:22,154 - ## iteration:1, learning problems: 22
+2019-10-23 20:01:36,572 - ## iteration:1, learning problems: 23
+2019-10-23 20:05:50,369 - ## iteration:1, learning problems: 24
+2019-10-23 20:10:10,260 - ## iteration:1, learning problems: 25
+2019-10-23 20:15:17,307 - ## iteration:1, learning problems: 26
+2019-10-23 20:20:08,662 - ## iteration:1, learning problems: 27
+2019-10-23 20:24:59,493 - ## iteration:1, learning problems: 28
+2019-10-23 20:29:54,861 - ## iteration:1, learning problems: 29
+2019-10-23 20:34:39,752 - ## iteration:1, learning problems: 30
+2019-10-23 20:40:01,695 - ## iteration:1, learning problems: 31
+2019-10-23 20:45:20,804 - ## iteration:1, learning problems: 32
+2019-10-23 20:50:05,980 - ## iteration:1, learning problems: 33
+2019-10-23 20:55:33,015 - ## iteration:1, learning problems: 34
+2019-10-23 21:00:46,670 - ## iteration:1, learning problems: 35
+2019-10-23 21:06:13,602 - ## iteration:1, learning problems: 36
+2019-10-23 21:11:59,135 - ## iteration:1, learning problems: 37
+2019-10-23 21:17:07,188 - ## iteration:1, learning problems: 38
+2019-10-23 21:21:39,707 - ## iteration:1, learning problems: 39
+2019-10-23 21:26:09,069 - ## iteration:1, learning problems: 40
+2019-10-23 21:30:33,994 - ## iteration:1, learning problems: 41
+2019-10-23 21:34:49,336 - ## iteration:1, learning problems: 42
+2019-10-23 21:39:04,875 - ## iteration:1, learning problems: 43
+2019-10-23 21:43:21,245 - ## iteration:1, learning problems: 44
+2019-10-23 21:47:35,462 - ## iteration:1, learning problems: 45
+2019-10-23 21:52:04,160 - ## iteration:1, learning problems: 46
+2019-10-23 21:56:36,121 - ## iteration:1, learning problems: 47
+2019-10-23 22:01:27,366 - ## iteration:1, learning problems: 48
+2019-10-23 22:06:20,111 - ## iteration:1, learning problems: 49
+2019-10-23 22:11:16,949 - ## iteration:1, learning problems: 50
+2019-10-23 22:15:53,884 - ## iteration:1, learning problems: 51
+2019-10-23 22:20:48,530 - ## iteration:1, learning problems: 52
+2019-10-23 22:25:35,008 - ## iteration:1, learning problems: 53
+2019-10-23 22:30:48,673 - ## iteration:1, learning problems: 54
+2019-10-23 22:37:37,981 - ## iteration:1, learning problems: 55
+2019-10-23 22:42:43,058 - ## iteration:1, learning problems: 56
+2019-10-23 22:48:29,697 - ## iteration:1, learning problems: 57
+2019-10-23 22:54:27,113 - ## iteration:1, learning problems: 58
+2019-10-23 22:59:48,115 - ## iteration:1, learning problems: 59
+2019-10-23 23:04:35,499 - ## iteration:1, learning problems: 60
+2019-10-23 23:09:08,583 - ## iteration:1, learning problems: 61
+2019-10-23 23:13:35,320 - ## iteration:1, learning problems: 62
+2019-10-23 23:17:59,217 - ## iteration:1, learning problems: 63
+2019-10-23 23:22:19,765 - ## iteration:1, learning problems: 64
+2019-10-23 23:26:36,378 - ## iteration:1, learning problems: 65
+2019-10-23 23:31:00,019 - ## iteration:1, learning problems: 66
+2019-10-23 23:35:16,323 - ## iteration:1, learning problems: 67
+2019-10-23 23:39:31,600 - ## iteration:1, learning problems: 68
+2019-10-23 23:43:48,125 - ## iteration:1, learning problems: 69
+2019-10-23 23:48:03,823 - ## iteration:1, learning problems: 70
+2019-10-23 23:52:17,834 - ## iteration:1, learning problems: 71
+2019-10-23 23:56:33,289 - ## iteration:1, learning problems: 72
+2019-10-24 00:00:48,180 - ## iteration:1, learning problems: 73
+2019-10-24 00:05:03,385 - ## iteration:1, learning problems: 74
+2019-10-24 00:09:23,493 - ## iteration:1, learning problems: 75
+2019-10-24 00:13:40,577 - ## iteration:1, learning problems: 76
+2019-10-24 00:17:55,438 - ## iteration:1, learning problems: 77
+2019-10-24 00:22:09,625 - ## iteration:1, learning problems: 78
+2019-10-24 00:26:24,202 - ## iteration:1, learning problems: 79
+2019-10-24 00:30:42,358 - ## iteration:1, learning problems: 80
+2019-10-24 00:34:57,128 - ## iteration:1, learning problems: 81
+2019-10-24 00:39:11,222 - ## iteration:1, learning problems: 82
+2019-10-24 00:43:27,163 - ## iteration:1, learning problems: 83
+2019-10-24 00:47:40,939 - ## iteration:1, learning problems: 84
+2019-10-24 00:51:54,990 - ## iteration:1, learning problems: 85
+2019-10-24 00:56:09,276 - ## iteration:1, learning problems: 86
+2019-10-24 01:00:23,186 - ## iteration:1, learning problems: 87
+2019-10-24 01:04:37,185 - ## iteration:1, learning problems: 88
+2019-10-24 01:08:50,821 - ## iteration:1, learning problems: 89
+2019-10-24 01:13:05,078 - ## iteration:1, learning problems: 90
+2019-10-24 01:17:19,089 - ## iteration:1, learning problems: 91
+2019-10-24 01:21:33,380 - ## iteration:1, learning problems: 92
+2019-10-24 01:25:47,337 - ## iteration:1, learning problems: 93
+2019-10-24 01:30:01,083 - ## iteration:1, learning problems: 94
+2019-10-24 01:34:19,142 - ## iteration:1, learning problems: 95
+2019-10-24 01:38:31,757 - ## iteration:1, learning problems: 96
+2019-10-24 01:42:46,439 - ## iteration:1, learning problems: 97
+2019-10-24 01:47:00,356 - ## iteration:1, learning problems: 98
+2019-10-24 01:51:13,441 - ## iteration:1, learning problems: 99
+2019-10-24 01:56:25,489 - ## iteration:1, learning problems: 0
+2019-10-24 01:56:41,523 - ## current iteration weight[0.9, 0.1]
+2019-10-24 01:56:41,523 - ## current iteration use step 1000
+2019-10-24 01:56:41,523 - ## current iteration use stay770
+2019-10-24 01:56:57,488 - ## current iteration weight[0.91, 0.09]
+2019-10-24 01:56:57,488 - ## current iteration use step 1000
+2019-10-24 01:56:57,488 - ## current iteration use stay903
+2019-10-24 01:57:13,519 - ## current iteration weight[0.92, 0.08]
+2019-10-24 01:57:13,520 - ## current iteration use step 1000
+2019-10-24 01:57:13,520 - ## current iteration use stay935
+2019-10-24 01:57:29,546 - ## current iteration weight[0.93, 0.07]
+2019-10-24 01:57:29,547 - ## current iteration use step 1000
+2019-10-24 01:57:29,547 - ## current iteration use stay1000
+2019-10-24 01:57:45,365 - ## current iteration weight[0.94, 0.06]
+2019-10-24 01:57:45,365 - ## current iteration use step 1000
+2019-10-24 01:57:45,366 - ## current iteration use stay921
+2019-10-24 01:58:01,428 - ## current iteration weight[0.95, 0.05]
+2019-10-24 01:58:01,428 - ## current iteration use step 1000
+2019-10-24 01:58:01,428 - ## current iteration use stay953
+2019-10-24 01:58:17,728 - ## current iteration weight[0.94, 0.06]
+2019-10-24 01:58:17,728 - ## current iteration use step 1000
+2019-10-24 01:58:17,728 - ## current iteration use stay920
+2019-10-24 01:58:33,735 - ## current iteration weight[0.93, 0.07]
+2019-10-24 01:58:33,735 - ## current iteration use step 1000
+2019-10-24 01:58:33,735 - ## current iteration use stay899
+2019-10-24 01:58:49,676 - ## current iteration weight[0.94, 0.06]
+2019-10-24 01:58:49,676 - ## current iteration use step 1000
+2019-10-24 01:58:49,676 - ## current iteration use stay899
+2019-10-24 01:59:05,795 - ## current iteration weight[0.95, 0.05]
+2019-10-24 01:59:05,795 - ## current iteration use step 1000
+2019-10-24 01:59:05,795 - ## current iteration use stay1000
+2019-10-24 01:59:21,755 - ## current iteration weight[0.96, 0.04]
+2019-10-24 01:59:21,756 - ## current iteration use step 1000
+2019-10-24 01:59:21,756 - ## current iteration use stay918
+2019-10-24 01:59:37,712 - ## current iteration weight[0.97, 0.03]
+2019-10-24 01:59:37,715 - ## current iteration use step 1000
+2019-10-24 01:59:37,716 - ## current iteration use stay906
+2019-10-24 01:59:53,671 - ## current iteration weight[0.98, 0.02]
+2019-10-24 01:59:53,672 - ## current iteration use step 1000
+2019-10-24 01:59:53,672 - ## current iteration use stay1000
+2019-10-24 02:00:09,743 - ## current iteration weight[0.99, 0.01]
+2019-10-24 02:00:09,743 - ## current iteration use step 1000
+2019-10-24 02:00:09,743 - ## current iteration use stay944
+2019-10-24 02:00:25,831 - ## current iteration weight[0.9, 0.1]
+2019-10-24 02:00:25,831 - ## current iteration use step 1000
+2019-10-24 02:00:25,831 - ## current iteration use stay781
+2019-10-24 02:00:25,840 - ## iteration:1, learning problems: 1
+2019-10-24 02:00:41,780 - ## current iteration weight[0.9, 0.1]
+2019-10-24 02:00:41,780 - ## current iteration use step 1000
+2019-10-24 02:00:41,781 - ## current iteration use stay781
+2019-10-24 02:00:58,072 - ## current iteration weight[0.91, 0.09]
+2019-10-24 02:00:58,072 - ## current iteration use step 1000
+2019-10-24 02:00:58,072 - ## current iteration use stay1000
+2019-10-24 02:01:14,114 - ## current iteration weight[0.92, 0.08]
+2019-10-24 02:01:14,114 - ## current iteration use step 1000
+2019-10-24 02:01:14,114 - ## current iteration use stay930
+2019-10-24 02:01:30,328 - ## current iteration weight[0.93, 0.07]
+2019-10-24 02:01:30,328 - ## current iteration use step 1000
+2019-10-24 02:01:30,329 - ## current iteration use stay1000
+2019-10-24 02:01:46,440 - ## current iteration weight[0.94, 0.06]
+2019-10-24 02:01:46,440 - ## current iteration use step 1000
+2019-10-24 02:01:46,440 - ## current iteration use stay931
+2019-10-24 02:02:02,404 - ## current iteration weight[0.95, 0.05]
+2019-10-24 02:02:02,404 - ## current iteration use step 1000
+2019-10-24 02:02:02,405 - ## current iteration use stay921
+2019-10-24 02:02:18,437 - ## current iteration weight[0.94, 0.06]
+2019-10-24 02:02:18,437 - ## current iteration use step 1000
+2019-10-24 02:02:18,437 - ## current iteration use stay999
+2019-10-24 02:02:34,412 - ## current iteration weight[0.93, 0.07]
+2019-10-24 02:02:34,412 - ## current iteration use step 1000
+2019-10-24 02:02:34,412 - ## current iteration use stay1000
+2019-10-24 02:02:50,360 - ## current iteration weight[0.94, 0.06]
+2019-10-24 02:02:50,360 - ## current iteration use step 1000
+2019-10-24 02:02:50,361 - ## current iteration use stay951
+2019-10-24 02:03:06,488 - ## current iteration weight[0.95, 0.05]
+2019-10-24 02:03:06,488 - ## current iteration use step 1000
+2019-10-24 02:03:06,488 - ## current iteration use stay967
+2019-10-24 02:03:22,774 - ## current iteration weight[0.96, 0.04]
+2019-10-24 02:03:22,774 - ## current iteration use step 1000
+2019-10-24 02:03:22,775 - ## current iteration use stay938
+2019-10-24 02:03:38,953 - ## current iteration weight[0.97, 0.03]
+2019-10-24 02:03:38,954 - ## current iteration use step 1000
+2019-10-24 02:03:38,954 - ## current iteration use stay1000
+2019-10-24 02:03:54,977 - ## current iteration weight[0.98, 0.02]
+2019-10-24 02:03:54,977 - ## current iteration use step 1000
+2019-10-24 02:03:54,977 - ## current iteration use stay923
+2019-10-24 02:04:11,254 - ## current iteration weight[0.99, 0.01]
+2019-10-24 02:04:11,254 - ## current iteration use step 1000
+2019-10-24 02:04:11,254 - ## current iteration use stay908
+2019-10-24 02:04:27,185 - ## current iteration weight[0.9, 0.1]
+2019-10-24 02:04:27,185 - ## current iteration use step 1000
+2019-10-24 02:04:27,185 - ## current iteration use stay807
+2019-10-24 02:04:27,185 - ## iteration:1, learning problems: 2
+2019-10-24 02:04:43,255 - ## current iteration weight[0.9, 0.1]
+2019-10-24 02:04:43,255 - ## current iteration use step 1000
+2019-10-24 02:04:43,255 - ## current iteration use stay786
+2019-10-24 02:04:59,353 - ## current iteration weight[0.91, 0.09]
+2019-10-24 02:04:59,353 - ## current iteration use step 1000
+2019-10-24 02:04:59,353 - ## current iteration use stay925
+2019-10-24 02:05:15,257 - ## current iteration weight[0.92, 0.08]
+2019-10-24 02:05:15,257 - ## current iteration use step 1000
+2019-10-24 02:05:15,258 - ## current iteration use stay921
+2019-10-24 02:05:31,400 - ## current iteration weight[0.93, 0.07]
+2019-10-24 02:05:31,400 - ## current iteration use step 1000
+2019-10-24 02:05:31,400 - ## current iteration use stay906
+2019-10-24 02:05:47,335 - ## current iteration weight[0.94, 0.06]
+2019-10-24 02:05:47,335 - ## current iteration use step 1000
+2019-10-24 02:05:47,335 - ## current iteration use stay1000
+2019-10-24 02:06:06,407 - ## current iteration weight[0.95, 0.05]
+2019-10-24 02:06:06,408 - ## current iteration use step 1000
+2019-10-24 02:06:06,409 - ## current iteration use stay933
+2019-10-24 02:06:25,828 - ## current iteration weight[0.94, 0.06]
+2019-10-24 02:06:25,829 - ## current iteration use step 1000
+2019-10-24 02:06:25,829 - ## current iteration use stay1000
+2019-10-24 02:06:44,238 - ## current iteration weight[0.93, 0.07]
+2019-10-24 02:06:44,238 - ## current iteration use step 1000
+2019-10-24 02:06:44,238 - ## current iteration use stay906
+2019-10-24 02:07:00,202 - ## current iteration weight[0.94, 0.06]
+2019-10-24 02:07:00,202 - ## current iteration use step 1000
+2019-10-24 02:07:00,202 - ## current iteration use stay1000
+2019-10-24 02:07:16,306 - ## current iteration weight[0.95, 0.05]
+2019-10-24 02:07:16,306 - ## current iteration use step 1000
+2019-10-24 02:07:16,306 - ## current iteration use stay900
+2019-10-24 02:07:32,278 - ## current iteration weight[0.96, 0.04]
+2019-10-24 02:07:32,278 - ## current iteration use step 1000
+2019-10-24 02:07:32,279 - ## current iteration use stay927
+2019-10-24 02:07:48,252 - ## current iteration weight[0.97, 0.03]
+2019-10-24 02:07:48,253 - ## current iteration use step 1000
+2019-10-24 02:07:48,253 - ## current iteration use stay1000
+2019-10-24 02:08:04,511 - ## current iteration weight[0.98, 0.02]
+2019-10-24 02:08:04,511 - ## current iteration use step 1000
+2019-10-24 02:08:04,511 - ## current iteration use stay923
+2019-10-24 02:08:20,561 - ## current iteration weight[0.99, 0.01]
+2019-10-24 02:08:20,561 - ## current iteration use step 1000
+2019-10-24 02:08:20,561 - ## current iteration use stay1000
+2019-10-24 02:08:36,489 - ## current iteration weight[0.9, 0.1]
+2019-10-24 02:08:36,490 - ## current iteration use step 1000
+2019-10-24 02:08:36,490 - ## current iteration use stay759
+2019-10-24 02:08:36,490 - ## iteration:1, learning problems: 3
+2019-10-24 02:08:52,488 - ## current iteration weight[0.9, 0.1]
+2019-10-24 02:08:52,488 - ## current iteration use step 1000
+2019-10-24 02:08:52,488 - ## current iteration use stay775
+2019-10-24 02:09:08,695 - ## current iteration weight[0.91, 0.09]
+2019-10-24 02:09:08,695 - ## current iteration use step 1000
+2019-10-24 02:09:08,695 - ## current iteration use stay926
+2019-10-24 02:09:24,570 - ## current iteration weight[0.92, 0.08]
+2019-10-24 02:09:24,570 - ## current iteration use step 1000
+2019-10-24 02:09:24,570 - ## current iteration use stay947
+2019-10-24 02:09:40,598 - ## current iteration weight[0.93, 0.07]
+2019-10-24 02:09:40,598 - ## current iteration use step 1000
+2019-10-24 02:09:40,598 - ## current iteration use stay925
+2019-10-24 02:09:56,552 - ## current iteration weight[0.94, 0.06]
+2019-10-24 02:09:56,552 - ## current iteration use step 1000
+2019-10-24 02:09:56,553 - ## current iteration use stay926
+2019-10-24 02:10:12,743 - ## current iteration weight[0.95, 0.05]
+2019-10-24 02:10:12,743 - ## current iteration use step 1000
+2019-10-24 02:10:12,743 - ## current iteration use stay922
+2019-10-24 02:10:28,984 - ## current iteration weight[0.94, 0.06]
+2019-10-24 02:10:28,984 - ## current iteration use step 1000
+2019-10-24 02:10:28,984 - ## current iteration use stay1000
+2019-10-24 02:10:44,890 - ## current iteration weight[0.93, 0.07]
+2019-10-24 02:10:44,890 - ## current iteration use step 1000
+2019-10-24 02:10:44,890 - ## current iteration use stay926
+2019-10-24 02:11:01,051 - ## current iteration weight[0.94, 0.06]
+2019-10-24 02:11:01,052 - ## current iteration use step 1000
+2019-10-24 02:11:01,052 - ## current iteration use stay899
+2019-10-24 02:11:17,205 - ## current iteration weight[0.95, 0.05]
+2019-10-24 02:11:17,205 - ## current iteration use step 1000
+2019-10-24 02:11:17,205 - ## current iteration use stay900
+2019-10-24 02:11:33,160 - ## current iteration weight[0.96, 0.04]
+2019-10-24 02:11:33,160 - ## current iteration use step 1000
+2019-10-24 02:11:33,160 - ## current iteration use stay919
+2019-10-24 02:11:49,298 - ## current iteration weight[0.97, 0.03]
+2019-10-24 02:11:49,299 - ## current iteration use step 1000
+2019-10-24 02:11:49,299 - ## current iteration use stay1000
+2019-10-24 02:12:05,178 - ## current iteration weight[0.98, 0.02]
+2019-10-24 02:12:05,178 - ## current iteration use step 1000
+2019-10-24 02:12:05,178 - ## current iteration use stay935
+2019-10-24 02:12:21,139 - ## current iteration weight[0.99, 0.01]
+2019-10-24 02:12:21,139 - ## current iteration use step 1000
+2019-10-24 02:12:21,139 - ## current iteration use stay905
+2019-10-24 02:12:37,301 - ## current iteration weight[0.9, 0.1]
+2019-10-24 02:12:37,303 - ## current iteration use step 1000
+2019-10-24 02:12:37,304 - ## current iteration use stay788
+2019-10-24 02:12:37,304 - ## iteration:1, learning problems: 4
+2019-10-24 02:12:53,221 - ## current iteration weight[0.9, 0.1]
+2019-10-24 02:12:53,221 - ## current iteration use step 1000
+2019-10-24 02:12:53,221 - ## current iteration use stay757
+2019-10-24 02:13:09,582 - ## current iteration weight[0.91, 0.09]
+2019-10-24 02:13:09,582 - ## current iteration use step 1000
+2019-10-24 02:13:09,582 - ## current iteration use stay927
+2019-10-24 02:13:25,703 - ## current iteration weight[0.92, 0.08]
+2019-10-24 02:13:25,703 - ## current iteration use step 1000
+2019-10-24 02:13:25,703 - ## current iteration use stay906
+2019-10-24 02:13:41,794 - ## current iteration weight[0.93, 0.07]
+2019-10-24 02:13:41,795 - ## current iteration use step 1000
+2019-10-24 02:13:41,795 - ## current iteration use stay903
+2019-10-24 02:13:57,725 - ## current iteration weight[0.94, 0.06]
+2019-10-24 02:13:57,725 - ## current iteration use step 1000
+2019-10-24 02:13:57,725 - ## current iteration use stay896
+2019-10-24 02:14:13,679 - ## current iteration weight[0.95, 0.05]
+2019-10-24 02:14:13,679 - ## current iteration use step 1000
+2019-10-24 02:14:13,679 - ## current iteration use stay926
+2019-10-24 02:14:29,561 - ## current iteration weight[0.94, 0.06]
+2019-10-24 02:14:29,561 - ## current iteration use step 1000
+2019-10-24 02:14:29,561 - ## current iteration use stay919
+2019-10-24 02:14:45,540 - ## current iteration weight[0.93, 0.07]
+2019-10-24 02:14:45,540 - ## current iteration use step 1000
+2019-10-24 02:14:45,540 - ## current iteration use stay999
+2019-10-24 02:15:01,719 - ## current iteration weight[0.94, 0.06]
+2019-10-24 02:15:01,719 - ## current iteration use step 1000
+2019-10-24 02:15:01,720 - ## current iteration use stay945
+2019-10-24 02:15:17,821 - ## current iteration weight[0.95, 0.05]
+2019-10-24 02:15:17,821 - ## current iteration use step 1000
+2019-10-24 02:15:17,821 - ## current iteration use stay1000
+2019-10-24 02:15:33,829 - ## current iteration weight[0.96, 0.04]
+2019-10-24 02:15:33,830 - ## current iteration use step 1000
+2019-10-24 02:15:33,830 - ## current iteration use stay930
+2019-10-24 02:15:49,695 - ## current iteration weight[0.97, 0.03]
+2019-10-24 02:15:49,696 - ## current iteration use step 1000
+2019-10-24 02:15:49,696 - ## current iteration use stay903
+2019-10-24 02:16:06,071 - ## current iteration weight[0.98, 0.02]
+2019-10-24 02:16:06,073 - ## current iteration use step 1000
+2019-10-24 02:16:06,073 - ## current iteration use stay999
+2019-10-24 02:16:22,029 - ## current iteration weight[0.99, 0.01]
+2019-10-24 02:16:22,030 - ## current iteration use step 1000
+2019-10-24 02:16:22,030 - ## current iteration use stay898
+2019-10-24 02:16:38,136 - ## current iteration weight[0.9, 0.1]
+2019-10-24 02:16:38,136 - ## current iteration use step 1000
+2019-10-24 02:16:38,136 - ## current iteration use stay780
+2019-10-24 17:50:37,417 - ## iteration:1, learning problems: 0
+2019-10-24 17:52:08,983 - ## iteration:1, learning problems: 1
+2019-10-24 17:53:43,319 - ## iteration:1, learning problems: 2
+2019-10-24 17:55:16,040 - ## iteration:1, learning problems: 3
+2019-10-24 17:56:39,090 - ## iteration:1, learning problems: 4
+2019-10-24 17:58:00,807 - ## iteration:1, learning problems: 5
+2019-10-24 17:59:23,352 - ## iteration:1, learning problems: 6
+2019-10-24 18:00:46,044 - ## iteration:1, learning problems: 7
+2019-10-24 18:02:10,176 - ## iteration:1, learning problems: 8
+2019-10-24 18:03:32,997 - ## iteration:1, learning problems: 9
+2019-10-24 18:04:55,774 - ## iteration:1, learning problems: 10
+2019-10-24 18:06:16,597 - ## iteration:1, learning problems: 11
+2019-10-24 18:07:36,268 - ## iteration:1, learning problems: 12
+2019-10-24 18:08:46,994 - ## iteration:1, learning problems: 13
+2019-10-24 18:09:35,358 - ## iteration:1, learning problems: 14
+2019-10-24 18:10:54,493 - ## iteration:1, learning problems: 15
+2019-10-24 18:12:22,714 - ## iteration:1, learning problems: 16
+2019-10-24 18:13:43,379 - ## iteration:1, learning problems: 17
+2019-10-24 18:14:56,271 - ## iteration:1, learning problems: 18
+2019-10-24 18:15:51,803 - ## iteration:1, learning problems: 19
+2019-10-24 18:17:12,056 - ## iteration:1, learning problems: 20
+2019-10-24 18:18:31,830 - ## iteration:1, learning problems: 21
+2019-10-24 18:19:21,689 - ## iteration:1, learning problems: 22
+2019-10-24 18:20:41,216 - ## iteration:1, learning problems: 23
+2019-10-24 18:22:01,453 - ## iteration:1, learning problems: 24
+2019-10-24 18:23:21,540 - ## iteration:1, learning problems: 25
+2019-10-24 18:24:41,452 - ## iteration:1, learning problems: 26
+2019-10-24 18:26:01,752 - ## iteration:1, learning problems: 27
+2019-10-24 18:27:21,763 - ## iteration:1, learning problems: 28
+2019-10-24 18:28:33,369 - ## iteration:1, learning problems: 29
+2019-10-24 18:29:30,224 - ## iteration:1, learning problems: 30
+2019-10-24 18:30:50,567 - ## iteration:1, learning problems: 31
+2019-10-24 18:31:49,087 - ## iteration:1, learning problems: 32
+2019-10-24 18:33:01,283 - ## iteration:1, learning problems: 33
+2019-10-24 18:33:56,524 - ## iteration:1, learning problems: 34
+2019-10-24 18:35:04,009 - ## iteration:1, learning problems: 35
+2019-10-24 18:36:23,860 - ## iteration:1, learning problems: 36
+2019-10-24 18:37:43,578 - ## iteration:1, learning problems: 37
+2019-10-24 18:38:57,615 - ## iteration:1, learning problems: 38
+2019-10-24 18:39:43,639 - ## iteration:1, learning problems: 39
+2019-10-24 18:40:50,936 - ## iteration:1, learning problems: 40
+2019-10-24 18:41:37,063 - ## iteration:1, learning problems: 41
+2019-10-24 18:42:29,013 - ## iteration:1, learning problems: 42
+2019-10-24 18:43:49,324 - ## iteration:1, learning problems: 43
+2019-10-24 18:45:01,805 - ## iteration:1, learning problems: 44
+2019-10-24 18:46:08,460 - ## iteration:1, learning problems: 45
+2019-10-24 18:46:52,207 - ## iteration:1, learning problems: 46
+2019-10-24 18:48:12,042 - ## iteration:1, learning problems: 47
+2019-10-24 18:49:32,013 - ## iteration:1, learning problems: 48
+2019-10-24 18:50:37,368 - ## iteration:1, learning problems: 49
+2019-10-24 18:51:09,494 - ## iteration:1, learning problems: 50
+2019-10-24 18:52:06,285 - ## iteration:1, learning problems: 51
+2019-10-24 18:53:12,419 - ## iteration:1, learning problems: 52
+2019-10-24 18:54:30,345 - ## iteration:1, learning problems: 53
+2019-10-24 18:55:16,963 - ## iteration:1, learning problems: 54
+2019-10-24 18:55:56,858 - ## iteration:1, learning problems: 55
+2019-10-24 18:56:33,328 - ## iteration:1, learning problems: 56
+2019-10-24 18:57:06,920 - ## iteration:1, learning problems: 57
+2019-10-24 18:57:37,200 - ## iteration:1, learning problems: 58
+2019-10-24 18:58:44,923 - ## iteration:1, learning problems: 59
+2019-10-24 18:59:28,705 - ## iteration:1, learning problems: 60
+2019-10-24 19:00:40,963 - ## iteration:1, learning problems: 61
+2019-10-24 19:02:03,293 - ## iteration:1, learning problems: 62
+2019-10-24 19:03:01,067 - ## iteration:1, learning problems: 63
+2019-10-24 19:03:44,383 - ## iteration:1, learning problems: 64
+2019-10-24 19:05:04,219 - ## iteration:1, learning problems: 65
+2019-10-24 19:06:24,531 - ## iteration:1, learning problems: 66
+2019-10-24 19:07:18,471 - ## iteration:1, learning problems: 67
+2019-10-24 19:08:39,153 - ## iteration:1, learning problems: 68
+2019-10-24 19:09:59,369 - ## iteration:1, learning problems: 69
+2019-10-24 19:11:20,275 - ## iteration:1, learning problems: 70
+2019-10-24 19:12:40,369 - ## iteration:1, learning problems: 71
+2019-10-24 19:13:58,458 - ## iteration:1, learning problems: 72
+2019-10-24 19:15:18,047 - ## iteration:1, learning problems: 73
+2019-10-24 19:16:23,718 - ## iteration:1, learning problems: 74
+2019-10-24 19:17:43,809 - ## iteration:1, learning problems: 75
+2019-10-24 19:18:32,588 - ## iteration:1, learning problems: 76
+2019-10-24 19:19:52,371 - ## iteration:1, learning problems: 77
+2019-10-24 19:21:12,148 - ## iteration:1, learning problems: 78
+2019-10-24 19:22:31,979 - ## iteration:1, learning problems: 79
+2019-10-24 19:23:12,176 - ## iteration:1, learning problems: 80
+2019-10-24 19:24:28,781 - ## iteration:1, learning problems: 81
+2019-10-24 19:25:17,484 - ## iteration:1, learning problems: 82
+2019-10-24 19:26:24,439 - ## iteration:1, learning problems: 83
+2019-10-24 19:27:27,520 - ## iteration:1, learning problems: 84
+2019-10-24 19:28:15,483 - ## iteration:1, learning problems: 85
+2019-10-24 19:29:35,183 - ## iteration:1, learning problems: 86
+2019-10-24 19:30:06,871 - ## iteration:1, learning problems: 87
+2019-10-24 19:31:28,046 - ## iteration:1, learning problems: 88
+2019-10-24 19:32:20,770 - ## iteration:1, learning problems: 89
+2019-10-24 19:33:41,709 - ## iteration:1, learning problems: 90
+2019-10-24 19:35:01,378 - ## iteration:1, learning problems: 91
+2019-10-24 19:36:21,946 - ## iteration:1, learning problems: 92
+2019-10-24 19:37:42,066 - ## iteration:1, learning problems: 93
+2019-10-24 19:38:12,534 - ## iteration:1, learning problems: 94
+2019-10-24 19:39:32,314 - ## iteration:1, learning problems: 95
+2019-10-24 19:40:27,439 - ## iteration:1, learning problems: 96
+2019-10-24 19:41:14,591 - ## iteration:1, learning problems: 97
+2019-10-24 19:41:53,084 - ## iteration:1, learning problems: 98
+2019-10-24 19:42:28,149 - ## iteration:1, learning problems: 99
+2019-10-24 19:43:33,456 - ## iteration:1, learning problems: 0
+2019-10-24 19:43:40,257 - ## current iteration weight[1, 0]
+2019-10-24 19:43:40,257 - ## current iteration use step 626
+2019-10-24 19:43:40,257 - ## current iteration use stay116
+2019-10-24 19:43:42,868 - ## current iteration weight[0.999, 0.001]
+2019-10-24 19:43:42,868 - ## current iteration use step 241
+2019-10-24 19:43:42,868 - ## current iteration use stay53
+2019-10-24 19:43:45,685 - ## current iteration weight[0.998, 0.002]
+2019-10-24 19:43:45,685 - ## current iteration use step 262
+2019-10-24 19:43:45,685 - ## current iteration use stay88
+2019-10-24 19:43:48,460 - ## current iteration weight[0.997, 0.003]
+2019-10-24 19:43:48,460 - ## current iteration use step 259
+2019-10-24 19:43:48,460 - ## current iteration use stay79
+2019-10-24 19:43:51,175 - ## current iteration weight[0.996, 0.004]
+2019-10-24 19:43:51,175 - ## current iteration use step 251
+2019-10-24 19:43:51,175 - ## current iteration use stay64
+2019-10-24 19:43:53,564 - ## current iteration weight[0.995, 0.005]
+2019-10-24 19:43:53,565 - ## current iteration use step 222
+2019-10-24 19:43:53,565 - ## current iteration use stay48
+2019-10-24 19:44:03,964 - ## current iteration weight[0.994, 0.006]
+2019-10-24 19:44:03,965 - ## current iteration use step 1000
+2019-10-24 19:44:03,965 - ## current iteration use stay148
+2019-10-24 19:44:03,969 - ## iteration:1, learning problems: 1
+2019-10-24 19:44:14,365 - ## current iteration weight[1, 0]
+2019-10-24 19:44:14,366 - ## current iteration use step 1000
+2019-10-24 19:44:14,366 - ## current iteration use stay17
+2019-10-24 19:44:18,191 - ## current iteration weight[0.999, 0.001]
+2019-10-24 19:44:18,191 - ## current iteration use step 369
+2019-10-24 19:44:18,191 - ## current iteration use stay73
+2019-10-24 19:44:20,061 - ## current iteration weight[0.998, 0.002]
+2019-10-24 19:44:20,061 - ## current iteration use step 177
+2019-10-24 19:44:20,061 - ## current iteration use stay53
+2019-10-24 19:44:24,271 - ## current iteration weight[0.997, 0.003]
+2019-10-24 19:44:24,271 - ## current iteration use step 401
+2019-10-24 19:44:24,272 - ## current iteration use stay83
+2019-10-24 19:44:27,336 - ## current iteration weight[0.996, 0.004]
+2019-10-24 19:44:27,336 - ## current iteration use step 295
+2019-10-24 19:44:27,336 - ## current iteration use stay91
+2019-10-24 19:44:29,975 - ## current iteration weight[0.995, 0.005]
+2019-10-24 19:44:29,975 - ## current iteration use step 255
+2019-10-24 19:44:29,975 - ## current iteration use stay64
+2019-10-24 19:44:40,279 - ## current iteration weight[0.994, 0.006]
+2019-10-24 19:44:40,279 - ## current iteration use step 1000
+2019-10-24 19:44:40,279 - ## current iteration use stay217
+2019-10-24 19:44:40,279 - ## iteration:1, learning problems: 2
+2019-10-24 19:44:47,817 - ## current iteration weight[1, 0]
+2019-10-24 19:44:47,818 - ## current iteration use step 733
+2019-10-24 19:44:47,818 - ## current iteration use stay98
+2019-10-24 19:44:58,303 - ## current iteration weight[0.999, 0.001]
+2019-10-24 19:44:58,303 - ## current iteration use step 1000
+2019-10-24 19:44:58,303 - ## current iteration use stay177
+2019-10-24 19:45:01,649 - ## current iteration weight[0.998, 0.002]
+2019-10-24 19:45:01,649 - ## current iteration use step 309
+2019-10-24 19:45:01,649 - ## current iteration use stay99
+2019-10-24 19:45:04,434 - ## current iteration weight[0.997, 0.003]
+2019-10-24 19:45:04,437 - ## current iteration use step 261
+2019-10-24 19:45:04,437 - ## current iteration use stay84
+2019-10-24 19:45:07,200 - ## current iteration weight[0.996, 0.004]
+2019-10-24 19:45:07,201 - ## current iteration use step 256
+2019-10-24 19:45:07,201 - ## current iteration use stay67
+2019-10-24 19:45:10,257 - ## current iteration weight[0.995, 0.005]
+2019-10-24 19:45:10,257 - ## current iteration use step 296
+2019-10-24 19:45:10,257 - ## current iteration use stay69
+2019-10-24 19:45:20,461 - ## current iteration weight[0.994, 0.006]
+2019-10-24 19:45:20,461 - ## current iteration use step 1000
+2019-10-24 19:45:20,461 - ## current iteration use stay231
+2019-10-24 19:45:20,461 - ## iteration:1, learning problems: 3
+2019-10-24 19:45:22,193 - ## current iteration weight[1, 0]
+2019-10-24 19:45:22,193 - ## current iteration use step 169
+2019-10-24 19:45:22,193 - ## current iteration use stay45
+2019-10-24 19:45:32,577 - ## current iteration weight[0.999, 0.001]
+2019-10-24 19:45:32,577 - ## current iteration use step 1000
+2019-10-24 19:45:32,577 - ## current iteration use stay134
+2019-10-24 19:45:35,465 - ## current iteration weight[0.998, 0.002]
+2019-10-24 19:45:35,465 - ## current iteration use step 282
+2019-10-24 19:45:35,465 - ## current iteration use stay77
+2019-10-24 19:45:37,772 - ## current iteration weight[0.997, 0.003]
+2019-10-24 19:45:37,773 - ## current iteration use step 224
+2019-10-24 19:45:37,773 - ## current iteration use stay64
+2019-10-24 19:45:40,049 - ## current iteration weight[0.996, 0.004]
+2019-10-24 19:45:40,049 - ## current iteration use step 219
+2019-10-24 19:45:40,049 - ## current iteration use stay57
+2019-10-24 19:45:42,698 - ## current iteration weight[0.995, 0.005]
+2019-10-24 19:45:42,698 - ## current iteration use step 255
+2019-10-24 19:45:42,698 - ## current iteration use stay58
+2019-10-24 19:45:53,085 - ## current iteration weight[0.994, 0.006]
+2019-10-24 19:45:53,085 - ## current iteration use step 1000
+2019-10-24 19:45:53,085 - ## current iteration use stay184
+2019-10-24 19:45:53,085 - ## iteration:1, learning problems: 4
+2019-10-24 19:46:03,454 - ## current iteration weight[1, 0]
+2019-10-24 19:46:03,454 - ## current iteration use step 988
+2019-10-24 19:46:03,454 - ## current iteration use stay133
+2019-10-24 19:46:06,659 - ## current iteration weight[0.999, 0.001]
+2019-10-24 19:46:06,659 - ## current iteration use step 309
+2019-10-24 19:46:06,659 - ## current iteration use stay70
+2019-10-24 19:46:09,434 - ## current iteration weight[0.998, 0.002]
+2019-10-24 19:46:09,434 - ## current iteration use step 271
+2019-10-24 19:46:09,434 - ## current iteration use stay78
+2019-10-24 19:46:11,270 - ## current iteration weight[0.997, 0.003]
+2019-10-24 19:46:11,271 - ## current iteration use step 179
+2019-10-24 19:46:11,271 - ## current iteration use stay54
+2019-10-24 19:46:13,516 - ## current iteration weight[0.996, 0.004]
+2019-10-24 19:46:13,516 - ## current iteration use step 217
+2019-10-24 19:46:13,516 - ## current iteration use stay54
+2019-10-24 19:46:16,599 - ## current iteration weight[0.995, 0.005]
+2019-10-24 19:46:16,599 - ## current iteration use step 298
+2019-10-24 19:46:16,600 - ## current iteration use stay66
+2019-10-24 19:46:26,854 - ## current iteration weight[0.994, 0.006]
+2019-10-24 19:46:26,854 - ## current iteration use step 1000
+2019-10-24 19:46:26,854 - ## current iteration use stay225
+2019-10-25 18:48:07,426 - ## iteration:1, learning problems: 0
+2019-10-25 18:51:54,347 - ## iteration:1, learning problems: 1
+2019-10-25 18:55:53,497 - ## iteration:1, learning problems: 2
+2019-10-25 18:59:45,705 - ## iteration:1, learning problems: 3
+2019-10-25 19:03:57,962 - ## iteration:1, learning problems: 4
+2019-10-25 19:07:33,710 - ## iteration:1, learning problems: 5
+2019-10-25 19:11:17,470 - ## iteration:1, learning problems: 6
+2019-10-25 19:15:09,035 - ## iteration:1, learning problems: 7
+2019-10-25 19:19:03,036 - ## iteration:1, learning problems: 8
+2019-10-25 19:23:50,047 - ## iteration:1, learning problems: 9
+2019-10-25 19:27:55,027 - ## iteration:1, learning problems: 10
+2019-10-25 19:31:19,282 - ## iteration:1, learning problems: 11
+2019-10-25 19:35:09,684 - ## iteration:1, learning problems: 12
+2019-10-25 19:39:11,692 - ## iteration:1, learning problems: 13
+2019-10-25 19:43:24,857 - ## iteration:1, learning problems: 14
+2019-10-25 19:47:14,869 - ## iteration:1, learning problems: 15
+2019-10-25 19:50:21,426 - ## iteration:1, learning problems: 16
+2019-10-25 19:53:45,802 - ## iteration:1, learning problems: 17
+2019-10-25 19:57:07,991 - ## iteration:1, learning problems: 18
+2019-10-25 20:00:37,721 - ## iteration:1, learning problems: 19
+2019-10-25 20:04:12,724 - ## iteration:1, learning problems: 20
+2019-10-25 20:07:35,899 - ## iteration:1, learning problems: 21
+2019-10-25 20:11:05,055 - ## iteration:1, learning problems: 22
+2019-10-25 20:14:41,957 - ## iteration:1, learning problems: 23
+2019-10-25 20:18:12,344 - ## iteration:1, learning problems: 24
+2019-10-25 20:20:13,132 - ## iteration:1, learning problems: 25
+2019-10-25 20:23:33,922 - ## iteration:1, learning problems: 26
+2019-10-25 20:26:47,022 - ## iteration:1, learning problems: 27
+2019-10-25 20:30:06,049 - ## iteration:1, learning problems: 28
+2019-10-25 20:33:35,952 - ## iteration:1, learning problems: 29
+2019-10-25 20:35:53,038 - ## iteration:1, learning problems: 30
+2019-10-25 20:39:03,109 - ## iteration:1, learning problems: 31
+2019-10-25 20:42:29,348 - ## iteration:1, learning problems: 32
+2019-10-25 20:44:35,422 - ## iteration:1, learning problems: 33
+2019-10-25 20:47:53,250 - ## iteration:1, learning problems: 34
+2019-10-25 20:51:04,822 - ## iteration:1, learning problems: 35
+2019-10-25 20:54:18,134 - ## iteration:1, learning problems: 36
+2019-10-25 20:56:07,637 - ## iteration:1, learning problems: 37
+2019-10-25 20:58:45,457 - ## iteration:1, learning problems: 38
+2019-10-25 21:02:02,490 - ## iteration:1, learning problems: 39
+2019-10-25 21:05:34,159 - ## iteration:1, learning problems: 40
+2019-10-25 21:07:31,312 - ## iteration:1, learning problems: 41
+2019-10-25 21:09:54,307 - ## iteration:1, learning problems: 42
+2019-10-25 21:13:12,027 - ## iteration:1, learning problems: 43
+2019-10-25 21:14:54,630 - ## iteration:1, learning problems: 44
+2019-10-25 21:16:35,267 - ## iteration:1, learning problems: 45
+2019-10-25 21:18:43,225 - ## iteration:1, learning problems: 46
+2019-10-25 21:22:00,638 - ## iteration:1, learning problems: 47
+2019-10-25 21:25:12,398 - ## iteration:1, learning problems: 48
+2019-10-25 21:28:07,628 - ## iteration:1, learning problems: 49
+2019-10-25 21:31:13,457 - ## iteration:1, learning problems: 50
+2019-10-25 21:34:32,689 - ## iteration:1, learning problems: 51
+2019-10-25 21:37:51,406 - ## iteration:1, learning problems: 52
+2019-10-25 21:41:09,125 - ## iteration:1, learning problems: 53
+2019-10-25 21:44:26,210 - ## iteration:1, learning problems: 54
+2019-10-25 21:47:42,861 - ## iteration:1, learning problems: 55
+2019-10-25 21:49:53,132 - ## iteration:1, learning problems: 56
+2019-10-25 21:53:09,541 - ## iteration:1, learning problems: 57
+2019-10-25 21:56:27,089 - ## iteration:1, learning problems: 58
+2019-10-25 21:58:47,509 - ## iteration:1, learning problems: 59
+2019-10-25 22:01:42,531 - ## iteration:1, learning problems: 60
+2019-10-25 22:05:03,947 - ## iteration:1, learning problems: 61
+2019-10-25 22:08:24,400 - ## iteration:1, learning problems: 62
+2019-10-25 22:11:40,290 - ## iteration:1, learning problems: 63
+2019-10-25 22:14:00,055 - ## iteration:1, learning problems: 64
+2019-10-25 22:15:58,437 - ## iteration:1, learning problems: 65
+2019-10-25 22:17:50,142 - ## iteration:1, learning problems: 66
+2019-10-25 22:20:45,853 - ## iteration:1, learning problems: 67
+2019-10-25 22:24:08,148 - ## iteration:1, learning problems: 68
+2019-10-25 22:27:24,637 - ## iteration:1, learning problems: 69
+2019-10-25 22:30:16,032 - ## iteration:1, learning problems: 70
+2019-10-25 22:33:26,523 - ## iteration:1, learning problems: 71
+2019-10-25 22:35:19,651 - ## iteration:1, learning problems: 72
+2019-10-25 22:37:11,044 - ## iteration:1, learning problems: 73
+2019-10-25 22:40:28,072 - ## iteration:1, learning problems: 74
+2019-10-25 22:42:54,175 - ## iteration:1, learning problems: 75
+2019-10-25 22:45:34,380 - ## iteration:1, learning problems: 76
+2019-10-25 22:46:54,748 - ## iteration:1, learning problems: 77
+2019-10-25 22:48:40,765 - ## iteration:1, learning problems: 78
+2019-10-25 22:51:56,844 - ## iteration:1, learning problems: 79
+2019-10-25 22:54:42,890 - ## iteration:1, learning problems: 80
+2019-10-25 22:55:56,471 - ## iteration:1, learning problems: 81
+2019-10-25 22:59:11,881 - ## iteration:1, learning problems: 82
+2019-10-25 23:01:39,919 - ## iteration:1, learning problems: 83
+2019-10-25 23:03:32,633 - ## iteration:1, learning problems: 84
+2019-10-25 23:05:26,676 - ## iteration:1, learning problems: 85
+2019-10-25 23:08:45,335 - ## iteration:1, learning problems: 86
+2019-10-25 23:11:16,895 - ## iteration:1, learning problems: 87
+2019-10-25 23:14:34,991 - ## iteration:1, learning problems: 88
+2019-10-25 23:17:13,876 - ## iteration:1, learning problems: 89
+2019-10-25 23:20:29,301 - ## iteration:1, learning problems: 90
+2019-10-25 23:22:52,361 - ## iteration:1, learning problems: 91
+2019-10-25 23:25:06,664 - ## iteration:1, learning problems: 92
+2019-10-25 23:27:36,473 - ## iteration:1, learning problems: 93
+2019-10-25 23:29:48,409 - ## iteration:1, learning problems: 94
+2019-10-25 23:32:08,155 - ## iteration:1, learning problems: 95
+2019-10-25 23:34:54,781 - ## iteration:1, learning problems: 96
+2019-10-25 23:37:27,180 - ## iteration:1, learning problems: 97
+2019-10-25 23:40:50,061 - ## iteration:1, learning problems: 98
+2019-10-25 23:44:06,382 - ## iteration:1, learning problems: 99
+2019-10-25 23:46:58,769 - ## iteration:1, learning problems: 0
+2019-10-25 23:47:15,407 - ## current iteration weight[1, 0]
+2019-10-25 23:47:15,408 - ## current iteration use step 1000
+2019-10-25 23:47:15,408 - ## current iteration use stay553
+2019-10-25 23:47:31,710 - ## current iteration weight[0.9, 0.1]
+2019-10-25 23:47:31,711 - ## current iteration use step 1000
+2019-10-25 23:47:31,711 - ## current iteration use stay569
+2019-10-25 23:47:48,165 - ## current iteration weight[0.8, 0.2]
+2019-10-25 23:47:48,165 - ## current iteration use step 1000
+2019-10-25 23:47:48,165 - ## current iteration use stay549
+2019-10-25 23:48:04,966 - ## current iteration weight[0.7, 0.3]
+2019-10-25 23:48:04,966 - ## current iteration use step 1000
+2019-10-25 23:48:04,966 - ## current iteration use stay514
+2019-10-25 23:48:21,312 - ## current iteration weight[0.6, 0.4]
+2019-10-25 23:48:21,312 - ## current iteration use step 1000
+2019-10-25 23:48:21,312 - ## current iteration use stay510
+2019-10-25 23:48:37,667 - ## current iteration weight[0.5, 0.5]
+2019-10-25 23:48:37,668 - ## current iteration use step 1000
+2019-10-25 23:48:37,668 - ## current iteration use stay581
+2019-10-25 23:48:53,998 - ## current iteration weight[0.4, 0.6]
+2019-10-25 23:48:53,998 - ## current iteration use step 1000
+2019-10-25 23:48:53,998 - ## current iteration use stay602
+2019-10-25 23:49:10,386 - ## current iteration weight[0.3, 0.7]
+2019-10-25 23:49:10,386 - ## current iteration use step 1000
+2019-10-25 23:49:10,386 - ## current iteration use stay581
+2019-10-25 23:49:26,498 - ## current iteration weight[0.2, 0.8]
+2019-10-25 23:49:26,499 - ## current iteration use step 1000
+2019-10-25 23:49:26,499 - ## current iteration use stay624
+2019-10-25 23:49:42,760 - ## current iteration weight[0.1, 0.9]
+2019-10-25 23:49:42,760 - ## current iteration use step 1000
+2019-10-25 23:49:42,760 - ## current iteration use stay1000
+2019-10-25 23:49:59,087 - ## current iteration weight[0, 1]
+2019-10-25 23:49:59,087 - ## current iteration use step 1000
+2019-10-25 23:49:59,087 - ## current iteration use stay674
+2019-10-25 23:49:59,090 - ## iteration:1, learning problems: 1
+2019-10-25 23:50:15,449 - ## current iteration weight[1, 0]
+2019-10-25 23:50:15,449 - ## current iteration use step 1000
+2019-10-25 23:50:15,449 - ## current iteration use stay548
+2019-10-25 23:50:31,676 - ## current iteration weight[0.9, 0.1]
+2019-10-25 23:50:31,676 - ## current iteration use step 1000
+2019-10-25 23:50:31,676 - ## current iteration use stay576
+2019-10-25 23:50:47,987 - ## current iteration weight[0.8, 0.2]
+2019-10-25 23:50:47,987 - ## current iteration use step 1000
+2019-10-25 23:50:47,987 - ## current iteration use stay533
+2019-10-25 23:51:04,590 - ## current iteration weight[0.7, 0.3]
+2019-10-25 23:51:04,590 - ## current iteration use step 1000
+2019-10-25 23:51:04,590 - ## current iteration use stay473
+2019-10-25 23:51:21,172 - ## current iteration weight[0.6, 0.4]
+2019-10-25 23:51:21,172 - ## current iteration use step 1000
+2019-10-25 23:51:21,172 - ## current iteration use stay600
+2019-10-25 23:51:37,543 - ## current iteration weight[0.5, 0.5]
+2019-10-25 23:51:37,543 - ## current iteration use step 1000
+2019-10-25 23:51:37,543 - ## current iteration use stay564
+2019-10-25 23:51:53,888 - ## current iteration weight[0.4, 0.6]
+2019-10-25 23:51:53,888 - ## current iteration use step 1000
+2019-10-25 23:51:53,888 - ## current iteration use stay599
+2019-10-25 23:52:10,382 - ## current iteration weight[0.3, 0.7]
+2019-10-25 23:52:10,382 - ## current iteration use step 1000
+2019-10-25 23:52:10,382 - ## current iteration use stay610
+2019-10-25 23:52:26,649 - ## current iteration weight[0.2, 0.8]
+2019-10-25 23:52:26,651 - ## current iteration use step 1000
+2019-10-25 23:52:26,651 - ## current iteration use stay1000
+2019-10-25 23:52:42,856 - ## current iteration weight[0.1, 0.9]
+2019-10-25 23:52:42,856 - ## current iteration use step 1000
+2019-10-25 23:52:42,856 - ## current iteration use stay999
+2019-10-25 23:52:59,108 - ## current iteration weight[0, 1]
+2019-10-25 23:52:59,108 - ## current iteration use step 1000
+2019-10-25 23:52:59,108 - ## current iteration use stay674
+2019-10-25 23:52:59,108 - ## iteration:1, learning problems: 2
+2019-10-25 23:53:15,855 - ## current iteration weight[1, 0]
+2019-10-25 23:53:15,855 - ## current iteration use step 1000
+2019-10-25 23:53:15,855 - ## current iteration use stay554
+2019-10-25 23:53:32,201 - ## current iteration weight[0.9, 0.1]
+2019-10-25 23:53:32,201 - ## current iteration use step 1000
+2019-10-25 23:53:32,201 - ## current iteration use stay550
+2019-10-25 23:53:48,543 - ## current iteration weight[0.8, 0.2]
+2019-10-25 23:53:48,543 - ## current iteration use step 1000
+2019-10-25 23:53:48,543 - ## current iteration use stay546
+2019-10-25 23:54:05,008 - ## current iteration weight[0.7, 0.3]
+2019-10-25 23:54:05,008 - ## current iteration use step 1000
+2019-10-25 23:54:05,009 - ## current iteration use stay493
+2019-10-25 23:54:21,293 - ## current iteration weight[0.6, 0.4]
+2019-10-25 23:54:21,293 - ## current iteration use step 1000
+2019-10-25 23:54:21,293 - ## current iteration use stay561
+2019-10-25 23:54:37,737 - ## current iteration weight[0.5, 0.5]
+2019-10-25 23:54:37,737 - ## current iteration use step 1000
+2019-10-25 23:54:37,737 - ## current iteration use stay579
+2019-10-25 23:54:54,067 - ## current iteration weight[0.4, 0.6]
+2019-10-25 23:54:54,068 - ## current iteration use step 1000
+2019-10-25 23:54:54,068 - ## current iteration use stay598
+2019-10-25 23:55:10,401 - ## current iteration weight[0.3, 0.7]
+2019-10-25 23:55:10,401 - ## current iteration use step 1000
+2019-10-25 23:55:10,401 - ## current iteration use stay603
+2019-10-25 23:55:26,852 - ## current iteration weight[0.2, 0.8]
+2019-10-25 23:55:26,852 - ## current iteration use step 1000
+2019-10-25 23:55:26,852 - ## current iteration use stay928
+2019-10-25 23:55:43,260 - ## current iteration weight[0.1, 0.9]
+2019-10-25 23:55:43,261 - ## current iteration use step 1000
+2019-10-25 23:55:43,261 - ## current iteration use stay999
+2019-10-25 23:55:59,761 - ## current iteration weight[0, 1]
+2019-10-25 23:55:59,762 - ## current iteration use step 1000
+2019-10-25 23:55:59,762 - ## current iteration use stay999
+2019-10-25 23:55:59,762 - ## iteration:1, learning problems: 3
+2019-10-25 23:56:16,257 - ## current iteration weight[1, 0]
+2019-10-25 23:56:16,257 - ## current iteration use step 1000
+2019-10-25 23:56:16,257 - ## current iteration use stay546
+2019-10-25 23:56:32,586 - ## current iteration weight[0.9, 0.1]
+2019-10-25 23:56:32,589 - ## current iteration use step 1000
+2019-10-25 23:56:32,589 - ## current iteration use stay551
+2019-10-25 23:56:48,948 - ## current iteration weight[0.8, 0.2]
+2019-10-25 23:56:48,948 - ## current iteration use step 1000
+2019-10-25 23:56:48,948 - ## current iteration use stay0
+2019-10-25 23:57:05,329 - ## current iteration weight[0.7, 0.3]
+2019-10-25 23:57:05,330 - ## current iteration use step 1000
+2019-10-25 23:57:05,330 - ## current iteration use stay513
+2019-10-25 23:57:21,735 - ## current iteration weight[0.6, 0.4]
+2019-10-25 23:57:21,735 - ## current iteration use step 1000
+2019-10-25 23:57:21,735 - ## current iteration use stay564
+2019-10-25 23:57:38,070 - ## current iteration weight[0.5, 0.5]
+2019-10-25 23:57:38,070 - ## current iteration use step 1000
+2019-10-25 23:57:38,070 - ## current iteration use stay563
+2019-10-25 23:57:54,543 - ## current iteration weight[0.4, 0.6]
+2019-10-25 23:57:54,543 - ## current iteration use step 1000
+2019-10-25 23:57:54,543 - ## current iteration use stay588
+2019-10-25 23:58:11,061 - ## current iteration weight[0.3, 0.7]
+2019-10-25 23:58:11,061 - ## current iteration use step 1000
+2019-10-25 23:58:11,062 - ## current iteration use stay596
+2019-10-25 23:58:27,387 - ## current iteration weight[0.2, 0.8]
+2019-10-25 23:58:27,387 - ## current iteration use step 1000
+2019-10-25 23:58:27,387 - ## current iteration use stay599
+2019-10-25 23:58:43,785 - ## current iteration weight[0.1, 0.9]
+2019-10-25 23:58:43,785 - ## current iteration use step 1000
+2019-10-25 23:58:43,785 - ## current iteration use stay682
+2019-10-25 23:59:00,226 - ## current iteration weight[0, 1]
+2019-10-25 23:59:00,226 - ## current iteration use step 1000
+2019-10-25 23:59:00,227 - ## current iteration use stay1000
+2019-10-25 23:59:00,227 - ## iteration:1, learning problems: 4
+2019-10-25 23:59:16,474 - ## current iteration weight[1, 0]
+2019-10-25 23:59:16,475 - ## current iteration use step 1000
+2019-10-25 23:59:16,475 - ## current iteration use stay544
+2019-10-25 23:59:32,908 - ## current iteration weight[0.9, 0.1]
+2019-10-25 23:59:32,911 - ## current iteration use step 1000
+2019-10-25 23:59:32,911 - ## current iteration use stay530
+2019-10-25 23:59:49,381 - ## current iteration weight[0.8, 0.2]
+2019-10-25 23:59:49,381 - ## current iteration use step 1000
+2019-10-25 23:59:49,381 - ## current iteration use stay526
+2019-10-26 00:00:05,879 - ## current iteration weight[0.7, 0.3]
+2019-10-26 00:00:05,880 - ## current iteration use step 1000
+2019-10-26 00:00:05,880 - ## current iteration use stay508
+2019-10-26 00:00:22,417 - ## current iteration weight[0.6, 0.4]
+2019-10-26 00:00:22,417 - ## current iteration use step 1000
+2019-10-26 00:00:22,417 - ## current iteration use stay564
+2019-10-26 00:00:38,888 - ## current iteration weight[0.5, 0.5]
+2019-10-26 00:00:38,888 - ## current iteration use step 1000
+2019-10-26 00:00:38,889 - ## current iteration use stay559
+2019-10-26 00:00:55,485 - ## current iteration weight[0.4, 0.6]
+2019-10-26 00:00:55,485 - ## current iteration use step 1000
+2019-10-26 00:00:55,485 - ## current iteration use stay600
+2019-10-26 00:01:12,092 - ## current iteration weight[0.3, 0.7]
+2019-10-26 00:01:12,093 - ## current iteration use step 1000
+2019-10-26 00:01:12,093 - ## current iteration use stay602
+2019-10-26 00:01:28,502 - ## current iteration weight[0.2, 0.8]
+2019-10-26 00:01:28,502 - ## current iteration use step 1000
+2019-10-26 00:01:28,502 - ## current iteration use stay621
+2019-10-26 00:01:45,106 - ## current iteration weight[0.1, 0.9]
+2019-10-26 00:01:45,106 - ## current iteration use step 1000
+2019-10-26 00:01:45,106 - ## current iteration use stay1000
+2019-10-26 00:02:01,670 - ## current iteration weight[0, 1]
+2019-10-26 00:02:01,670 - ## current iteration use step 1000
+2019-10-26 00:02:01,671 - ## current iteration use stay678
+2019-10-26 00:02:01,671 - ## iteration:1, learning problems: 5
+2019-10-26 00:02:18,239 - ## current iteration weight[1, 0]
+2019-10-26 00:02:18,239 - ## current iteration use step 1000
+2019-10-26 00:02:18,239 - ## current iteration use stay560
+2019-10-26 00:02:34,455 - ## current iteration weight[0.9, 0.1]
+2019-10-26 00:02:34,459 - ## current iteration use step 1000
+2019-10-26 00:02:34,459 - ## current iteration use stay564
+2019-10-26 00:02:50,823 - ## current iteration weight[0.8, 0.2]
+2019-10-26 00:02:50,823 - ## current iteration use step 1000
+2019-10-26 00:02:50,823 - ## current iteration use stay525
+2019-10-26 00:03:07,611 - ## current iteration weight[0.7, 0.3]
+2019-10-26 00:03:07,611 - ## current iteration use step 1000
+2019-10-26 00:03:07,611 - ## current iteration use stay511
+2019-10-26 00:03:25,525 - ## current iteration weight[0.6, 0.4]
+2019-10-26 00:03:25,525 - ## current iteration use step 1000
+2019-10-26 00:03:25,526 - ## current iteration use stay569
+2019-10-26 00:03:41,825 - ## current iteration weight[0.5, 0.5]
+2019-10-26 00:03:41,825 - ## current iteration use step 1000
+2019-10-26 00:03:41,826 - ## current iteration use stay583
+2019-10-26 00:03:58,271 - ## current iteration weight[0.4, 0.6]
+2019-10-26 00:03:58,272 - ## current iteration use step 1000
+2019-10-26 00:03:58,272 - ## current iteration use stay600
+2019-10-26 00:04:14,854 - ## current iteration weight[0.3, 0.7]
+2019-10-26 00:04:14,854 - ## current iteration use step 1000
+2019-10-26 00:04:14,854 - ## current iteration use stay595
+2019-10-26 00:04:31,348 - ## current iteration weight[0.2, 0.8]
+2019-10-26 00:04:31,348 - ## current iteration use step 1000
+2019-10-26 00:04:31,348 - ## current iteration use stay1000
+2019-10-26 00:04:47,823 - ## current iteration weight[0.1, 0.9]
+2019-10-26 00:04:47,823 - ## current iteration use step 1000
+2019-10-26 00:04:47,823 - ## current iteration use stay670
+2019-10-26 00:05:04,323 - ## current iteration weight[0, 1]
+2019-10-26 00:05:04,324 - ## current iteration use step 1000
+2019-10-26 00:05:04,324 - ## current iteration use stay666
+2019-10-26 00:05:04,324 - ## iteration:1, learning problems: 6
+2019-10-26 00:05:20,915 - ## current iteration weight[1, 0]
+2019-10-26 00:05:20,915 - ## current iteration use step 1000
+2019-10-26 00:05:20,915 - ## current iteration use stay543
+2019-10-26 00:05:37,206 - ## current iteration weight[0.9, 0.1]
+2019-10-26 00:05:37,209 - ## current iteration use step 1000
+2019-10-26 00:05:37,209 - ## current iteration use stay579
+2019-10-26 00:05:53,475 - ## current iteration weight[0.8, 0.2]
+2019-10-26 00:05:53,475 - ## current iteration use step 1000
+2019-10-26 00:05:53,475 - ## current iteration use stay527
+2019-10-26 00:06:10,418 - ## current iteration weight[0.7, 0.3]
+2019-10-26 00:06:10,418 - ## current iteration use step 1000
+2019-10-26 00:06:10,418 - ## current iteration use stay518
+2019-10-26 00:06:26,933 - ## current iteration weight[0.6, 0.4]
+2019-10-26 00:06:26,933 - ## current iteration use step 1000
+2019-10-26 00:06:26,933 - ## current iteration use stay538
+2019-10-26 00:06:43,288 - ## current iteration weight[0.5, 0.5]
+2019-10-26 00:06:43,288 - ## current iteration use step 1000
+2019-10-26 00:06:43,288 - ## current iteration use stay567
+2019-10-26 00:06:59,569 - ## current iteration weight[0.4, 0.6]
+2019-10-26 00:06:59,569 - ## current iteration use step 1000
+2019-10-26 00:06:59,569 - ## current iteration use stay596
+2019-10-26 00:07:16,073 - ## current iteration weight[0.3, 0.7]
+2019-10-26 00:07:16,073 - ## current iteration use step 1000
+2019-10-26 00:07:16,073 - ## current iteration use stay548
+2019-10-26 00:07:34,371 - ## current iteration weight[0.2, 0.8]
+2019-10-26 00:07:34,373 - ## current iteration use step 1000
+2019-10-26 00:07:34,373 - ## current iteration use stay999
+2019-10-26 00:07:50,707 - ## current iteration weight[0.1, 0.9]
+2019-10-26 00:07:50,707 - ## current iteration use step 1000
+2019-10-26 00:07:50,707 - ## current iteration use stay667
+2019-10-26 00:08:07,695 - ## current iteration weight[0, 1]
+2019-10-26 00:08:07,697 - ## current iteration use step 1000
+2019-10-26 00:08:07,697 - ## current iteration use stay656
+2019-10-26 00:08:07,697 - ## iteration:1, learning problems: 7
+2019-10-26 00:08:24,066 - ## current iteration weight[1, 0]
+2019-10-26 00:08:24,067 - ## current iteration use step 1000
+2019-10-26 00:08:24,067 - ## current iteration use stay541
+2019-10-26 00:08:40,452 - ## current iteration weight[0.9, 0.1]
+2019-10-26 00:08:40,452 - ## current iteration use step 1000
+2019-10-26 00:08:40,452 - ## current iteration use stay553
+2019-10-26 00:08:56,845 - ## current iteration weight[0.8, 0.2]
+2019-10-26 00:08:56,845 - ## current iteration use step 1000
+2019-10-26 00:08:56,845 - ## current iteration use stay520
+2019-10-26 00:09:13,158 - ## current iteration weight[0.7, 0.3]
+2019-10-26 00:09:13,159 - ## current iteration use step 1000
+2019-10-26 00:09:13,159 - ## current iteration use stay511
+2019-10-26 00:09:29,461 - ## current iteration weight[0.6, 0.4]
+2019-10-26 00:09:29,461 - ## current iteration use step 1000
+2019-10-26 00:09:29,461 - ## current iteration use stay591
+2019-10-26 00:09:45,763 - ## current iteration weight[0.5, 0.5]
+2019-10-26 00:09:45,763 - ## current iteration use step 1000
+2019-10-26 00:09:45,763 - ## current iteration use stay564
+2019-10-26 00:10:02,138 - ## current iteration weight[0.4, 0.6]
+2019-10-26 00:10:02,141 - ## current iteration use step 1000
+2019-10-26 00:10:02,142 - ## current iteration use stay578
+2019-10-26 00:10:18,438 - ## current iteration weight[0.3, 0.7]
+2019-10-26 00:10:18,438 - ## current iteration use step 1000
+2019-10-26 00:10:18,438 - ## current iteration use stay610
+2019-10-26 00:10:34,805 - ## current iteration weight[0.2, 0.8]
+2019-10-26 00:10:34,805 - ## current iteration use step 1000
+2019-10-26 00:10:34,805 - ## current iteration use stay637
+2019-10-26 00:10:51,188 - ## current iteration weight[0.1, 0.9]
+2019-10-26 00:10:51,188 - ## current iteration use step 1000
+2019-10-26 00:10:51,188 - ## current iteration use stay1000
+2019-10-26 00:11:07,756 - ## current iteration weight[0, 1]
+2019-10-26 00:11:07,756 - ## current iteration use step 1000
+2019-10-26 00:11:07,756 - ## current iteration use stay696
+2019-10-26 00:11:07,756 - ## iteration:1, learning problems: 8
+2019-10-26 00:11:24,184 - ## current iteration weight[1, 0]
+2019-10-26 00:11:24,185 - ## current iteration use step 1000
+2019-10-26 00:11:24,185 - ## current iteration use stay565
+2019-10-26 00:11:40,610 - ## current iteration weight[0.9, 0.1]
+2019-10-26 00:11:40,610 - ## current iteration use step 1000
+2019-10-26 00:11:40,610 - ## current iteration use stay559
+2019-10-26 00:11:56,912 - ## current iteration weight[0.8, 0.2]
+2019-10-26 00:11:56,913 - ## current iteration use step 1000
+2019-10-26 00:11:56,913 - ## current iteration use stay544
+2019-10-26 00:12:13,501 - ## current iteration weight[0.7, 0.3]
+2019-10-26 00:12:13,502 - ## current iteration use step 1000
+2019-10-26 00:12:13,502 - ## current iteration use stay511
+2019-10-26 00:12:29,839 - ## current iteration weight[0.6, 0.4]
+2019-10-26 00:12:29,839 - ## current iteration use step 1000
+2019-10-26 00:12:29,839 - ## current iteration use stay561
+2019-10-26 00:12:46,278 - ## current iteration weight[0.5, 0.5]
+2019-10-26 00:12:46,279 - ## current iteration use step 1000
+2019-10-26 00:12:46,279 - ## current iteration use stay557
+2019-10-26 00:13:02,874 - ## current iteration weight[0.4, 0.6]
+2019-10-26 00:13:02,876 - ## current iteration use step 1000
+2019-10-26 00:13:02,876 - ## current iteration use stay599
+2019-10-26 00:13:19,450 - ## current iteration weight[0.3, 0.7]
+2019-10-26 00:13:19,452 - ## current iteration use step 1000
+2019-10-26 00:13:19,452 - ## current iteration use stay605
+2019-10-26 00:13:35,890 - ## current iteration weight[0.2, 0.8]
+2019-10-26 00:13:35,890 - ## current iteration use step 1000
+2019-10-26 00:13:35,890 - ## current iteration use stay619
+2019-10-26 00:13:52,197 - ## current iteration weight[0.1, 0.9]
+2019-10-26 00:13:52,197 - ## current iteration use step 1000
+2019-10-26 00:13:52,198 - ## current iteration use stay682
+2019-10-26 00:14:08,559 - ## current iteration weight[0, 1]
+2019-10-26 00:14:08,559 - ## current iteration use step 1000
+2019-10-26 00:14:08,559 - ## current iteration use stay1000
+2019-10-26 00:14:08,560 - ## iteration:1, learning problems: 9
+2019-10-26 00:14:24,899 - ## current iteration weight[1, 0]
+2019-10-26 00:14:24,899 - ## current iteration use step 1000
+2019-10-26 00:14:24,899 - ## current iteration use stay539
+2019-10-26 00:14:41,256 - ## current iteration weight[0.9, 0.1]
+2019-10-26 00:14:41,256 - ## current iteration use step 1000
+2019-10-26 00:14:41,256 - ## current iteration use stay559
+2019-10-26 00:14:57,745 - ## current iteration weight[0.8, 0.2]
+2019-10-26 00:14:57,745 - ## current iteration use step 1000
+2019-10-26 00:14:57,745 - ## current iteration use stay536
+2019-10-26 00:15:15,070 - ## current iteration weight[0.7, 0.3]
+2019-10-26 00:15:15,072 - ## current iteration use step 1000
+2019-10-26 00:15:15,072 - ## current iteration use stay514
+2019-10-26 00:15:31,417 - ## current iteration weight[0.6, 0.4]
+2019-10-26 00:15:31,417 - ## current iteration use step 1000
+2019-10-26 00:15:31,417 - ## current iteration use stay561
+2019-10-26 00:15:47,891 - ## current iteration weight[0.5, 0.5]
+2019-10-26 00:15:47,891 - ## current iteration use step 1000
+2019-10-26 00:15:47,891 - ## current iteration use stay564
+2019-10-26 00:16:04,615 - ## current iteration weight[0.4, 0.6]
+2019-10-26 00:16:04,615 - ## current iteration use step 1000
+2019-10-26 00:16:04,616 - ## current iteration use stay595
+2019-10-26 00:16:21,013 - ## current iteration weight[0.3, 0.7]
+2019-10-26 00:16:21,014 - ## current iteration use step 1000
+2019-10-26 00:16:21,014 - ## current iteration use stay599
+2019-10-26 00:16:37,469 - ## current iteration weight[0.2, 0.8]
+2019-10-26 00:16:37,470 - ## current iteration use step 1000
+2019-10-26 00:16:37,470 - ## current iteration use stay628
+2019-10-26 00:16:53,772 - ## current iteration weight[0.1, 0.9]
+2019-10-26 00:16:53,772 - ## current iteration use step 1000
+2019-10-26 00:16:53,772 - ## current iteration use stay680
+2019-10-26 00:17:10,248 - ## current iteration weight[0, 1]
+2019-10-26 00:17:10,248 - ## current iteration use step 1000
+2019-10-26 00:17:10,248 - ## current iteration use stay692
+2019-10-26 00:17:10,248 - ## iteration:1, learning problems: 10
+2019-10-26 00:17:26,628 - ## current iteration weight[1, 0]
+2019-10-26 00:17:26,628 - ## current iteration use step 1000
+2019-10-26 00:17:26,628 - ## current iteration use stay556
+2019-10-26 00:17:43,145 - ## current iteration weight[0.9, 0.1]
+2019-10-26 00:17:43,145 - ## current iteration use step 1000
+2019-10-26 00:17:43,145 - ## current iteration use stay544
+2019-10-26 00:17:59,729 - ## current iteration weight[0.8, 0.2]
+2019-10-26 00:17:59,731 - ## current iteration use step 1000
+2019-10-26 00:17:59,731 - ## current iteration use stay534
+2019-10-26 00:18:16,456 - ## current iteration weight[0.7, 0.3]
+2019-10-26 00:18:16,458 - ## current iteration use step 1000
+2019-10-26 00:18:16,458 - ## current iteration use stay506
+2019-10-26 00:18:33,029 - ## current iteration weight[0.6, 0.4]
+2019-10-26 00:18:33,030 - ## current iteration use step 1000
+2019-10-26 00:18:33,030 - ## current iteration use stay569
+2019-10-26 00:18:49,481 - ## current iteration weight[0.5, 0.5]
+2019-10-26 00:18:49,482 - ## current iteration use step 1000
+2019-10-26 00:18:49,482 - ## current iteration use stay562
+2019-10-26 00:19:05,814 - ## current iteration weight[0.4, 0.6]
+2019-10-26 00:19:05,814 - ## current iteration use step 1000
+2019-10-26 00:19:05,814 - ## current iteration use stay577
+2019-10-26 00:19:22,242 - ## current iteration weight[0.3, 0.7]
+2019-10-26 00:19:22,243 - ## current iteration use step 1000
+2019-10-26 00:19:22,243 - ## current iteration use stay522
+2019-10-26 00:19:38,664 - ## current iteration weight[0.2, 0.8]
+2019-10-26 00:19:38,664 - ## current iteration use step 1000
+2019-10-26 00:19:38,664 - ## current iteration use stay621
+2019-10-26 00:19:54,920 - ## current iteration weight[0.1, 0.9]
+2019-10-26 00:19:54,920 - ## current iteration use step 1000
+2019-10-26 00:19:54,920 - ## current iteration use stay1000
+2019-10-26 00:20:11,189 - ## current iteration weight[0, 1]
+2019-10-26 00:20:11,189 - ## current iteration use step 1000
+2019-10-26 00:20:11,189 - ## current iteration use stay661
+2019-10-26 00:20:11,189 - ## iteration:1, learning problems: 11
+2019-10-26 00:20:27,659 - ## current iteration weight[1, 0]
+2019-10-26 00:20:27,659 - ## current iteration use step 1000
+2019-10-26 00:20:27,659 - ## current iteration use stay560
+2019-10-26 00:20:44,223 - ## current iteration weight[0.9, 0.1]
+2019-10-26 00:20:44,224 - ## current iteration use step 1000
+2019-10-26 00:20:44,224 - ## current iteration use stay557
+2019-10-26 00:21:00,901 - ## current iteration weight[0.8, 0.2]
+2019-10-26 00:21:00,901 - ## current iteration use step 1000
+2019-10-26 00:21:00,901 - ## current iteration use stay532
+2019-10-26 00:21:17,289 - ## current iteration weight[0.7, 0.3]
+2019-10-26 00:21:17,291 - ## current iteration use step 1000
+2019-10-26 00:21:17,291 - ## current iteration use stay521
+2019-10-26 00:21:33,882 - ## current iteration weight[0.6, 0.4]
+2019-10-26 00:21:33,882 - ## current iteration use step 1000
+2019-10-26 00:21:33,882 - ## current iteration use stay575
+2019-10-26 00:21:50,440 - ## current iteration weight[0.5, 0.5]
+2019-10-26 00:21:50,440 - ## current iteration use step 1000
+2019-10-26 00:21:50,440 - ## current iteration use stay558
+2019-10-26 00:22:06,893 - ## current iteration weight[0.4, 0.6]
+2019-10-26 00:22:06,894 - ## current iteration use step 1000
+2019-10-26 00:22:06,894 - ## current iteration use stay607
+2019-10-26 00:22:23,327 - ## current iteration weight[0.3, 0.7]
+2019-10-26 00:22:23,327 - ## current iteration use step 1000
+2019-10-26 00:22:23,327 - ## current iteration use stay603
+2019-10-26 00:22:39,682 - ## current iteration weight[0.2, 0.8]
+2019-10-26 00:22:39,682 - ## current iteration use step 1000
+2019-10-26 00:22:39,682 - ## current iteration use stay640
+2019-10-26 00:22:56,073 - ## current iteration weight[0.1, 0.9]
+2019-10-26 00:22:56,073 - ## current iteration use step 1000
+2019-10-26 00:22:56,073 - ## current iteration use stay1000
+2019-10-26 00:23:12,859 - ## current iteration weight[0, 1]
+2019-10-26 00:23:12,859 - ## current iteration use step 1000
+2019-10-26 00:23:12,859 - ## current iteration use stay659
+2019-10-26 00:23:12,859 - ## iteration:1, learning problems: 12
+2019-10-26 00:23:29,331 - ## current iteration weight[1, 0]
+2019-10-26 00:23:29,332 - ## current iteration use step 1000
+2019-10-26 00:23:29,332 - ## current iteration use stay540
+2019-10-26 00:23:45,638 - ## current iteration weight[0.9, 0.1]
+2019-10-26 00:23:45,638 - ## current iteration use step 1000
+2019-10-26 00:23:45,639 - ## current iteration use stay555
+2019-10-26 00:24:02,069 - ## current iteration weight[0.8, 0.2]
+2019-10-26 00:24:02,069 - ## current iteration use step 1000
+2019-10-26 00:24:02,069 - ## current iteration use stay540
+2019-10-26 00:24:18,399 - ## current iteration weight[0.7, 0.3]
+2019-10-26 00:24:18,399 - ## current iteration use step 1000
+2019-10-26 00:24:18,399 - ## current iteration use stay510
+2019-10-26 00:24:34,767 - ## current iteration weight[0.6, 0.4]
+2019-10-26 00:24:34,767 - ## current iteration use step 1000
+2019-10-26 00:24:34,767 - ## current iteration use stay590
+2019-10-26 00:24:51,122 - ## current iteration weight[0.5, 0.5]
+2019-10-26 00:24:51,122 - ## current iteration use step 1000
+2019-10-26 00:24:51,122 - ## current iteration use stay564
+2019-10-26 00:25:07,522 - ## current iteration weight[0.4, 0.6]
+2019-10-26 00:25:07,523 - ## current iteration use step 1000
+2019-10-26 00:25:07,523 - ## current iteration use stay596
+2019-10-26 00:25:24,097 - ## current iteration weight[0.3, 0.7]
+2019-10-26 00:25:24,098 - ## current iteration use step 1000
+2019-10-26 00:25:24,098 - ## current iteration use stay600
+2019-10-26 00:25:40,393 - ## current iteration weight[0.2, 0.8]
+2019-10-26 00:25:40,394 - ## current iteration use step 1000
+2019-10-26 00:25:40,394 - ## current iteration use stay603
+2019-10-26 00:25:56,960 - ## current iteration weight[0.1, 0.9]
+2019-10-26 00:25:56,962 - ## current iteration use step 1000
+2019-10-26 00:25:56,962 - ## current iteration use stay670
+2019-10-26 00:26:13,549 - ## current iteration weight[0, 1]
+2019-10-26 00:26:13,549 - ## current iteration use step 1000
+2019-10-26 00:26:13,549 - ## current iteration use stay1000
+2019-10-26 00:26:13,549 - ## iteration:1, learning problems: 13
+2019-10-26 00:26:30,056 - ## current iteration weight[1, 0]
+2019-10-26 00:26:30,057 - ## current iteration use step 1000
+2019-10-26 00:26:30,057 - ## current iteration use stay551
+2019-10-26 00:26:46,463 - ## current iteration weight[0.9, 0.1]
+2019-10-26 00:26:46,463 - ## current iteration use step 1000
+2019-10-26 00:26:46,463 - ## current iteration use stay553
+2019-10-26 00:27:02,842 - ## current iteration weight[0.8, 0.2]
+2019-10-26 00:27:02,842 - ## current iteration use step 1000
+2019-10-26 00:27:02,842 - ## current iteration use stay536
+2019-10-26 00:27:19,220 - ## current iteration weight[0.7, 0.3]
+2019-10-26 00:27:19,220 - ## current iteration use step 1000
+2019-10-26 00:27:19,220 - ## current iteration use stay507
+2019-10-26 00:27:35,686 - ## current iteration weight[0.6, 0.4]
+2019-10-26 00:27:35,686 - ## current iteration use step 1000
+2019-10-26 00:27:35,686 - ## current iteration use stay579
+2019-10-26 00:27:52,111 - ## current iteration weight[0.5, 0.5]
+2019-10-26 00:27:52,111 - ## current iteration use step 1000
+2019-10-26 00:27:52,111 - ## current iteration use stay562
+2019-10-26 00:28:08,939 - ## current iteration weight[0.4, 0.6]
+2019-10-26 00:28:08,941 - ## current iteration use step 1000
+2019-10-26 00:28:08,941 - ## current iteration use stay592
+2019-10-26 00:28:25,552 - ## current iteration weight[0.3, 0.7]
+2019-10-26 00:28:25,553 - ## current iteration use step 1000
+2019-10-26 00:28:25,553 - ## current iteration use stay570
+2019-10-26 00:28:42,096 - ## current iteration weight[0.2, 0.8]
+2019-10-26 00:28:42,096 - ## current iteration use step 1000
+2019-10-26 00:28:42,096 - ## current iteration use stay1000
+2019-10-26 00:28:58,403 - ## current iteration weight[0.1, 0.9]
+2019-10-26 00:28:58,403 - ## current iteration use step 1000
+2019-10-26 00:28:58,403 - ## current iteration use stay665
+2019-10-26 00:29:14,961 - ## current iteration weight[0, 1]
+2019-10-26 00:29:14,961 - ## current iteration use step 1000
+2019-10-26 00:29:14,961 - ## current iteration use stay981
+2019-10-26 00:29:14,961 - ## iteration:1, learning problems: 14
+2019-10-26 00:29:31,461 - ## current iteration weight[1, 0]
+2019-10-26 00:29:31,461 - ## current iteration use step 1000
+2019-10-26 00:29:31,462 - ## current iteration use stay557
+2019-10-26 00:29:47,942 - ## current iteration weight[0.9, 0.1]
+2019-10-26 00:29:47,942 - ## current iteration use step 1000
+2019-10-26 00:29:47,942 - ## current iteration use stay549
+2019-10-26 00:30:04,298 - ## current iteration weight[0.8, 0.2]
+2019-10-26 00:30:04,298 - ## current iteration use step 1000
+2019-10-26 00:30:04,298 - ## current iteration use stay538
+2019-10-26 00:30:20,697 - ## current iteration weight[0.7, 0.3]
+2019-10-26 00:30:20,697 - ## current iteration use step 1000
+2019-10-26 00:30:20,697 - ## current iteration use stay515
+2019-10-26 00:30:37,079 - ## current iteration weight[0.6, 0.4]
+2019-10-26 00:30:37,079 - ## current iteration use step 1000
+2019-10-26 00:30:37,079 - ## current iteration use stay559
+2019-10-26 00:30:53,552 - ## current iteration weight[0.5, 0.5]
+2019-10-26 00:30:53,552 - ## current iteration use step 1000
+2019-10-26 00:30:53,552 - ## current iteration use stay574
+2019-10-26 00:31:10,104 - ## current iteration weight[0.4, 0.6]
+2019-10-26 00:31:10,104 - ## current iteration use step 1000
+2019-10-26 00:31:10,104 - ## current iteration use stay591
+2019-10-26 00:31:26,565 - ## current iteration weight[0.3, 0.7]
+2019-10-26 00:31:26,566 - ## current iteration use step 1000
+2019-10-26 00:31:26,566 - ## current iteration use stay610
+2019-10-26 00:31:42,962 - ## current iteration weight[0.2, 0.8]
+2019-10-26 00:31:42,962 - ## current iteration use step 1000
+2019-10-26 00:31:42,962 - ## current iteration use stay1000
+2019-10-26 00:31:59,402 - ## current iteration weight[0.1, 0.9]
+2019-10-26 00:31:59,403 - ## current iteration use step 1000
+2019-10-26 00:31:59,403 - ## current iteration use stay684
+2019-10-26 00:32:15,816 - ## current iteration weight[0, 1]
+2019-10-26 00:32:15,816 - ## current iteration use step 1000
+2019-10-26 00:32:15,816 - ## current iteration use stay689
+2019-10-26 00:32:15,817 - ## iteration:1, learning problems: 15
+2019-10-26 00:32:32,131 - ## current iteration weight[1, 0]
+2019-10-26 00:32:32,134 - ## current iteration use step 1000
+2019-10-26 00:32:32,134 - ## current iteration use stay550
+2019-10-26 00:32:48,556 - ## current iteration weight[0.9, 0.1]
+2019-10-26 00:32:48,556 - ## current iteration use step 1000
+2019-10-26 00:32:48,556 - ## current iteration use stay567
+2019-10-26 00:33:05,108 - ## current iteration weight[0.8, 0.2]
+2019-10-26 00:33:05,108 - ## current iteration use step 1000
+2019-10-26 00:33:05,109 - ## current iteration use stay543
+2019-10-26 00:33:21,449 - ## current iteration weight[0.7, 0.3]
+2019-10-26 00:33:21,449 - ## current iteration use step 1000
+2019-10-26 00:33:21,449 - ## current iteration use stay511
+2019-10-26 00:33:37,860 - ## current iteration weight[0.6, 0.4]
+2019-10-26 00:33:37,860 - ## current iteration use step 1000
+2019-10-26 00:33:37,860 - ## current iteration use stay599
+2019-10-26 00:33:54,239 - ## current iteration weight[0.5, 0.5]
+2019-10-26 00:33:54,239 - ## current iteration use step 1000
+2019-10-26 00:33:54,239 - ## current iteration use stay593
+2019-10-26 00:34:10,589 - ## current iteration weight[0.4, 0.6]
+2019-10-26 00:34:10,589 - ## current iteration use step 1000
+2019-10-26 00:34:10,589 - ## current iteration use stay596
+2019-10-26 00:34:26,973 - ## current iteration weight[0.3, 0.7]
+2019-10-26 00:34:26,973 - ## current iteration use step 1000
+2019-10-26 00:34:26,973 - ## current iteration use stay592
+2019-10-26 00:34:43,376 - ## current iteration weight[0.2, 0.8]
+2019-10-26 00:34:43,376 - ## current iteration use step 1000
+2019-10-26 00:34:43,376 - ## current iteration use stay617
+2019-10-26 00:34:59,654 - ## current iteration weight[0.1, 0.9]
+2019-10-26 00:34:59,654 - ## current iteration use step 1000
+2019-10-26 00:34:59,654 - ## current iteration use stay664
+2019-10-26 00:35:15,957 - ## current iteration weight[0, 1]
+2019-10-26 00:35:15,957 - ## current iteration use step 1000
+2019-10-26 00:35:15,958 - ## current iteration use stay681
+2019-10-26 00:35:15,958 - ## iteration:1, learning problems: 16
+2019-10-26 00:35:32,253 - ## current iteration weight[1, 0]
+2019-10-26 00:35:32,254 - ## current iteration use step 1000
+2019-10-26 00:35:32,254 - ## current iteration use stay542
+2019-10-26 00:35:48,622 - ## current iteration weight[0.9, 0.1]
+2019-10-26 00:35:48,622 - ## current iteration use step 1000
+2019-10-26 00:35:48,622 - ## current iteration use stay561
+2019-10-26 00:36:05,317 - ## current iteration weight[0.8, 0.2]
+2019-10-26 00:36:05,321 - ## current iteration use step 1000
+2019-10-26 00:36:05,321 - ## current iteration use stay545
+2019-10-26 00:36:21,877 - ## current iteration weight[0.7, 0.3]
+2019-10-26 00:36:21,877 - ## current iteration use step 1000
+2019-10-26 00:36:21,877 - ## current iteration use stay514
+2019-10-26 00:36:38,208 - ## current iteration weight[0.6, 0.4]
+2019-10-26 00:36:38,208 - ## current iteration use step 1000
+2019-10-26 00:36:38,208 - ## current iteration use stay567
+2019-10-26 00:36:54,453 - ## current iteration weight[0.5, 0.5]
+2019-10-26 00:36:54,453 - ## current iteration use step 1000
+2019-10-26 00:36:54,453 - ## current iteration use stay566
+2019-10-26 00:37:10,856 - ## current iteration weight[0.4, 0.6]
+2019-10-26 00:37:10,856 - ## current iteration use step 1000
+2019-10-26 00:37:10,856 - ## current iteration use stay595
+2019-10-26 00:37:27,127 - ## current iteration weight[0.3, 0.7]
+2019-10-26 00:37:27,127 - ## current iteration use step 1000
+2019-10-26 00:37:27,127 - ## current iteration use stay604
+2019-10-26 00:37:43,367 - ## current iteration weight[0.2, 0.8]
+2019-10-26 00:37:43,367 - ## current iteration use step 1000
+2019-10-26 00:37:43,367 - ## current iteration use stay616
+2019-10-26 00:37:59,646 - ## current iteration weight[0.1, 0.9]
+2019-10-26 00:37:59,646 - ## current iteration use step 1000
+2019-10-26 00:37:59,646 - ## current iteration use stay670
+2019-10-26 00:38:17,162 - ## current iteration weight[0, 1]
+2019-10-26 00:38:17,164 - ## current iteration use step 1000
+2019-10-26 00:38:17,164 - ## current iteration use stay679
+2019-10-26 00:38:17,165 - ## iteration:1, learning problems: 17
+2019-10-26 00:38:33,850 - ## current iteration weight[1, 0]
+2019-10-26 00:38:33,850 - ## current iteration use step 1000
+2019-10-26 00:38:33,850 - ## current iteration use stay567
+2019-10-26 00:38:50,217 - ## current iteration weight[0.9, 0.1]
+2019-10-26 00:38:50,217 - ## current iteration use step 1000
+2019-10-26 00:38:50,217 - ## current iteration use stay563
+2019-10-26 00:39:06,568 - ## current iteration weight[0.8, 0.2]
+2019-10-26 00:39:06,568 - ## current iteration use step 1000
+2019-10-26 00:39:06,568 - ## current iteration use stay529
+2019-10-26 00:39:22,985 - ## current iteration weight[0.7, 0.3]
+2019-10-26 00:39:22,985 - ## current iteration use step 1000
+2019-10-26 00:39:22,986 - ## current iteration use stay510
+2019-10-26 00:39:39,396 - ## current iteration weight[0.6, 0.4]
+2019-10-26 00:39:39,396 - ## current iteration use step 1000
+2019-10-26 00:39:39,396 - ## current iteration use stay560
+2019-10-26 00:39:55,719 - ## current iteration weight[0.5, 0.5]
+2019-10-26 00:39:55,719 - ## current iteration use step 1000
+2019-10-26 00:39:55,720 - ## current iteration use stay555
+2019-10-26 00:40:12,073 - ## current iteration weight[0.4, 0.6]
+2019-10-26 00:40:12,073 - ## current iteration use step 1000
+2019-10-26 00:40:12,073 - ## current iteration use stay611
+2019-10-26 00:40:28,453 - ## current iteration weight[0.3, 0.7]
+2019-10-26 00:40:28,453 - ## current iteration use step 1000
+2019-10-26 00:40:28,453 - ## current iteration use stay601
+2019-10-26 00:40:44,738 - ## current iteration weight[0.2, 0.8]
+2019-10-26 00:40:44,739 - ## current iteration use step 1000
+2019-10-26 00:40:44,739 - ## current iteration use stay623
+2019-10-26 00:41:01,287 - ## current iteration weight[0.1, 0.9]
+2019-10-26 00:41:01,288 - ## current iteration use step 1000
+2019-10-26 00:41:01,288 - ## current iteration use stay659
+2019-10-26 00:41:18,476 - ## current iteration weight[0, 1]
+2019-10-26 00:41:18,479 - ## current iteration use step 1000
+2019-10-26 00:41:18,479 - ## current iteration use stay999
+2019-10-26 00:41:18,479 - ## iteration:1, learning problems: 18
+2019-10-26 00:41:35,149 - ## current iteration weight[1, 0]
+2019-10-26 00:41:35,152 - ## current iteration use step 1000
+2019-10-26 00:41:35,153 - ## current iteration use stay551
+2019-10-26 00:41:51,543 - ## current iteration weight[0.9, 0.1]
+2019-10-26 00:41:51,543 - ## current iteration use step 1000
+2019-10-26 00:41:51,543 - ## current iteration use stay551
+2019-10-26 00:42:07,931 - ## current iteration weight[0.8, 0.2]
+2019-10-26 00:42:07,931 - ## current iteration use step 1000
+2019-10-26 00:42:07,931 - ## current iteration use stay541
+2019-10-26 00:42:24,339 - ## current iteration weight[0.7, 0.3]
+2019-10-26 00:42:24,339 - ## current iteration use step 1000
+2019-10-26 00:42:24,339 - ## current iteration use stay519
+2019-10-26 00:42:40,758 - ## current iteration weight[0.6, 0.4]
+2019-10-26 00:42:40,758 - ## current iteration use step 1000
+2019-10-26 00:42:40,758 - ## current iteration use stay565
+2019-10-26 00:42:57,045 - ## current iteration weight[0.5, 0.5]
+2019-10-26 00:42:57,046 - ## current iteration use step 1000
+2019-10-26 00:42:57,046 - ## current iteration use stay567
+2019-10-26 00:43:13,654 - ## current iteration weight[0.4, 0.6]
+2019-10-26 00:43:13,654 - ## current iteration use step 1000
+2019-10-26 00:43:13,654 - ## current iteration use stay502
+2019-10-26 00:43:30,001 - ## current iteration weight[0.3, 0.7]
+2019-10-26 00:43:30,001 - ## current iteration use step 1000
+2019-10-26 00:43:30,001 - ## current iteration use stay595
+2019-10-26 00:43:46,400 - ## current iteration weight[0.2, 0.8]
+2019-10-26 00:43:46,400 - ## current iteration use step 1000
+2019-10-26 00:43:46,400 - ## current iteration use stay1000
+2019-10-26 00:44:02,820 - ## current iteration weight[0.1, 0.9]
+2019-10-26 00:44:02,820 - ## current iteration use step 1000
+2019-10-26 00:44:02,820 - ## current iteration use stay685
+2019-10-26 00:44:19,071 - ## current iteration weight[0, 1]
+2019-10-26 00:44:19,072 - ## current iteration use step 1000
+2019-10-26 00:44:19,072 - ## current iteration use stay669
+2019-10-26 00:44:19,072 - ## iteration:1, learning problems: 19
+2019-10-26 00:44:35,368 - ## current iteration weight[1, 0]
+2019-10-26 00:44:35,369 - ## current iteration use step 1000
+2019-10-26 00:44:35,369 - ## current iteration use stay555
+2019-10-26 00:44:51,712 - ## current iteration weight[0.9, 0.1]
+2019-10-26 00:44:51,713 - ## current iteration use step 1000
+2019-10-26 00:44:51,713 - ## current iteration use stay551
+2019-10-26 00:45:08,178 - ## current iteration weight[0.8, 0.2]
+2019-10-26 00:45:08,178 - ## current iteration use step 1000
+2019-10-26 00:45:08,178 - ## current iteration use stay531
+2019-10-26 00:45:24,524 - ## current iteration weight[0.7, 0.3]
+2019-10-26 00:45:24,524 - ## current iteration use step 1000
+2019-10-26 00:45:24,524 - ## current iteration use stay512
+2019-10-26 00:45:40,887 - ## current iteration weight[0.6, 0.4]
+2019-10-26 00:45:40,888 - ## current iteration use step 1000
+2019-10-26 00:45:40,888 - ## current iteration use stay563
+2019-10-26 00:45:57,472 - ## current iteration weight[0.5, 0.5]
+2019-10-26 00:45:57,472 - ## current iteration use step 1000
+2019-10-26 00:45:57,472 - ## current iteration use stay552
+2019-10-26 00:46:13,918 - ## current iteration weight[0.4, 0.6]
+2019-10-26 00:46:13,918 - ## current iteration use step 1000
+2019-10-26 00:46:13,918 - ## current iteration use stay599
+2019-10-26 00:46:30,121 - ## current iteration weight[0.3, 0.7]
+2019-10-26 00:46:30,121 - ## current iteration use step 1000
+2019-10-26 00:46:30,122 - ## current iteration use stay603
+2019-10-26 00:46:46,673 - ## current iteration weight[0.2, 0.8]
+2019-10-26 00:46:46,673 - ## current iteration use step 1000
+2019-10-26 00:46:46,673 - ## current iteration use stay1000
+2019-10-26 00:47:03,151 - ## current iteration weight[0.1, 0.9]
+2019-10-26 00:47:03,151 - ## current iteration use step 1000
+2019-10-26 00:47:03,151 - ## current iteration use stay675
+2019-10-26 00:47:19,506 - ## current iteration weight[0, 1]
+2019-10-26 00:47:19,507 - ## current iteration use step 1000
+2019-10-26 00:47:19,507 - ## current iteration use stay674
+2019-10-26 00:47:19,507 - ## iteration:1, learning problems: 20
+2019-10-26 00:47:35,702 - ## current iteration weight[1, 0]
+2019-10-26 00:47:35,704 - ## current iteration use step 1000
+2019-10-26 00:47:35,704 - ## current iteration use stay555
+2019-10-26 00:47:51,991 - ## current iteration weight[0.9, 0.1]
+2019-10-26 00:47:51,991 - ## current iteration use step 1000
+2019-10-26 00:47:51,991 - ## current iteration use stay548
+2019-10-26 00:48:08,648 - ## current iteration weight[0.8, 0.2]
+2019-10-26 00:48:08,648 - ## current iteration use step 1000
+2019-10-26 00:48:08,649 - ## current iteration use stay539
+2019-10-26 00:48:24,986 - ## current iteration weight[0.7, 0.3]
+2019-10-26 00:48:24,986 - ## current iteration use step 1000
+2019-10-26 00:48:24,986 - ## current iteration use stay509
+2019-10-26 00:48:41,525 - ## current iteration weight[0.6, 0.4]
+2019-10-26 00:48:41,526 - ## current iteration use step 1000
+2019-10-26 00:48:41,526 - ## current iteration use stay571
+2019-10-26 00:48:58,039 - ## current iteration weight[0.5, 0.5]
+2019-10-26 00:48:58,039 - ## current iteration use step 1000
+2019-10-26 00:48:58,040 - ## current iteration use stay560
+2019-10-26 00:49:14,681 - ## current iteration weight[0.4, 0.6]
+2019-10-26 00:49:14,681 - ## current iteration use step 1000
+2019-10-26 00:49:14,681 - ## current iteration use stay604
+2019-10-26 00:49:31,120 - ## current iteration weight[0.3, 0.7]
+2019-10-26 00:49:31,120 - ## current iteration use step 1000
+2019-10-26 00:49:31,120 - ## current iteration use stay600
+2019-10-26 00:49:47,660 - ## current iteration weight[0.2, 0.8]
+2019-10-26 00:49:47,660 - ## current iteration use step 1000
+2019-10-26 00:49:47,660 - ## current iteration use stay616
+2019-10-26 00:50:03,995 - ## current iteration weight[0.1, 0.9]
+2019-10-26 00:50:03,995 - ## current iteration use step 1000
+2019-10-26 00:50:03,995 - ## current iteration use stay999
+2019-10-26 00:50:20,514 - ## current iteration weight[0, 1]
+2019-10-26 00:50:20,514 - ## current iteration use step 1000
+2019-10-26 00:50:20,514 - ## current iteration use stay670
+2019-10-26 00:50:20,514 - ## iteration:1, learning problems: 21
+2019-10-26 00:50:36,979 - ## current iteration weight[1, 0]
+2019-10-26 00:50:36,979 - ## current iteration use step 1000
+2019-10-26 00:50:36,979 - ## current iteration use stay548
+2019-10-26 00:50:53,340 - ## current iteration weight[0.9, 0.1]
+2019-10-26 00:50:53,340 - ## current iteration use step 1000
+2019-10-26 00:50:53,340 - ## current iteration use stay513
+2019-10-26 00:51:10,054 - ## current iteration weight[0.8, 0.2]
+2019-10-26 00:51:10,054 - ## current iteration use step 1000
+2019-10-26 00:51:10,054 - ## current iteration use stay530
+2019-10-26 00:51:26,620 - ## current iteration weight[0.7, 0.3]
+2019-10-26 00:51:26,620 - ## current iteration use step 1000
+2019-10-26 00:51:26,620 - ## current iteration use stay509
+2019-10-26 00:51:42,991 - ## current iteration weight[0.6, 0.4]
+2019-10-26 00:51:42,991 - ## current iteration use step 1000
+2019-10-26 00:51:42,991 - ## current iteration use stay586
+2019-10-26 00:51:59,314 - ## current iteration weight[0.5, 0.5]
+2019-10-26 00:51:59,315 - ## current iteration use step 1000
+2019-10-26 00:51:59,315 - ## current iteration use stay563
+2019-10-26 00:52:15,809 - ## current iteration weight[0.4, 0.6]
+2019-10-26 00:52:15,809 - ## current iteration use step 1000
+2019-10-26 00:52:15,810 - ## current iteration use stay597
+2019-10-26 00:52:32,257 - ## current iteration weight[0.3, 0.7]
+2019-10-26 00:52:32,257 - ## current iteration use step 1000
+2019-10-26 00:52:32,258 - ## current iteration use stay604
+2019-10-26 00:52:48,583 - ## current iteration weight[0.2, 0.8]
+2019-10-26 00:52:48,583 - ## current iteration use step 1000
+2019-10-26 00:52:48,583 - ## current iteration use stay636
+2019-10-26 00:53:05,066 - ## current iteration weight[0.1, 0.9]
+2019-10-26 00:53:05,067 - ## current iteration use step 1000
+2019-10-26 00:53:05,067 - ## current iteration use stay1000
+2019-10-26 00:53:21,526 - ## current iteration weight[0, 1]
+2019-10-26 00:53:21,527 - ## current iteration use step 1000
+2019-10-26 00:53:21,527 - ## current iteration use stay681
+2019-10-26 00:53:21,527 - ## iteration:1, learning problems: 22
+2019-10-26 00:53:37,843 - ## current iteration weight[1, 0]
+2019-10-26 00:53:37,843 - ## current iteration use step 1000
+2019-10-26 00:53:37,843 - ## current iteration use stay485
+2019-10-26 00:53:54,274 - ## current iteration weight[0.9, 0.1]
+2019-10-26 00:53:54,274 - ## current iteration use step 1000
+2019-10-26 00:53:54,274 - ## current iteration use stay557
+2019-10-26 00:54:10,657 - ## current iteration weight[0.8, 0.2]
+2019-10-26 00:54:10,657 - ## current iteration use step 1000
+2019-10-26 00:54:10,657 - ## current iteration use stay535
+2019-10-26 00:54:27,114 - ## current iteration weight[0.7, 0.3]
+2019-10-26 00:54:27,114 - ## current iteration use step 1000
+2019-10-26 00:54:27,114 - ## current iteration use stay514
+2019-10-26 00:54:43,487 - ## current iteration weight[0.6, 0.4]
+2019-10-26 00:54:43,487 - ## current iteration use step 1000
+2019-10-26 00:54:43,488 - ## current iteration use stay561
+2019-10-26 00:54:59,889 - ## current iteration weight[0.5, 0.5]
+2019-10-26 00:54:59,890 - ## current iteration use step 1000
+2019-10-26 00:54:59,890 - ## current iteration use stay563
+2019-10-26 00:55:16,347 - ## current iteration weight[0.4, 0.6]
+2019-10-26 00:55:16,348 - ## current iteration use step 1000
+2019-10-26 00:55:16,348 - ## current iteration use stay599
+2019-10-26 00:55:32,755 - ## current iteration weight[0.3, 0.7]
+2019-10-26 00:55:32,755 - ## current iteration use step 1000
+2019-10-26 00:55:32,755 - ## current iteration use stay594
+2019-10-26 00:55:49,430 - ## current iteration weight[0.2, 0.8]
+2019-10-26 00:55:49,430 - ## current iteration use step 1000
+2019-10-26 00:55:49,430 - ## current iteration use stay616
+2019-10-26 00:56:05,968 - ## current iteration weight[0.1, 0.9]
+2019-10-26 00:56:05,968 - ## current iteration use step 1000
+2019-10-26 00:56:05,968 - ## current iteration use stay685
+2019-10-26 00:56:22,402 - ## current iteration weight[0, 1]
+2019-10-26 00:56:22,403 - ## current iteration use step 1000
+2019-10-26 00:56:22,403 - ## current iteration use stay881
+2019-10-26 00:56:22,403 - ## iteration:1, learning problems: 23
+2019-10-26 00:56:38,800 - ## current iteration weight[1, 0]
+2019-10-26 00:56:38,800 - ## current iteration use step 1000
+2019-10-26 00:56:38,800 - ## current iteration use stay539
+2019-10-26 00:56:55,158 - ## current iteration weight[0.9, 0.1]
+2019-10-26 00:56:55,158 - ## current iteration use step 1000
+2019-10-26 00:56:55,158 - ## current iteration use stay582
+2019-10-26 00:57:11,673 - ## current iteration weight[0.8, 0.2]
+2019-10-26 00:57:11,673 - ## current iteration use step 1000
+2019-10-26 00:57:11,673 - ## current iteration use stay526
+2019-10-26 00:57:27,871 - ## current iteration weight[0.7, 0.3]
+2019-10-26 00:57:27,872 - ## current iteration use step 1000
+2019-10-26 00:57:27,872 - ## current iteration use stay513
+2019-10-26 00:57:44,221 - ## current iteration weight[0.6, 0.4]
+2019-10-26 00:57:44,222 - ## current iteration use step 1000
+2019-10-26 00:57:44,222 - ## current iteration use stay552
+2019-10-26 00:58:00,630 - ## current iteration weight[0.5, 0.5]
+2019-10-26 00:58:00,630 - ## current iteration use step 1000
+2019-10-26 00:58:00,630 - ## current iteration use stay567
+2019-10-26 00:58:17,184 - ## current iteration weight[0.4, 0.6]
+2019-10-26 00:58:17,184 - ## current iteration use step 1000
+2019-10-26 00:58:17,184 - ## current iteration use stay612
+2019-10-26 00:58:33,538 - ## current iteration weight[0.3, 0.7]
+2019-10-26 00:58:33,538 - ## current iteration use step 1000
+2019-10-26 00:58:33,538 - ## current iteration use stay604
+2019-10-26 00:58:49,867 - ## current iteration weight[0.2, 0.8]
+2019-10-26 00:58:49,867 - ## current iteration use step 1000
+2019-10-26 00:58:49,867 - ## current iteration use stay637
+2019-10-26 00:59:06,240 - ## current iteration weight[0.1, 0.9]
+2019-10-26 00:59:06,240 - ## current iteration use step 1000
+2019-10-26 00:59:06,240 - ## current iteration use stay999
+2019-10-26 00:59:22,530 - ## current iteration weight[0, 1]
+2019-10-26 00:59:22,530 - ## current iteration use step 1000
+2019-10-26 00:59:22,531 - ## current iteration use stay672
+2019-10-26 00:59:22,531 - ## iteration:1, learning problems: 24
+2019-10-26 00:59:39,128 - ## current iteration weight[1, 0]
+2019-10-26 00:59:39,128 - ## current iteration use step 1000
+2019-10-26 00:59:39,128 - ## current iteration use stay543
+2019-10-26 00:59:55,428 - ## current iteration weight[0.9, 0.1]
+2019-10-26 00:59:55,428 - ## current iteration use step 1000
+2019-10-26 00:59:55,428 - ## current iteration use stay565
+2019-10-26 01:00:11,737 - ## current iteration weight[0.8, 0.2]
+2019-10-26 01:00:11,737 - ## current iteration use step 1000
+2019-10-26 01:00:11,737 - ## current iteration use stay537
+2019-10-26 01:00:28,005 - ## current iteration weight[0.7, 0.3]
+2019-10-26 01:00:28,005 - ## current iteration use step 1000
+2019-10-26 01:00:28,005 - ## current iteration use stay509
+2019-10-26 01:00:44,364 - ## current iteration weight[0.6, 0.4]
+2019-10-26 01:00:44,365 - ## current iteration use step 1000
+2019-10-26 01:00:44,365 - ## current iteration use stay561
+2019-10-26 01:01:00,999 - ## current iteration weight[0.5, 0.5]
+2019-10-26 01:01:00,999 - ## current iteration use step 1000
+2019-10-26 01:01:00,999 - ## current iteration use stay541
+2019-10-26 01:01:17,384 - ## current iteration weight[0.4, 0.6]
+2019-10-26 01:01:17,384 - ## current iteration use step 1000
+2019-10-26 01:01:17,384 - ## current iteration use stay549
+2019-10-26 01:01:33,729 - ## current iteration weight[0.3, 0.7]
+2019-10-26 01:01:33,729 - ## current iteration use step 1000
+2019-10-26 01:01:33,730 - ## current iteration use stay597
+2019-10-26 01:01:50,057 - ## current iteration weight[0.2, 0.8]
+2019-10-26 01:01:50,057 - ## current iteration use step 1000
+2019-10-26 01:01:50,057 - ## current iteration use stay1000
+2019-10-26 01:02:06,453 - ## current iteration weight[0.1, 0.9]
+2019-10-26 01:02:06,453 - ## current iteration use step 1000
+2019-10-26 01:02:06,453 - ## current iteration use stay685
+2019-10-26 01:02:22,854 - ## current iteration weight[0, 1]
+2019-10-26 01:02:22,854 - ## current iteration use step 1000
+2019-10-26 01:02:22,854 - ## current iteration use stay1000
+2019-10-26 01:02:22,854 - ## iteration:1, learning problems: 25
+2019-10-26 01:02:39,135 - ## current iteration weight[1, 0]
+2019-10-26 01:02:39,135 - ## current iteration use step 1000
+2019-10-26 01:02:39,135 - ## current iteration use stay558
+2019-10-26 01:02:55,472 - ## current iteration weight[0.9, 0.1]
+2019-10-26 01:02:55,472 - ## current iteration use step 1000
+2019-10-26 01:02:55,472 - ## current iteration use stay561
+2019-10-26 01:03:11,931 - ## current iteration weight[0.8, 0.2]
+2019-10-26 01:03:11,931 - ## current iteration use step 1000
+2019-10-26 01:03:11,931 - ## current iteration use stay545
+2019-10-26 01:03:29,241 - ## current iteration weight[0.7, 0.3]
+2019-10-26 01:03:29,242 - ## current iteration use step 1000
+2019-10-26 01:03:29,242 - ## current iteration use stay506
+2019-10-26 01:03:45,618 - ## current iteration weight[0.6, 0.4]
+2019-10-26 01:03:45,618 - ## current iteration use step 1000
+2019-10-26 01:03:45,618 - ## current iteration use stay577
+2019-10-26 01:04:01,908 - ## current iteration weight[0.5, 0.5]
+2019-10-26 01:04:01,911 - ## current iteration use step 1000
+2019-10-26 01:04:01,911 - ## current iteration use stay557
+2019-10-26 01:04:18,221 - ## current iteration weight[0.4, 0.6]
+2019-10-26 01:04:18,222 - ## current iteration use step 1000
+2019-10-26 01:04:18,222 - ## current iteration use stay600
+2019-10-26 01:04:34,601 - ## current iteration weight[0.3, 0.7]
+2019-10-26 01:04:34,605 - ## current iteration use step 1000
+2019-10-26 01:04:34,605 - ## current iteration use stay601
+2019-10-26 01:04:50,888 - ## current iteration weight[0.2, 0.8]
+2019-10-26 01:04:50,888 - ## current iteration use step 1000
+2019-10-26 01:04:50,888 - ## current iteration use stay626
+2019-10-26 01:05:07,140 - ## current iteration weight[0.1, 0.9]
+2019-10-26 01:05:07,140 - ## current iteration use step 1000
+2019-10-26 01:05:07,140 - ## current iteration use stay673
+2019-10-26 01:05:23,526 - ## current iteration weight[0, 1]
+2019-10-26 01:05:23,526 - ## current iteration use step 1000
+2019-10-26 01:05:23,526 - ## current iteration use stay671
+2019-10-26 01:05:23,526 - ## iteration:1, learning problems: 26
+2019-10-26 01:05:39,957 - ## current iteration weight[1, 0]
+2019-10-26 01:05:39,957 - ## current iteration use step 1000
+2019-10-26 01:05:39,957 - ## current iteration use stay532
+2019-10-26 01:05:56,410 - ## current iteration weight[0.9, 0.1]
+2019-10-26 01:05:56,410 - ## current iteration use step 1000
+2019-10-26 01:05:56,411 - ## current iteration use stay535
+2019-10-26 01:06:12,740 - ## current iteration weight[0.8, 0.2]
+2019-10-26 01:06:12,740 - ## current iteration use step 1000
+2019-10-26 01:06:12,740 - ## current iteration use stay526
+2019-10-26 01:06:29,009 - ## current iteration weight[0.7, 0.3]
+2019-10-26 01:06:29,009 - ## current iteration use step 1000
+2019-10-26 01:06:29,010 - ## current iteration use stay517
+2019-10-26 01:06:45,346 - ## current iteration weight[0.6, 0.4]
+2019-10-26 01:06:45,347 - ## current iteration use step 1000
+2019-10-26 01:06:45,347 - ## current iteration use stay556
+2019-10-26 01:07:01,800 - ## current iteration weight[0.5, 0.5]
+2019-10-26 01:07:01,802 - ## current iteration use step 1000
+2019-10-26 01:07:01,802 - ## current iteration use stay564
+2019-10-26 01:07:18,117 - ## current iteration weight[0.4, 0.6]
+2019-10-26 01:07:18,117 - ## current iteration use step 1000
+2019-10-26 01:07:18,117 - ## current iteration use stay596
+2019-10-26 01:07:35,511 - ## current iteration weight[0.3, 0.7]
+2019-10-26 01:07:35,511 - ## current iteration use step 1000
+2019-10-26 01:07:35,511 - ## current iteration use stay599
+2019-10-26 01:07:51,820 - ## current iteration weight[0.2, 0.8]
+2019-10-26 01:07:51,820 - ## current iteration use step 1000
+2019-10-26 01:07:51,820 - ## current iteration use stay622
+2019-10-26 01:08:08,365 - ## current iteration weight[0.1, 0.9]
+2019-10-26 01:08:08,365 - ## current iteration use step 1000
+2019-10-26 01:08:08,365 - ## current iteration use stay1000
+2019-10-26 01:08:24,738 - ## current iteration weight[0, 1]
+2019-10-26 01:08:24,738 - ## current iteration use step 1000
+2019-10-26 01:08:24,738 - ## current iteration use stay756
+2019-10-26 01:08:24,738 - ## iteration:1, learning problems: 27
+2019-10-26 01:08:41,139 - ## current iteration weight[1, 0]
+2019-10-26 01:08:41,139 - ## current iteration use step 1000
+2019-10-26 01:08:41,139 - ## current iteration use stay547
+2019-10-26 01:08:57,455 - ## current iteration weight[0.9, 0.1]
+2019-10-26 01:08:57,455 - ## current iteration use step 1000
+2019-10-26 01:08:57,455 - ## current iteration use stay548
+2019-10-26 01:09:13,827 - ## current iteration weight[0.8, 0.2]
+2019-10-26 01:09:13,827 - ## current iteration use step 1000
+2019-10-26 01:09:13,827 - ## current iteration use stay538
+2019-10-26 01:09:29,956 - ## current iteration weight[0.7, 0.3]
+2019-10-26 01:09:29,956 - ## current iteration use step 1000
+2019-10-26 01:09:29,956 - ## current iteration use stay518
+2019-10-26 01:09:46,349 - ## current iteration weight[0.6, 0.4]
+2019-10-26 01:09:46,349 - ## current iteration use step 1000
+2019-10-26 01:09:46,349 - ## current iteration use stay567
+2019-10-26 01:10:02,697 - ## current iteration weight[0.5, 0.5]
+2019-10-26 01:10:02,701 - ## current iteration use step 1000
+2019-10-26 01:10:02,701 - ## current iteration use stay565
+2019-10-26 01:10:18,993 - ## current iteration weight[0.4, 0.6]
+2019-10-26 01:10:18,993 - ## current iteration use step 1000
+2019-10-26 01:10:18,993 - ## current iteration use stay600
+2019-10-26 01:10:35,262 - ## current iteration weight[0.3, 0.7]
+2019-10-26 01:10:35,262 - ## current iteration use step 1000
+2019-10-26 01:10:35,263 - ## current iteration use stay464
+2019-10-26 01:10:51,496 - ## current iteration weight[0.2, 0.8]
+2019-10-26 01:10:51,496 - ## current iteration use step 1000
+2019-10-26 01:10:51,496 - ## current iteration use stay622
+2019-10-26 01:11:08,159 - ## current iteration weight[0.1, 0.9]
+2019-10-26 01:11:08,159 - ## current iteration use step 1000
+2019-10-26 01:11:08,160 - ## current iteration use stay689
+2019-10-26 01:11:24,533 - ## current iteration weight[0, 1]
+2019-10-26 01:11:24,534 - ## current iteration use step 1000
+2019-10-26 01:11:24,534 - ## current iteration use stay826
+2019-10-26 01:11:24,534 - ## iteration:1, learning problems: 28
+2019-10-26 01:11:40,791 - ## current iteration weight[1, 0]
+2019-10-26 01:11:40,791 - ## current iteration use step 1000
+2019-10-26 01:11:40,791 - ## current iteration use stay551
+2019-10-26 01:11:57,210 - ## current iteration weight[0.9, 0.1]
+2019-10-26 01:11:57,210 - ## current iteration use step 1000
+2019-10-26 01:11:57,210 - ## current iteration use stay546
+2019-10-26 01:12:13,902 - ## current iteration weight[0.8, 0.2]
+2019-10-26 01:12:13,902 - ## current iteration use step 1000
+2019-10-26 01:12:13,902 - ## current iteration use stay539
+2019-10-26 01:12:30,165 - ## current iteration weight[0.7, 0.3]
+2019-10-26 01:12:30,166 - ## current iteration use step 1000
+2019-10-26 01:12:30,166 - ## current iteration use stay508
+2019-10-26 01:12:46,523 - ## current iteration weight[0.6, 0.4]
+2019-10-26 01:12:46,523 - ## current iteration use step 1000
+2019-10-26 01:12:46,523 - ## current iteration use stay565
+2019-10-26 01:13:03,231 - ## current iteration weight[0.5, 0.5]
+2019-10-26 01:13:03,231 - ## current iteration use step 1000
+2019-10-26 01:13:03,231 - ## current iteration use stay563
+2019-10-26 01:13:19,696 - ## current iteration weight[0.4, 0.6]
+2019-10-26 01:13:19,696 - ## current iteration use step 1000
+2019-10-26 01:13:19,696 - ## current iteration use stay595
+2019-10-26 01:13:36,014 - ## current iteration weight[0.3, 0.7]
+2019-10-26 01:13:36,014 - ## current iteration use step 1000
+2019-10-26 01:13:36,014 - ## current iteration use stay599
+2019-10-26 01:13:52,284 - ## current iteration weight[0.2, 0.8]
+2019-10-26 01:13:52,284 - ## current iteration use step 1000
+2019-10-26 01:13:52,284 - ## current iteration use stay612
+2019-10-26 01:14:08,640 - ## current iteration weight[0.1, 0.9]
+2019-10-26 01:14:08,641 - ## current iteration use step 1000
+2019-10-26 01:14:08,641 - ## current iteration use stay682
+2019-10-26 01:14:25,017 - ## current iteration weight[0, 1]
+2019-10-26 01:14:25,017 - ## current iteration use step 1000
+2019-10-26 01:14:25,018 - ## current iteration use stay690
+2019-10-26 01:14:25,018 - ## iteration:1, learning problems: 29
+2019-10-26 01:14:41,334 - ## current iteration weight[1, 0]
+2019-10-26 01:14:41,334 - ## current iteration use step 1000
+2019-10-26 01:14:41,335 - ## current iteration use stay548
+2019-10-26 01:14:57,630 - ## current iteration weight[0.9, 0.1]
+2019-10-26 01:14:57,630 - ## current iteration use step 1000
+2019-10-26 01:14:57,630 - ## current iteration use stay558
+2019-10-26 01:15:14,057 - ## current iteration weight[0.8, 0.2]
+2019-10-26 01:15:14,057 - ## current iteration use step 1000
+2019-10-26 01:15:14,057 - ## current iteration use stay536
+2019-10-26 01:15:30,426 - ## current iteration weight[0.7, 0.3]
+2019-10-26 01:15:30,426 - ## current iteration use step 1000
+2019-10-26 01:15:30,427 - ## current iteration use stay518
+2019-10-26 01:15:46,834 - ## current iteration weight[0.6, 0.4]
+2019-10-26 01:15:46,835 - ## current iteration use step 1000
+2019-10-26 01:15:46,835 - ## current iteration use stay565
+2019-10-26 01:16:03,415 - ## current iteration weight[0.5, 0.5]
+2019-10-26 01:16:03,415 - ## current iteration use step 1000
+2019-10-26 01:16:03,415 - ## current iteration use stay571
+2019-10-26 01:16:19,725 - ## current iteration weight[0.4, 0.6]
+2019-10-26 01:16:19,725 - ## current iteration use step 1000
+2019-10-26 01:16:19,725 - ## current iteration use stay607
+2019-10-26 01:16:36,057 - ## current iteration weight[0.3, 0.7]
+2019-10-26 01:16:36,060 - ## current iteration use step 1000
+2019-10-26 01:16:36,060 - ## current iteration use stay603
+2019-10-26 01:16:52,296 - ## current iteration weight[0.2, 0.8]
+2019-10-26 01:16:52,297 - ## current iteration use step 1000
+2019-10-26 01:16:52,297 - ## current iteration use stay618
+2019-10-26 01:17:08,675 - ## current iteration weight[0.1, 0.9]
+2019-10-26 01:17:08,675 - ## current iteration use step 1000
+2019-10-26 01:17:08,675 - ## current iteration use stay692
+2019-10-26 01:17:24,902 - ## current iteration weight[0, 1]
+2019-10-26 01:17:24,902 - ## current iteration use step 1000
+2019-10-26 01:17:24,903 - ## current iteration use stay957
+2019-10-28 18:58:51,229 - ## iteration:1, learning problems: 0
+2019-10-28 18:59:01,828 - ## iteration:1, learning problems: 1
+2019-10-28 18:59:13,955 - ## iteration:1, learning problems: 2
+2019-10-28 18:59:27,116 - ## iteration:1, learning problems: 3
+2019-10-28 18:59:40,026 - ## iteration:1, learning problems: 4
+2019-10-28 18:59:51,878 - ## iteration:1, learning problems: 5
+2019-10-28 19:00:03,340 - ## iteration:1, learning problems: 6
+2019-10-28 19:00:13,690 - ## iteration:1, learning problems: 7
+2019-10-28 19:00:23,654 - ## iteration:1, learning problems: 8
+2019-10-28 19:00:33,475 - ## iteration:1, learning problems: 9
+2019-10-28 19:00:43,547 - ## iteration:1, learning problems: 10
+2019-10-28 19:00:53,494 - ## iteration:1, learning problems: 11
+2019-10-28 19:01:03,755 - ## iteration:1, learning problems: 12
+2019-10-28 19:01:12,100 - ## iteration:1, learning problems: 13
+2019-10-28 19:01:21,698 - ## iteration:1, learning problems: 14
+2019-10-28 19:01:31,314 - ## iteration:1, learning problems: 15
+2019-10-28 19:01:41,179 - ## iteration:1, learning problems: 16
+2019-10-28 19:01:48,914 - ## iteration:1, learning problems: 17
+2019-10-28 19:01:58,928 - ## iteration:1, learning problems: 18
+2019-10-28 19:02:08,534 - ## iteration:1, learning problems: 19
+2019-10-28 19:02:18,083 - ## iteration:1, learning problems: 20
+2019-10-28 19:02:27,660 - ## iteration:1, learning problems: 21
+2019-10-28 19:02:37,309 - ## iteration:1, learning problems: 22
+2019-10-28 19:02:46,861 - ## iteration:1, learning problems: 23
+2019-10-28 19:02:58,225 - ## iteration:1, learning problems: 24
+2019-10-28 19:03:08,264 - ## iteration:1, learning problems: 25
+2019-10-28 19:03:17,935 - ## iteration:1, learning problems: 26
+2019-10-28 19:03:27,747 - ## iteration:1, learning problems: 27
+2019-10-28 19:03:33,998 - ## iteration:1, learning problems: 28
+2019-10-28 19:03:42,420 - ## iteration:1, learning problems: 29
+2019-10-28 19:03:52,063 - ## iteration:1, learning problems: 30
+2019-10-28 19:03:58,188 - ## iteration:1, learning problems: 31
+2019-10-28 19:04:06,165 - ## iteration:1, learning problems: 32
+2019-10-28 19:04:15,728 - ## iteration:1, learning problems: 33
+2019-10-28 19:04:24,188 - ## iteration:1, learning problems: 34
+2019-10-28 19:04:33,791 - ## iteration:1, learning problems: 35
+2019-10-28 19:04:44,222 - ## iteration:1, learning problems: 36
+2019-10-28 19:04:54,672 - ## iteration:1, learning problems: 37
+2019-10-28 19:05:00,947 - ## iteration:1, learning problems: 38
+2019-10-28 19:05:10,776 - ## iteration:1, learning problems: 39
+2019-10-28 19:05:21,001 - ## iteration:1, learning problems: 40
+2019-10-28 19:05:29,100 - ## iteration:1, learning problems: 41
+2019-10-28 19:05:33,851 - ## iteration:1, learning problems: 42
+2019-10-28 19:05:43,658 - ## iteration:1, learning problems: 43
+2019-10-28 19:05:53,575 - ## iteration:1, learning problems: 44
+2019-10-28 19:06:04,297 - ## iteration:1, learning problems: 45
+2019-10-28 19:06:13,813 - ## iteration:1, learning problems: 46
+2019-10-28 19:06:21,905 - ## iteration:1, learning problems: 47
+2019-10-28 19:06:32,917 - ## iteration:1, learning problems: 48
+2019-10-28 19:06:43,540 - ## iteration:1, learning problems: 49
+2019-10-28 19:06:54,113 - ## iteration:1, learning problems: 50
+2019-10-28 19:07:04,532 - ## iteration:1, learning problems: 51
+2019-10-28 19:07:15,651 - ## iteration:1, learning problems: 52
+2019-10-28 19:07:22,519 - ## iteration:1, learning problems: 53
+2019-10-28 19:07:29,886 - ## iteration:1, learning problems: 54
+2019-10-28 19:07:37,240 - ## iteration:1, learning problems: 55
+2019-10-28 19:07:47,049 - ## iteration:1, learning problems: 56
+2019-10-28 19:07:51,190 - ## iteration:1, learning problems: 57
+2019-10-28 19:07:56,844 - ## iteration:1, learning problems: 58
+2019-10-28 19:08:07,545 - ## iteration:1, learning problems: 59
+2019-10-28 19:08:15,477 - ## iteration:1, learning problems: 60
+2019-10-28 19:08:23,696 - ## iteration:1, learning problems: 61
+2019-10-28 19:08:29,548 - ## iteration:1, learning problems: 62
+2019-10-28 19:08:34,449 - ## iteration:1, learning problems: 63
+2019-10-28 19:08:44,589 - ## iteration:1, learning problems: 64
+2019-10-28 19:08:49,440 - ## iteration:1, learning problems: 65
+2019-10-28 19:08:54,524 - ## iteration:1, learning problems: 66
+2019-10-28 19:08:58,252 - ## iteration:1, learning problems: 67
+2019-10-28 19:09:05,393 - ## iteration:1, learning problems: 68
+2019-10-28 19:09:10,458 - ## iteration:1, learning problems: 69
+2019-10-28 19:09:14,796 - ## iteration:1, learning problems: 70
+2019-10-28 19:09:19,174 - ## iteration:1, learning problems: 71
+2019-10-28 19:09:29,335 - ## iteration:1, learning problems: 72
+2019-10-28 19:09:33,705 - ## iteration:1, learning problems: 73
+2019-10-28 19:09:43,622 - ## iteration:1, learning problems: 74
+2019-10-28 19:09:50,831 - ## iteration:1, learning problems: 75
+2019-10-28 19:10:00,693 - ## iteration:1, learning problems: 76
+2019-10-28 19:10:06,780 - ## iteration:1, learning problems: 77
+2019-10-28 19:10:09,837 - ## iteration:1, learning problems: 78
+2019-10-28 19:10:14,783 - ## iteration:1, learning problems: 79
+2019-10-28 19:10:24,552 - ## iteration:1, learning problems: 80
+2019-10-28 19:10:30,756 - ## iteration:1, learning problems: 81
+2019-10-28 19:10:35,562 - ## iteration:1, learning problems: 82
+2019-10-28 19:10:45,360 - ## iteration:1, learning problems: 83
+2019-10-28 19:10:53,577 - ## iteration:1, learning problems: 84
+2019-10-28 19:11:02,433 - ## iteration:1, learning problems: 85
+2019-10-28 19:11:05,791 - ## iteration:1, learning problems: 86
+2019-10-28 19:11:16,350 - ## iteration:1, learning problems: 87
+2019-10-28 19:11:23,460 - ## iteration:1, learning problems: 88
+2019-10-28 19:11:35,062 - ## iteration:1, learning problems: 89
+2019-10-28 19:11:43,494 - ## iteration:1, learning problems: 90
+2019-10-28 19:11:47,708 - ## iteration:1, learning problems: 91
+2019-10-28 19:11:58,304 - ## iteration:1, learning problems: 92
+2019-10-28 19:12:07,502 - ## iteration:1, learning problems: 93
+2019-10-28 19:12:12,946 - ## iteration:1, learning problems: 94
+2019-10-28 19:12:21,283 - ## iteration:1, learning problems: 95
+2019-10-28 19:12:32,677 - ## iteration:1, learning problems: 96
+2019-10-28 19:12:39,020 - ## iteration:1, learning problems: 97
+2019-10-28 19:12:43,771 - ## iteration:1, learning problems: 98
+2019-10-28 19:12:51,980 - ## iteration:1, learning problems: 99
+2019-10-28 19:12:59,046 - ## iteration:1, learning problems: 0
+2019-10-28 19:12:59,905 - ## current iteration weight[1, 0]
+2019-10-28 19:12:59,907 - ## current iteration use step 245
+2019-10-28 19:12:59,907 - ## current iteration use stay76
+2019-10-28 19:13:00,806 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:00,807 - ## current iteration use step 271
+2019-10-28 19:13:00,807 - ## current iteration use stay112
+2019-10-28 19:13:00,809 - ## iteration:1, learning problems: 1
+2019-10-28 19:13:01,813 - ## current iteration weight[1, 0]
+2019-10-28 19:13:01,813 - ## current iteration use step 270
+2019-10-28 19:13:01,813 - ## current iteration use stay76
+2019-10-28 19:13:03,139 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:03,140 - ## current iteration use step 331
+2019-10-28 19:13:03,140 - ## current iteration use stay118
+2019-10-28 19:13:03,140 - ## iteration:1, learning problems: 2
+2019-10-28 19:13:03,935 - ## current iteration weight[1, 0]
+2019-10-28 19:13:03,935 - ## current iteration use step 223
+2019-10-28 19:13:03,935 - ## current iteration use stay74
+2019-10-28 19:13:05,499 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:05,499 - ## current iteration use step 462
+2019-10-28 19:13:05,499 - ## current iteration use stay117
+2019-10-28 19:13:05,499 - ## iteration:1, learning problems: 3
+2019-10-28 19:13:06,293 - ## current iteration weight[1, 0]
+2019-10-28 19:13:06,293 - ## current iteration use step 245
+2019-10-28 19:13:06,293 - ## current iteration use stay88
+2019-10-28 19:13:07,021 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:07,022 - ## current iteration use step 210
+2019-10-28 19:13:07,022 - ## current iteration use stay71
+2019-10-28 19:13:07,022 - ## iteration:1, learning problems: 4
+2019-10-28 19:13:07,817 - ## current iteration weight[1, 0]
+2019-10-28 19:13:07,817 - ## current iteration use step 221
+2019-10-28 19:13:07,817 - ## current iteration use stay74
+2019-10-28 19:13:08,588 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:08,589 - ## current iteration use step 225
+2019-10-28 19:13:08,589 - ## current iteration use stay78
+2019-10-28 19:13:08,589 - ## iteration:1, learning problems: 5
+2019-10-28 19:13:09,453 - ## current iteration weight[1, 0]
+2019-10-28 19:13:09,455 - ## current iteration use step 226
+2019-10-28 19:13:09,455 - ## current iteration use stay77
+2019-10-28 19:13:10,757 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:10,757 - ## current iteration use step 371
+2019-10-28 19:13:10,757 - ## current iteration use stay108
+2019-10-28 19:13:10,757 - ## iteration:1, learning problems: 6
+2019-10-28 19:13:11,516 - ## current iteration weight[1, 0]
+2019-10-28 19:13:11,516 - ## current iteration use step 225
+2019-10-28 19:13:11,516 - ## current iteration use stay75
+2019-10-28 19:13:12,230 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:12,230 - ## current iteration use step 218
+2019-10-28 19:13:12,230 - ## current iteration use stay72
+2019-10-28 19:13:12,230 - ## iteration:1, learning problems: 7
+2019-10-28 19:13:13,007 - ## current iteration weight[1, 0]
+2019-10-28 19:13:13,007 - ## current iteration use step 222
+2019-10-28 19:13:13,007 - ## current iteration use stay71
+2019-10-28 19:13:13,808 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:13,808 - ## current iteration use step 245
+2019-10-28 19:13:13,808 - ## current iteration use stay85
+2019-10-28 19:13:13,808 - ## iteration:1, learning problems: 8
+2019-10-28 19:13:14,574 - ## current iteration weight[1, 0]
+2019-10-28 19:13:14,575 - ## current iteration use step 223
+2019-10-28 19:13:14,575 - ## current iteration use stay73
+2019-10-28 19:13:15,370 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:15,370 - ## current iteration use step 232
+2019-10-28 19:13:15,370 - ## current iteration use stay83
+2019-10-28 19:13:15,371 - ## iteration:1, learning problems: 9
+2019-10-28 19:13:16,188 - ## current iteration weight[1, 0]
+2019-10-28 19:13:16,189 - ## current iteration use step 236
+2019-10-28 19:13:16,189 - ## current iteration use stay74
+2019-10-28 19:13:17,428 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:17,428 - ## current iteration use step 355
+2019-10-28 19:13:17,428 - ## current iteration use stay71
+2019-10-28 19:13:17,428 - ## iteration:1, learning problems: 10
+2019-10-28 19:13:18,244 - ## current iteration weight[1, 0]
+2019-10-28 19:13:18,244 - ## current iteration use step 223
+2019-10-28 19:13:18,245 - ## current iteration use stay70
+2019-10-28 19:13:19,519 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:19,519 - ## current iteration use step 353
+2019-10-28 19:13:19,520 - ## current iteration use stay135
+2019-10-28 19:13:19,520 - ## iteration:1, learning problems: 11
+2019-10-28 19:13:20,371 - ## current iteration weight[1, 0]
+2019-10-28 19:13:20,371 - ## current iteration use step 239
+2019-10-28 19:13:20,371 - ## current iteration use stay87
+2019-10-28 19:13:21,221 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:21,221 - ## current iteration use step 242
+2019-10-28 19:13:21,222 - ## current iteration use stay88
+2019-10-28 19:13:21,222 - ## iteration:1, learning problems: 12
+2019-10-28 19:13:22,055 - ## current iteration weight[1, 0]
+2019-10-28 19:13:22,055 - ## current iteration use step 231
+2019-10-28 19:13:22,056 - ## current iteration use stay66
+2019-10-28 19:13:25,358 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:25,358 - ## current iteration use step 1000
+2019-10-28 19:13:25,358 - ## current iteration use stay0
+2019-10-28 19:13:25,358 - ## iteration:1, learning problems: 13
+2019-10-28 19:13:26,178 - ## current iteration weight[1, 0]
+2019-10-28 19:13:26,178 - ## current iteration use step 243
+2019-10-28 19:13:26,178 - ## current iteration use stay83
+2019-10-28 19:13:26,968 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:26,968 - ## current iteration use step 233
+2019-10-28 19:13:26,969 - ## current iteration use stay84
+2019-10-28 19:13:26,969 - ## iteration:1, learning problems: 14
+2019-10-28 19:13:27,780 - ## current iteration weight[1, 0]
+2019-10-28 19:13:27,780 - ## current iteration use step 235
+2019-10-28 19:13:27,780 - ## current iteration use stay70
+2019-10-28 19:13:29,219 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:29,219 - ## current iteration use step 422
+2019-10-28 19:13:29,219 - ## current iteration use stay108
+2019-10-28 19:13:29,219 - ## iteration:1, learning problems: 15
+2019-10-28 19:13:29,955 - ## current iteration weight[1, 0]
+2019-10-28 19:13:29,957 - ## current iteration use step 230
+2019-10-28 19:13:29,957 - ## current iteration use stay67
+2019-10-28 19:13:31,036 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:31,037 - ## current iteration use step 339
+2019-10-28 19:13:31,037 - ## current iteration use stay126
+2019-10-28 19:13:31,037 - ## iteration:1, learning problems: 16
+2019-10-28 19:13:31,750 - ## current iteration weight[1, 0]
+2019-10-28 19:13:31,750 - ## current iteration use step 223
+2019-10-28 19:13:31,750 - ## current iteration use stay71
+2019-10-28 19:13:32,484 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:32,484 - ## current iteration use step 232
+2019-10-28 19:13:32,484 - ## current iteration use stay81
+2019-10-28 19:13:32,484 - ## iteration:1, learning problems: 17
+2019-10-28 19:13:33,271 - ## current iteration weight[1, 0]
+2019-10-28 19:13:33,271 - ## current iteration use step 246
+2019-10-28 19:13:33,271 - ## current iteration use stay85
+2019-10-28 19:13:33,985 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:33,986 - ## current iteration use step 218
+2019-10-28 19:13:33,986 - ## current iteration use stay75
+2019-10-28 19:13:33,986 - ## iteration:1, learning problems: 18
+2019-10-28 19:13:34,822 - ## current iteration weight[1, 0]
+2019-10-28 19:13:34,823 - ## current iteration use step 240
+2019-10-28 19:13:34,823 - ## current iteration use stay79
+2019-10-28 19:13:35,614 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:35,614 - ## current iteration use step 229
+2019-10-28 19:13:35,614 - ## current iteration use stay83
+2019-10-28 19:13:35,614 - ## iteration:1, learning problems: 19
+2019-10-28 19:13:36,369 - ## current iteration weight[1, 0]
+2019-10-28 19:13:36,369 - ## current iteration use step 225
+2019-10-28 19:13:36,369 - ## current iteration use stay73
+2019-10-28 19:13:37,132 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:37,133 - ## current iteration use step 232
+2019-10-28 19:13:37,133 - ## current iteration use stay81
+2019-10-28 19:13:37,133 - ## iteration:1, learning problems: 20
+2019-10-28 19:13:37,835 - ## current iteration weight[1, 0]
+2019-10-28 19:13:37,835 - ## current iteration use step 221
+2019-10-28 19:13:37,835 - ## current iteration use stay74
+2019-10-28 19:13:38,548 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:38,548 - ## current iteration use step 233
+2019-10-28 19:13:38,548 - ## current iteration use stay86
+2019-10-28 19:13:38,548 - ## iteration:1, learning problems: 21
+2019-10-28 19:13:39,281 - ## current iteration weight[1, 0]
+2019-10-28 19:13:39,281 - ## current iteration use step 239
+2019-10-28 19:13:39,281 - ## current iteration use stay79
+2019-10-28 19:13:40,270 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:40,271 - ## current iteration use step 322
+2019-10-28 19:13:40,271 - ## current iteration use stay109
+2019-10-28 19:13:40,271 - ## iteration:1, learning problems: 22
+2019-10-28 19:13:40,983 - ## current iteration weight[1, 0]
+2019-10-28 19:13:40,983 - ## current iteration use step 225
+2019-10-28 19:13:40,984 - ## current iteration use stay65
+2019-10-28 19:13:41,668 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:41,668 - ## current iteration use step 212
+2019-10-28 19:13:41,668 - ## current iteration use stay73
+2019-10-28 19:13:41,668 - ## iteration:1, learning problems: 23
+2019-10-28 19:13:42,432 - ## current iteration weight[1, 0]
+2019-10-28 19:13:42,432 - ## current iteration use step 233
+2019-10-28 19:13:42,432 - ## current iteration use stay73
+2019-10-28 19:13:43,118 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:43,118 - ## current iteration use step 211
+2019-10-28 19:13:43,118 - ## current iteration use stay73
+2019-10-28 19:13:43,119 - ## iteration:1, learning problems: 24
+2019-10-28 19:13:43,869 - ## current iteration weight[1, 0]
+2019-10-28 19:13:43,869 - ## current iteration use step 238
+2019-10-28 19:13:43,869 - ## current iteration use stay80
+2019-10-28 19:13:44,926 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:44,926 - ## current iteration use step 332
+2019-10-28 19:13:44,926 - ## current iteration use stay117
+2019-10-28 19:13:44,926 - ## iteration:1, learning problems: 25
+2019-10-28 19:13:45,668 - ## current iteration weight[1, 0]
+2019-10-28 19:13:45,669 - ## current iteration use step 226
+2019-10-28 19:13:45,669 - ## current iteration use stay67
+2019-10-28 19:13:46,920 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:46,920 - ## current iteration use step 351
+2019-10-28 19:13:46,920 - ## current iteration use stay131
+2019-10-28 19:13:46,920 - ## iteration:1, learning problems: 26
+2019-10-28 19:13:47,776 - ## current iteration weight[1, 0]
+2019-10-28 19:13:47,776 - ## current iteration use step 241
+2019-10-28 19:13:47,776 - ## current iteration use stay82
+2019-10-28 19:13:49,147 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:49,147 - ## current iteration use step 314
+2019-10-28 19:13:49,147 - ## current iteration use stay107
+2019-10-28 19:13:49,148 - ## iteration:1, learning problems: 27
+2019-10-28 19:13:50,396 - ## current iteration weight[1, 0]
+2019-10-28 19:13:50,396 - ## current iteration use step 249
+2019-10-28 19:13:50,396 - ## current iteration use stay94
+2019-10-28 19:13:51,464 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:51,466 - ## current iteration use step 221
+2019-10-28 19:13:51,466 - ## current iteration use stay73
+2019-10-28 19:13:51,466 - ## iteration:1, learning problems: 28
+2019-10-28 19:13:52,423 - ## current iteration weight[1, 0]
+2019-10-28 19:13:52,424 - ## current iteration use step 241
+2019-10-28 19:13:52,424 - ## current iteration use stay76
+2019-10-28 19:13:53,539 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:53,539 - ## current iteration use step 334
+2019-10-28 19:13:53,539 - ## current iteration use stay126
+2019-10-28 19:13:53,539 - ## iteration:1, learning problems: 29
+2019-10-28 19:13:54,329 - ## current iteration weight[1, 0]
+2019-10-28 19:13:54,329 - ## current iteration use step 242
+2019-10-28 19:13:54,329 - ## current iteration use stay88
+2019-10-28 19:13:55,076 - ## current iteration weight[0.9, 0.1]
+2019-10-28 19:13:55,077 - ## current iteration use step 236
+2019-10-28 19:13:55,077 - ## current iteration use stay87
+2019-10-28 19:18:20,681 - ## iteration:1, learning problems: 0
+2019-10-28 19:24:33,510 - ## iteration:1, learning problems: 0
+2019-10-28 19:24:44,652 - ## iteration:1, learning problems: 0
+2019-10-28 19:25:02,929 - ## current iteration weight[1, 0]
+2019-10-28 19:25:02,930 - ## current iteration use step 1000
+2019-10-28 19:25:02,930 - ## current iteration use stay282
+2019-10-28 19:27:41,134 - ## iteration:1, learning problems: 0
+2019-10-28 19:27:44,192 - ## iteration:1, learning problems: 1
+2019-10-28 19:27:47,282 - ## iteration:1, learning problems: 2
+2019-10-28 19:27:50,524 - ## iteration:1, learning problems: 3
+2019-10-28 19:27:53,874 - ## iteration:1, learning problems: 4
+2019-10-28 19:27:57,089 - ## iteration:1, learning problems: 5
+2019-10-28 19:28:00,298 - ## iteration:1, learning problems: 6
+2019-10-28 19:28:03,843 - ## iteration:1, learning problems: 7
+2019-10-28 19:28:07,200 - ## iteration:1, learning problems: 8
+2019-10-28 19:28:10,551 - ## iteration:1, learning problems: 9
+2019-10-28 19:28:13,888 - ## iteration:1, learning problems: 10
+2019-10-28 19:28:17,167 - ## iteration:1, learning problems: 11
+2019-10-28 19:28:20,567 - ## iteration:1, learning problems: 12
+2019-10-28 19:28:23,881 - ## iteration:1, learning problems: 13
+2019-10-28 19:28:27,228 - ## iteration:1, learning problems: 14
+2019-10-28 19:28:29,468 - ## iteration:1, learning problems: 15
+2019-10-28 19:28:32,758 - ## iteration:1, learning problems: 16
+2019-10-28 19:28:36,179 - ## iteration:1, learning problems: 17
+2019-10-28 19:28:39,462 - ## iteration:1, learning problems: 18
+2019-10-28 19:28:42,833 - ## iteration:1, learning problems: 19
+2019-10-28 19:28:46,092 - ## iteration:1, learning problems: 20
+2019-10-28 19:28:49,370 - ## iteration:1, learning problems: 21
+2019-10-28 19:28:52,696 - ## iteration:1, learning problems: 22
+2019-10-28 19:28:56,037 - ## iteration:1, learning problems: 23
+2019-10-28 19:28:58,878 - ## iteration:1, learning problems: 24
+2019-10-28 19:29:02,275 - ## iteration:1, learning problems: 25
+2019-10-28 19:29:05,624 - ## iteration:1, learning problems: 26
+2019-10-28 19:29:09,029 - ## iteration:1, learning problems: 27
+2019-10-28 19:29:11,885 - ## iteration:1, learning problems: 28
+2019-10-28 19:29:15,246 - ## iteration:1, learning problems: 29
+2019-10-28 19:29:18,556 - ## iteration:1, learning problems: 30
+2019-10-28 19:29:21,900 - ## iteration:1, learning problems: 31
+2019-10-28 19:29:25,257 - ## iteration:1, learning problems: 32
+2019-10-28 19:29:28,503 - ## iteration:1, learning problems: 33
+2019-10-28 19:29:31,739 - ## iteration:1, learning problems: 34
+2019-10-28 19:29:33,303 - ## iteration:1, learning problems: 35
+2019-10-28 19:29:36,659 - ## iteration:1, learning problems: 36
+2019-10-28 19:29:39,154 - ## iteration:1, learning problems: 37
+2019-10-28 19:29:42,413 - ## iteration:1, learning problems: 38
+2019-10-28 19:29:45,674 - ## iteration:1, learning problems: 39
+2019-10-28 19:29:48,955 - ## iteration:1, learning problems: 40
+2019-10-28 19:29:51,428 - ## iteration:1, learning problems: 41
+2019-10-28 19:29:54,038 - ## iteration:1, learning problems: 42
+2019-10-28 19:29:56,462 - ## iteration:1, learning problems: 43
+2019-10-28 19:29:59,518 - ## iteration:1, learning problems: 44
+2019-10-28 19:30:02,774 - ## iteration:1, learning problems: 45
+2019-10-28 19:30:05,512 - ## iteration:1, learning problems: 46
+2019-10-28 19:30:08,344 - ## iteration:1, learning problems: 47
+2019-10-28 19:30:11,254 - ## iteration:1, learning problems: 48
+2019-10-28 19:30:14,512 - ## iteration:1, learning problems: 49
+2019-10-28 19:30:17,735 - ## iteration:1, learning problems: 50
+2019-10-28 19:30:19,359 - ## iteration:1, learning problems: 51
+2019-10-28 19:30:21,677 - ## iteration:1, learning problems: 52
+2019-10-28 19:30:24,933 - ## iteration:1, learning problems: 53
+2019-10-28 19:30:28,120 - ## iteration:1, learning problems: 54
+2019-10-28 19:30:31,399 - ## iteration:1, learning problems: 55
+2019-10-28 19:30:34,287 - ## iteration:1, learning problems: 56
+2019-10-28 19:30:36,388 - ## iteration:1, learning problems: 57
+2019-10-28 19:30:39,596 - ## iteration:1, learning problems: 58
+2019-10-28 19:30:41,889 - ## iteration:1, learning problems: 59
+2019-10-28 19:30:44,416 - ## iteration:1, learning problems: 60
+2019-10-28 19:30:46,943 - ## iteration:1, learning problems: 61
+2019-10-28 19:30:49,002 - ## iteration:1, learning problems: 62
+2019-10-28 19:30:51,138 - ## iteration:1, learning problems: 63
+2019-10-28 19:30:54,400 - ## iteration:1, learning problems: 64
+2019-10-28 19:30:56,334 - ## iteration:1, learning problems: 65
+2019-10-28 19:30:58,242 - ## iteration:1, learning problems: 66
+2019-10-28 19:31:00,393 - ## iteration:1, learning problems: 67
+2019-10-28 19:31:02,759 - ## iteration:1, learning problems: 68
+2019-10-28 19:31:04,305 - ## iteration:1, learning problems: 69
+2019-10-28 19:31:06,437 - ## iteration:1, learning problems: 70
+2019-10-28 19:31:09,814 - ## iteration:1, learning problems: 71
+2019-10-28 19:31:12,215 - ## iteration:1, learning problems: 72
+2019-10-28 19:31:14,905 - ## iteration:1, learning problems: 73
+2019-10-28 19:31:16,271 - ## iteration:1, learning problems: 74
+2019-10-28 19:31:18,922 - ## iteration:1, learning problems: 75
+2019-10-28 19:31:20,767 - ## iteration:1, learning problems: 76
+2019-10-28 19:31:23,819 - ## iteration:1, learning problems: 77
+2019-10-28 19:31:26,030 - ## iteration:1, learning problems: 78
+2019-10-28 19:31:27,988 - ## iteration:1, learning problems: 79
+2019-10-28 19:31:29,563 - ## iteration:1, learning problems: 80
+2019-10-28 19:31:32,734 - ## iteration:1, learning problems: 81
+2019-10-28 19:31:35,039 - ## iteration:1, learning problems: 82
+2019-10-28 19:31:37,549 - ## iteration:1, learning problems: 83
+2019-10-28 19:31:39,208 - ## iteration:1, learning problems: 84
+2019-10-28 19:31:42,301 - ## iteration:1, learning problems: 85
+2019-10-28 19:31:43,907 - ## iteration:1, learning problems: 86
+2019-10-28 19:31:45,440 - ## iteration:1, learning problems: 87
+2019-10-28 19:31:47,882 - ## iteration:1, learning problems: 88
+2019-10-28 19:31:49,704 - ## iteration:1, learning problems: 89
+2019-10-28 19:31:50,926 - ## iteration:1, learning problems: 90
+2019-10-28 19:31:52,622 - ## iteration:1, learning problems: 91
+2019-10-28 19:31:54,593 - ## iteration:1, learning problems: 92
+2019-10-28 19:31:56,053 - ## iteration:1, learning problems: 93
+2019-10-28 19:31:59,394 - ## iteration:1, learning problems: 94
+2019-10-28 19:32:00,881 - ## iteration:1, learning problems: 95
+2019-10-28 19:32:01,911 - ## iteration:1, learning problems: 96
+2019-10-28 19:32:04,353 - ## iteration:1, learning problems: 97
+2019-10-28 19:32:05,633 - ## iteration:1, learning problems: 98
+2019-10-28 19:32:09,022 - ## iteration:1, learning problems: 99
+2019-10-28 19:32:11,600 - ## iteration:1, learning problems: 0
+2019-10-28 19:32:11,993 - ## current iteration weight[1, 0]
+2019-10-28 19:32:11,994 - ## current iteration use step 242
+2019-10-28 19:32:11,994 - ## current iteration use stay82
+2019-10-28 19:32:11,997 - ## iteration:1, learning problems: 1
+2019-10-28 19:32:12,404 - ## current iteration weight[1, 0]
+2019-10-28 19:32:12,404 - ## current iteration use step 244
+2019-10-28 19:32:12,404 - ## current iteration use stay96
+2019-10-28 19:32:12,404 - ## iteration:1, learning problems: 2
+2019-10-28 19:32:12,790 - ## current iteration weight[1, 0]
+2019-10-28 19:32:12,790 - ## current iteration use step 240
+2019-10-28 19:32:12,790 - ## current iteration use stay89
+2019-10-28 19:32:12,790 - ## iteration:1, learning problems: 3
+2019-10-28 19:32:13,169 - ## current iteration weight[1, 0]
+2019-10-28 19:32:13,169 - ## current iteration use step 240
+2019-10-28 19:32:13,170 - ## current iteration use stay91
+2019-10-28 19:32:13,170 - ## iteration:1, learning problems: 4
+2019-10-28 19:32:13,826 - ## current iteration weight[1, 0]
+2019-10-28 19:32:13,826 - ## current iteration use step 407
+2019-10-28 19:32:13,826 - ## current iteration use stay211
+2019-10-28 19:32:13,826 - ## iteration:1, learning problems: 5
+2019-10-28 19:32:14,247 - ## current iteration weight[1, 0]
+2019-10-28 19:32:14,247 - ## current iteration use step 272
+2019-10-28 19:32:14,247 - ## current iteration use stay116
+2019-10-28 19:32:14,248 - ## iteration:1, learning problems: 6
+2019-10-28 19:32:14,631 - ## current iteration weight[1, 0]
+2019-10-28 19:32:14,631 - ## current iteration use step 239
+2019-10-28 19:32:14,631 - ## current iteration use stay84
+2019-10-28 19:32:14,631 - ## iteration:1, learning problems: 7
+2019-10-28 19:32:15,012 - ## current iteration weight[1, 0]
+2019-10-28 19:32:15,012 - ## current iteration use step 239
+2019-10-28 19:32:15,012 - ## current iteration use stay83
+2019-10-28 19:32:15,012 - ## iteration:1, learning problems: 8
+2019-10-28 19:32:15,402 - ## current iteration weight[1, 0]
+2019-10-28 19:32:15,402 - ## current iteration use step 239
+2019-10-28 19:32:15,402 - ## current iteration use stay82
+2019-10-28 19:32:15,402 - ## iteration:1, learning problems: 9
+2019-10-28 19:32:15,790 - ## current iteration weight[1, 0]
+2019-10-28 19:32:15,790 - ## current iteration use step 239
+2019-10-28 19:32:15,790 - ## current iteration use stay82
+2019-10-28 19:32:15,790 - ## iteration:1, learning problems: 10
+2019-10-28 19:32:16,243 - ## current iteration weight[1, 0]
+2019-10-28 19:32:16,243 - ## current iteration use step 282
+2019-10-28 19:32:16,243 - ## current iteration use stay112
+2019-10-28 19:32:16,244 - ## iteration:1, learning problems: 11
+2019-10-28 19:32:16,611 - ## current iteration weight[1, 0]
+2019-10-28 19:32:16,611 - ## current iteration use step 233
+2019-10-28 19:32:16,611 - ## current iteration use stay72
+2019-10-28 19:32:16,611 - ## iteration:1, learning problems: 12
+2019-10-28 19:32:18,217 - ## current iteration weight[1, 0]
+2019-10-28 19:32:18,217 - ## current iteration use step 1000
+2019-10-28 19:32:18,217 - ## current iteration use stay756
+2019-10-28 19:32:18,217 - ## iteration:1, learning problems: 13
+2019-10-28 19:32:18,630 - ## current iteration weight[1, 0]
+2019-10-28 19:32:18,630 - ## current iteration use step 239
+2019-10-28 19:32:18,630 - ## current iteration use stay88
+2019-10-28 19:32:18,630 - ## iteration:1, learning problems: 14
+2019-10-28 19:32:19,030 - ## current iteration weight[1, 0]
+2019-10-28 19:32:19,030 - ## current iteration use step 242
+2019-10-28 19:32:19,030 - ## current iteration use stay100
+2019-10-28 19:32:19,030 - ## iteration:1, learning problems: 15
+2019-10-28 19:32:19,417 - ## current iteration weight[1, 0]
+2019-10-28 19:32:19,417 - ## current iteration use step 244
+2019-10-28 19:32:19,417 - ## current iteration use stay96
+2019-10-28 19:32:19,417 - ## iteration:1, learning problems: 16
+2019-10-28 19:32:19,802 - ## current iteration weight[1, 0]
+2019-10-28 19:32:19,802 - ## current iteration use step 240
+2019-10-28 19:32:19,802 - ## current iteration use stay93
+2019-10-28 19:32:19,802 - ## iteration:1, learning problems: 17
+2019-10-28 19:32:20,320 - ## current iteration weight[1, 0]
+2019-10-28 19:32:20,320 - ## current iteration use step 240
+2019-10-28 19:32:20,320 - ## current iteration use stay89
+2019-10-28 19:32:20,320 - ## iteration:1, learning problems: 18
+2019-10-28 19:32:20,705 - ## current iteration weight[1, 0]
+2019-10-28 19:32:20,705 - ## current iteration use step 240
+2019-10-28 19:32:20,705 - ## current iteration use stay90
+2019-10-28 19:32:20,705 - ## iteration:1, learning problems: 19
+2019-10-28 19:32:21,109 - ## current iteration weight[1, 0]
+2019-10-28 19:32:21,109 - ## current iteration use step 238
+2019-10-28 19:32:21,109 - ## current iteration use stay90
+2019-10-28 19:32:21,109 - ## iteration:1, learning problems: 20
+2019-10-28 19:32:21,555 - ## current iteration weight[1, 0]
+2019-10-28 19:32:21,555 - ## current iteration use step 269
+2019-10-28 19:32:21,556 - ## current iteration use stay110
+2019-10-28 19:32:21,556 - ## iteration:1, learning problems: 21
+2019-10-28 19:32:21,940 - ## current iteration weight[1, 0]
+2019-10-28 19:32:21,940 - ## current iteration use step 243
+2019-10-28 19:32:21,940 - ## current iteration use stay96
+2019-10-28 19:32:21,940 - ## iteration:1, learning problems: 22
+2019-10-28 19:32:22,617 - ## current iteration weight[1, 0]
+2019-10-28 19:32:22,617 - ## current iteration use step 429
+2019-10-28 19:32:22,617 - ## current iteration use stay225
+2019-10-28 19:32:22,617 - ## iteration:1, learning problems: 23
+2019-10-28 19:32:23,005 - ## current iteration weight[1, 0]
+2019-10-28 19:32:23,005 - ## current iteration use step 244
+2019-10-28 19:32:23,005 - ## current iteration use stay97
+2019-10-28 19:32:23,005 - ## iteration:1, learning problems: 24
+2019-10-28 19:32:23,440 - ## current iteration weight[1, 0]
+2019-10-28 19:32:23,440 - ## current iteration use step 272
+2019-10-28 19:32:23,441 - ## current iteration use stay110
+2019-10-28 19:32:23,441 - ## iteration:1, learning problems: 25
+2019-10-28 19:32:23,830 - ## current iteration weight[1, 0]
+2019-10-28 19:32:23,831 - ## current iteration use step 241
+2019-10-28 19:32:23,831 - ## current iteration use stay83
+2019-10-28 19:32:23,831 - ## iteration:1, learning problems: 26
+2019-10-28 19:32:24,212 - ## current iteration weight[1, 0]
+2019-10-28 19:32:24,213 - ## current iteration use step 239
+2019-10-28 19:32:24,213 - ## current iteration use stay87
+2019-10-28 19:32:24,213 - ## iteration:1, learning problems: 27
+2019-10-28 19:32:24,598 - ## current iteration weight[1, 0]
+2019-10-28 19:32:24,599 - ## current iteration use step 241
+2019-10-28 19:32:24,599 - ## current iteration use stay91
+2019-10-28 19:32:24,599 - ## iteration:1, learning problems: 28
+2019-10-28 19:32:25,035 - ## current iteration weight[1, 0]
+2019-10-28 19:32:25,035 - ## current iteration use step 243
+2019-10-28 19:32:25,035 - ## current iteration use stay96
+2019-10-28 19:32:25,035 - ## iteration:1, learning problems: 29
+2019-10-28 19:32:25,420 - ## current iteration weight[1, 0]
+2019-10-28 19:32:25,421 - ## current iteration use step 239
+2019-10-28 19:32:25,421 - ## current iteration use stay92
+2019-10-28 19:32:25,685 - ## iteration:2, learning problems: 0
+2019-10-28 19:32:28,161 - ## iteration:2, learning problems: 1
+2019-10-28 19:32:30,290 - ## iteration:2, learning problems: 2
+2019-10-28 19:32:33,441 - ## iteration:2, learning problems: 3
+2019-10-28 19:32:36,338 - ## iteration:2, learning problems: 4
+2019-10-28 19:32:38,580 - ## iteration:2, learning problems: 5
+2019-10-28 19:32:39,704 - ## iteration:2, learning problems: 6
+2019-10-28 19:32:42,655 - ## iteration:2, learning problems: 7
+2019-10-28 19:32:46,075 - ## iteration:2, learning problems: 8
+2019-10-28 19:32:48,219 - ## iteration:2, learning problems: 9
+2019-10-28 19:32:51,519 - ## iteration:2, learning problems: 10
+2019-10-28 19:32:54,776 - ## iteration:2, learning problems: 11
+2019-10-28 19:32:58,060 - ## iteration:2, learning problems: 12
+2019-10-28 19:33:01,489 - ## iteration:2, learning problems: 13
+2019-10-28 19:33:04,112 - ## iteration:2, learning problems: 14
+2019-10-28 19:33:07,390 - ## iteration:2, learning problems: 15
+2019-10-28 19:33:10,720 - ## iteration:2, learning problems: 16
+2019-10-28 19:33:14,015 - ## iteration:2, learning problems: 17
+2019-10-28 19:33:17,338 - ## iteration:2, learning problems: 18
+2019-10-28 19:33:20,661 - ## iteration:2, learning problems: 19
+2019-10-28 19:33:23,942 - ## iteration:2, learning problems: 20
+2019-10-28 19:33:26,160 - ## iteration:2, learning problems: 21
+2019-10-28 19:33:27,543 - ## iteration:2, learning problems: 22
+2019-10-28 19:33:28,992 - ## iteration:2, learning problems: 23
+2019-10-28 19:33:30,748 - ## iteration:2, learning problems: 24
+2019-10-28 19:33:34,117 - ## iteration:2, learning problems: 25
+2019-10-28 19:33:37,391 - ## iteration:2, learning problems: 26
+2019-10-28 19:33:39,250 - ## iteration:2, learning problems: 27
+2019-10-28 19:33:42,583 - ## iteration:2, learning problems: 28
+2019-10-28 19:33:44,702 - ## iteration:2, learning problems: 29
+2019-10-28 19:33:46,167 - ## iteration:2, learning problems: 30
+2019-10-28 19:33:48,405 - ## iteration:2, learning problems: 31
+2019-10-28 19:33:50,400 - ## iteration:2, learning problems: 32
+2019-10-28 19:33:52,291 - ## iteration:2, learning problems: 33
+2019-10-28 19:33:53,597 - ## iteration:2, learning problems: 34
+2019-10-28 19:33:55,320 - ## iteration:2, learning problems: 35
+2019-10-28 19:33:56,681 - ## iteration:2, learning problems: 36
+2019-10-28 19:33:59,364 - ## iteration:2, learning problems: 37
+2019-10-28 19:34:00,474 - ## iteration:2, learning problems: 38
+2019-10-28 19:34:02,513 - ## iteration:2, learning problems: 39
+2019-10-28 19:34:05,855 - ## iteration:2, learning problems: 40
+2019-10-28 19:34:08,701 - ## iteration:2, learning problems: 41
+2019-10-28 19:34:10,075 - ## iteration:2, learning problems: 42
+2019-10-28 19:34:11,450 - ## iteration:2, learning problems: 43
+2019-10-28 19:34:13,075 - ## iteration:2, learning problems: 44
+2019-10-28 19:34:16,445 - ## iteration:2, learning problems: 45
+2019-10-28 19:34:18,631 - ## iteration:2, learning problems: 46
+2019-10-28 19:34:20,907 - ## iteration:2, learning problems: 47
+2019-10-28 19:34:23,187 - ## iteration:2, learning problems: 48
+2019-10-28 19:34:24,688 - ## iteration:2, learning problems: 49
+2019-10-28 19:34:26,409 - ## iteration:2, learning problems: 50
+2019-10-28 19:34:29,716 - ## iteration:2, learning problems: 51
+2019-10-28 19:34:32,550 - ## iteration:2, learning problems: 52
+2019-10-28 19:34:33,898 - ## iteration:2, learning problems: 53
+2019-10-28 19:34:36,567 - ## iteration:2, learning problems: 54
+2019-10-28 19:34:38,129 - ## iteration:2, learning problems: 55
+2019-10-28 19:34:39,874 - ## iteration:2, learning problems: 56
+2019-10-28 19:34:41,944 - ## iteration:2, learning problems: 57
+2019-10-28 19:34:43,296 - ## iteration:2, learning problems: 58
+2019-10-28 19:34:45,172 - ## iteration:2, learning problems: 59
+2019-10-28 19:34:47,346 - ## iteration:2, learning problems: 60
+2019-10-28 19:34:49,268 - ## iteration:2, learning problems: 61
+2019-10-28 19:34:51,182 - ## iteration:2, learning problems: 62
+2019-10-28 19:34:52,506 - ## iteration:2, learning problems: 63
+2019-10-28 19:34:53,559 - ## iteration:2, learning problems: 64
+2019-10-28 19:34:54,706 - ## iteration:2, learning problems: 65
+2019-10-28 19:34:55,823 - ## iteration:2, learning problems: 66
+2019-10-28 19:34:58,650 - ## iteration:2, learning problems: 67
+2019-10-28 19:35:00,868 - ## iteration:2, learning problems: 68
+2019-10-28 19:35:02,134 - ## iteration:2, learning problems: 69
+2019-10-28 19:35:03,715 - ## iteration:2, learning problems: 70
+2019-10-28 19:35:05,536 - ## iteration:2, learning problems: 71
+2019-10-28 19:35:08,870 - ## iteration:2, learning problems: 72
+2019-10-28 19:35:11,095 - ## iteration:2, learning problems: 73
+2019-10-28 19:35:13,649 - ## iteration:2, learning problems: 74
+2019-10-28 19:35:14,688 - ## iteration:2, learning problems: 75
+2019-10-28 19:35:16,521 - ## iteration:2, learning problems: 76
+2019-10-28 19:35:19,774 - ## iteration:2, learning problems: 77
+2019-10-28 19:35:23,202 - ## iteration:2, learning problems: 78
+2019-10-28 19:35:26,516 - ## iteration:2, learning problems: 79
+2019-10-28 19:35:29,025 - ## iteration:2, learning problems: 80
+2019-10-28 19:35:31,194 - ## iteration:2, learning problems: 81
+2019-10-28 19:35:34,331 - ## iteration:2, learning problems: 82
+2019-10-28 19:35:36,128 - ## iteration:2, learning problems: 83
+2019-10-28 19:35:38,208 - ## iteration:2, learning problems: 84
+2019-10-28 19:35:39,587 - ## iteration:2, learning problems: 85
+2019-10-28 19:35:41,622 - ## iteration:2, learning problems: 86
+2019-10-28 19:35:43,144 - ## iteration:2, learning problems: 87
+2019-10-28 19:35:45,234 - ## iteration:2, learning problems: 88
+2019-10-28 19:35:47,091 - ## iteration:2, learning problems: 89
+2019-10-28 19:35:49,038 - ## iteration:2, learning problems: 90
+2019-10-28 19:35:50,977 - ## iteration:2, learning problems: 91
+2019-10-28 19:35:52,412 - ## iteration:2, learning problems: 92
+2019-10-28 19:35:53,706 - ## iteration:2, learning problems: 93
+2019-10-28 19:35:55,370 - ## iteration:2, learning problems: 94
+2019-10-28 19:35:56,924 - ## iteration:2, learning problems: 95
+2019-10-28 19:36:00,282 - ## iteration:2, learning problems: 96
+2019-10-28 19:36:02,975 - ## iteration:2, learning problems: 97
+2019-10-28 19:36:04,687 - ## iteration:2, learning problems: 98
+2019-10-28 19:36:06,295 - ## iteration:2, learning problems: 99
+2019-10-28 19:36:09,339 - ## iteration:2, learning problems: 0
+2019-10-28 19:36:09,753 - ## current iteration weight[1, 0]
+2019-10-28 19:36:09,753 - ## current iteration use step 262
+2019-10-28 19:36:09,753 - ## current iteration use stay80
+2019-10-28 19:36:09,756 - ## iteration:2, learning problems: 1
+2019-10-28 19:36:10,078 - ## current iteration weight[1, 0]
+2019-10-28 19:36:10,078 - ## current iteration use step 197
+2019-10-28 19:36:10,079 - ## current iteration use stay49
+2019-10-28 19:36:10,079 - ## iteration:2, learning problems: 2
+2019-10-28 19:36:10,508 - ## current iteration weight[1, 0]
+2019-10-28 19:36:10,508 - ## current iteration use step 264
+2019-10-28 19:36:10,508 - ## current iteration use stay80
+2019-10-28 19:36:10,508 - ## iteration:2, learning problems: 3
+2019-10-28 19:36:10,874 - ## current iteration weight[1, 0]
+2019-10-28 19:36:10,874 - ## current iteration use step 224
+2019-10-28 19:36:10,874 - ## current iteration use stay55
+2019-10-28 19:36:10,874 - ## iteration:2, learning problems: 4
+2019-10-28 19:36:11,320 - ## current iteration weight[1, 0]
+2019-10-28 19:36:11,320 - ## current iteration use step 265
+2019-10-28 19:36:11,320 - ## current iteration use stay82
+2019-10-28 19:36:11,320 - ## iteration:2, learning problems: 5
+2019-10-28 19:36:11,649 - ## current iteration weight[1, 0]
+2019-10-28 19:36:11,649 - ## current iteration use step 196
+2019-10-28 19:36:11,649 - ## current iteration use stay49
+2019-10-28 19:36:11,649 - ## iteration:2, learning problems: 6
+2019-10-28 19:36:12,083 - ## current iteration weight[1, 0]
+2019-10-28 19:36:12,083 - ## current iteration use step 263
+2019-10-28 19:36:12,083 - ## current iteration use stay82
+2019-10-28 19:36:12,083 - ## iteration:2, learning problems: 7
+2019-10-28 19:36:13,714 - ## current iteration weight[1, 0]
+2019-10-28 19:36:13,714 - ## current iteration use step 1000
+2019-10-28 19:36:13,714 - ## current iteration use stay0
+2019-10-28 19:36:13,715 - ## iteration:2, learning problems: 8
+2019-10-28 19:36:14,289 - ## current iteration weight[1, 0]
+2019-10-28 19:36:14,289 - ## current iteration use step 358
+2019-10-28 19:36:14,289 - ## current iteration use stay78
+2019-10-28 19:36:14,289 - ## iteration:2, learning problems: 9
+2019-10-28 19:36:14,722 - ## current iteration weight[1, 0]
+2019-10-28 19:36:14,722 - ## current iteration use step 264
+2019-10-28 19:36:14,722 - ## current iteration use stay82
+2019-10-28 19:36:14,722 - ## iteration:2, learning problems: 10
+2019-10-28 19:36:15,047 - ## current iteration weight[1, 0]
+2019-10-28 19:36:15,047 - ## current iteration use step 195
+2019-10-28 19:36:15,047 - ## current iteration use stay47
+2019-10-28 19:36:15,047 - ## iteration:2, learning problems: 11
+2019-10-28 19:36:15,428 - ## current iteration weight[1, 0]
+2019-10-28 19:36:15,428 - ## current iteration use step 225
+2019-10-28 19:36:15,428 - ## current iteration use stay59
+2019-10-28 19:36:15,428 - ## iteration:2, learning problems: 12
+2019-10-28 19:36:15,875 - ## current iteration weight[1, 0]
+2019-10-28 19:36:15,876 - ## current iteration use step 263
+2019-10-28 19:36:15,876 - ## current iteration use stay82
+2019-10-28 19:36:15,876 - ## iteration:2, learning problems: 13
+2019-10-28 19:36:16,257 - ## current iteration weight[1, 0]
+2019-10-28 19:36:16,257 - ## current iteration use step 225
+2019-10-28 19:36:16,257 - ## current iteration use stay57
+2019-10-28 19:36:16,257 - ## iteration:2, learning problems: 14
+2019-10-28 19:36:16,690 - ## current iteration weight[1, 0]
+2019-10-28 19:36:16,690 - ## current iteration use step 265
+2019-10-28 19:36:16,690 - ## current iteration use stay82
+2019-10-28 19:36:16,690 - ## iteration:2, learning problems: 15
+2019-10-28 19:36:17,246 - ## current iteration weight[1, 0]
+2019-10-28 19:36:17,246 - ## current iteration use step 322
+2019-10-28 19:36:17,246 - ## current iteration use stay56
+2019-10-28 19:36:17,246 - ## iteration:2, learning problems: 16
+2019-10-28 19:36:17,681 - ## current iteration weight[1, 0]
+2019-10-28 19:36:17,682 - ## current iteration use step 265
+2019-10-28 19:36:17,682 - ## current iteration use stay82
+2019-10-28 19:36:17,682 - ## iteration:2, learning problems: 17
+2019-10-28 19:36:17,996 - ## current iteration weight[1, 0]
+2019-10-28 19:36:17,996 - ## current iteration use step 196
+2019-10-28 19:36:17,996 - ## current iteration use stay49
+2019-10-28 19:36:17,996 - ## iteration:2, learning problems: 18
+2019-10-28 19:36:18,499 - ## current iteration weight[1, 0]
+2019-10-28 19:36:18,500 - ## current iteration use step 263
+2019-10-28 19:36:18,500 - ## current iteration use stay83
+2019-10-28 19:36:18,500 - ## iteration:2, learning problems: 19
+2019-10-28 19:36:18,949 - ## current iteration weight[1, 0]
+2019-10-28 19:36:18,949 - ## current iteration use step 259
+2019-10-28 19:36:18,949 - ## current iteration use stay82
+2019-10-28 19:36:18,950 - ## iteration:2, learning problems: 20
+2019-10-28 19:36:19,364 - ## current iteration weight[1, 0]
+2019-10-28 19:36:19,365 - ## current iteration use step 265
+2019-10-28 19:36:19,365 - ## current iteration use stay80
+2019-10-28 19:36:19,365 - ## iteration:2, learning problems: 21
+2019-10-28 19:36:19,785 - ## current iteration weight[1, 0]
+2019-10-28 19:36:19,785 - ## current iteration use step 264
+2019-10-28 19:36:19,786 - ## current iteration use stay80
+2019-10-28 19:36:19,786 - ## iteration:2, learning problems: 22
+2019-10-28 19:36:20,160 - ## current iteration weight[1, 0]
+2019-10-28 19:36:20,160 - ## current iteration use step 222
+2019-10-28 19:36:20,160 - ## current iteration use stay55
+2019-10-28 19:36:20,160 - ## iteration:2, learning problems: 23
+2019-10-28 19:36:20,588 - ## current iteration weight[1, 0]
+2019-10-28 19:36:20,588 - ## current iteration use step 265
+2019-10-28 19:36:20,588 - ## current iteration use stay80
+2019-10-28 19:36:20,588 - ## iteration:2, learning problems: 24
+2019-10-28 19:36:20,919 - ## current iteration weight[1, 0]
+2019-10-28 19:36:20,919 - ## current iteration use step 195
+2019-10-28 19:36:20,919 - ## current iteration use stay48
+2019-10-28 19:36:20,920 - ## iteration:2, learning problems: 25
+2019-10-28 19:36:21,356 - ## current iteration weight[1, 0]
+2019-10-28 19:36:21,357 - ## current iteration use step 259
+2019-10-28 19:36:21,357 - ## current iteration use stay77
+2019-10-28 19:36:21,357 - ## iteration:2, learning problems: 26
+2019-10-28 19:36:21,795 - ## current iteration weight[1, 0]
+2019-10-28 19:36:21,795 - ## current iteration use step 263
+2019-10-28 19:36:21,795 - ## current iteration use stay79
+2019-10-28 19:36:21,795 - ## iteration:2, learning problems: 27
+2019-10-28 19:36:22,319 - ## current iteration weight[1, 0]
+2019-10-28 19:36:22,319 - ## current iteration use step 319
+2019-10-28 19:36:22,319 - ## current iteration use stay57
+2019-10-28 19:36:22,319 - ## iteration:2, learning problems: 28
+2019-10-28 19:36:22,743 - ## current iteration weight[1, 0]
+2019-10-28 19:36:22,744 - ## current iteration use step 261
+2019-10-28 19:36:22,744 - ## current iteration use stay79
+2019-10-28 19:36:22,744 - ## iteration:2, learning problems: 29
+2019-10-28 19:36:23,125 - ## current iteration weight[1, 0]
+2019-10-28 19:36:23,125 - ## current iteration use step 227
+2019-10-28 19:36:23,125 - ## current iteration use stay63
+2019-10-29 21:38:03,379 - ## iteration:1, learning problems: 0
+2019-10-29 21:38:06,609 - ## iteration:1, learning problems: 1
+2019-10-29 21:38:09,660 - ## iteration:1, learning problems: 2
+2019-10-29 21:38:12,883 - ## iteration:1, learning problems: 3
+2019-10-29 21:38:16,102 - ## iteration:1, learning problems: 4
+2019-10-29 21:38:19,348 - ## iteration:1, learning problems: 5
+2019-10-29 21:38:22,449 - ## iteration:1, learning problems: 6
+2019-10-29 21:38:25,082 - ## iteration:1, learning problems: 7
+2019-10-29 21:38:28,221 - ## iteration:1, learning problems: 8
+2019-10-29 21:38:31,372 - ## iteration:1, learning problems: 9
+2019-10-29 21:38:34,588 - ## iteration:1, learning problems: 10
+2019-10-29 21:38:37,796 - ## iteration:1, learning problems: 11
+2019-10-29 21:38:41,015 - ## iteration:1, learning problems: 12
+2019-10-29 21:38:43,604 - ## iteration:1, learning problems: 13
+2019-10-29 21:38:46,639 - ## iteration:1, learning problems: 14
+2019-10-29 21:38:49,854 - ## iteration:1, learning problems: 15
+2019-10-29 21:38:52,982 - ## iteration:1, learning problems: 16
+2019-10-29 21:38:56,163 - ## iteration:1, learning problems: 17
+2019-10-29 21:38:59,320 - ## iteration:1, learning problems: 18
+2019-10-29 21:39:02,449 - ## iteration:1, learning problems: 19
+2019-10-29 21:39:05,628 - ## iteration:1, learning problems: 20
+2019-10-29 21:39:08,801 - ## iteration:1, learning problems: 21
+2019-10-29 21:39:10,587 - ## iteration:1, learning problems: 22
+2019-10-29 21:39:13,902 - ## iteration:1, learning problems: 23
+2019-10-29 21:39:17,149 - ## iteration:1, learning problems: 24
+2019-10-29 21:39:20,369 - ## iteration:1, learning problems: 25
+2019-10-29 21:39:23,535 - ## iteration:1, learning problems: 26
+2019-10-29 21:39:26,780 - ## iteration:1, learning problems: 27
+2019-10-29 21:39:29,898 - ## iteration:1, learning problems: 28
+2019-10-29 21:39:33,139 - ## iteration:1, learning problems: 29
+2019-10-29 21:39:35,583 - ## iteration:1, learning problems: 30
+2019-10-29 21:39:38,118 - ## iteration:1, learning problems: 31
+2019-10-29 21:39:41,260 - ## iteration:1, learning problems: 32
+2019-10-29 21:39:44,636 - ## iteration:1, learning problems: 33
+2019-10-29 21:39:47,764 - ## iteration:1, learning problems: 34
+2019-10-29 21:39:50,363 - ## iteration:1, learning problems: 35
+2019-10-29 21:39:53,456 - ## iteration:1, learning problems: 36
+2019-10-29 21:39:56,690 - ## iteration:1, learning problems: 37
+2019-10-29 21:39:57,904 - ## iteration:1, learning problems: 38
+2019-10-29 21:40:01,051 - ## iteration:1, learning problems: 39
+2019-10-29 21:40:02,758 - ## iteration:1, learning problems: 40
+2019-10-29 21:40:05,854 - ## iteration:1, learning problems: 41
+2019-10-29 21:40:09,145 - ## iteration:1, learning problems: 42
+2019-10-29 21:40:11,421 - ## iteration:1, learning problems: 43
+2019-10-29 21:40:12,956 - ## iteration:1, learning problems: 44
+2019-10-29 21:40:14,770 - ## iteration:1, learning problems: 45
+2019-10-29 21:40:17,327 - ## iteration:1, learning problems: 46
+2019-10-29 21:40:20,424 - ## iteration:1, learning problems: 47
+2019-10-29 21:40:22,483 - ## iteration:1, learning problems: 48
+2019-10-29 21:40:25,507 - ## iteration:1, learning problems: 49
+2019-10-29 21:40:28,034 - ## iteration:1, learning problems: 50
+2019-10-29 21:40:31,109 - ## iteration:1, learning problems: 51
+2019-10-29 21:40:34,211 - ## iteration:1, learning problems: 52
+2019-10-29 21:40:36,231 - ## iteration:1, learning problems: 53
+2019-10-29 21:40:37,802 - ## iteration:1, learning problems: 54
+2019-10-29 21:40:39,575 - ## iteration:1, learning problems: 55
+2019-10-29 21:40:41,348 - ## iteration:1, learning problems: 56
+2019-10-29 21:40:43,359 - ## iteration:1, learning problems: 57
+2019-10-29 21:40:45,214 - ## iteration:1, learning problems: 58
+2019-10-29 21:40:47,249 - ## iteration:1, learning problems: 59
+2019-10-29 21:40:49,002 - ## iteration:1, learning problems: 60
+2019-10-29 21:40:50,623 - ## iteration:1, learning problems: 61
+2019-10-29 21:40:52,035 - ## iteration:1, learning problems: 62
+2019-10-29 21:40:54,704 - ## iteration:1, learning problems: 63
+2019-10-29 21:40:56,166 - ## iteration:1, learning problems: 64
+2019-10-29 21:40:58,403 - ## iteration:1, learning problems: 65
+2019-10-29 21:41:00,211 - ## iteration:1, learning problems: 66
+2019-10-29 21:41:01,593 - ## iteration:1, learning problems: 67
+2019-10-29 21:41:02,594 - ## iteration:1, learning problems: 68
+2019-10-29 21:41:04,782 - ## iteration:1, learning problems: 69
+2019-10-29 21:41:06,188 - ## iteration:1, learning problems: 70
+2019-10-29 21:41:08,956 - ## iteration:1, learning problems: 71
+2019-10-29 21:41:12,042 - ## iteration:1, learning problems: 72
+2019-10-29 21:41:15,250 - ## iteration:1, learning problems: 73
+2019-10-29 21:41:16,861 - ## iteration:1, learning problems: 74
+2019-10-29 21:41:18,600 - ## iteration:1, learning problems: 75
+2019-10-29 21:41:20,332 - ## iteration:1, learning problems: 76
+2019-10-29 21:41:22,063 - ## iteration:1, learning problems: 77
+2019-10-29 21:41:23,580 - ## iteration:1, learning problems: 78
+2019-10-29 21:41:25,352 - ## iteration:1, learning problems: 79
+2019-10-29 21:41:28,479 - ## iteration:1, learning problems: 80
+2019-10-29 21:41:31,573 - ## iteration:1, learning problems: 81
+2019-10-29 21:41:33,195 - ## iteration:1, learning problems: 82
+2019-10-29 21:41:36,396 - ## iteration:1, learning problems: 83
+2019-10-29 21:41:39,809 - ## iteration:1, learning problems: 84
+2019-10-29 21:41:42,047 - ## iteration:1, learning problems: 85
+2019-10-29 21:41:45,067 - ## iteration:1, learning problems: 86
+2019-10-29 21:41:48,019 - ## iteration:1, learning problems: 87
+2019-10-29 21:41:51,101 - ## iteration:1, learning problems: 88
+2019-10-29 21:41:53,908 - ## iteration:1, learning problems: 89
+2019-10-29 21:41:55,257 - ## iteration:1, learning problems: 90
+2019-10-29 21:41:58,384 - ## iteration:1, learning problems: 91
+2019-10-29 21:42:01,574 - ## iteration:1, learning problems: 92
+2019-10-29 21:42:04,499 - ## iteration:1, learning problems: 93
+2019-10-29 21:42:06,377 - ## iteration:1, learning problems: 94
+2019-10-29 21:42:08,240 - ## iteration:1, learning problems: 95
+2019-10-29 21:42:09,626 - ## iteration:1, learning problems: 96
+2019-10-29 21:42:11,477 - ## iteration:1, learning problems: 97
+2019-10-29 21:42:12,995 - ## iteration:1, learning problems: 98
+2019-10-29 21:42:15,921 - ## iteration:1, learning problems: 99
+2019-10-29 21:42:18,553 - ## iteration:1, learning problems: 0
+2019-10-29 21:42:19,213 - ## current iteration weight[1, 0]
+2019-10-29 21:42:19,213 - ## current iteration use step 433
+2019-10-29 21:42:19,213 - ## current iteration use stay219
+2019-10-29 21:42:19,216 - ## iteration:1, learning problems: 1
+2019-10-29 21:42:19,694 - ## current iteration weight[1, 0]
+2019-10-29 21:42:19,694 - ## current iteration use step 308
+2019-10-29 21:42:19,694 - ## current iteration use stay110
+2019-10-29 21:42:19,694 - ## iteration:1, learning problems: 2
+2019-10-29 21:42:20,177 - ## current iteration weight[1, 0]
+2019-10-29 21:42:20,177 - ## current iteration use step 312
+2019-10-29 21:42:20,177 - ## current iteration use stay117
+2019-10-29 21:42:20,177 - ## iteration:1, learning problems: 3
+2019-10-29 21:42:20,665 - ## current iteration weight[1, 0]
+2019-10-29 21:42:20,665 - ## current iteration use step 309
+2019-10-29 21:42:20,665 - ## current iteration use stay116
+2019-10-29 21:42:20,665 - ## iteration:1, learning problems: 4
+2019-10-29 21:42:21,188 - ## current iteration weight[1, 0]
+2019-10-29 21:42:21,189 - ## current iteration use step 309
+2019-10-29 21:42:21,189 - ## current iteration use stay112
+2019-10-29 21:42:21,189 - ## iteration:1, learning problems: 5
+2019-10-29 21:42:21,544 - ## current iteration weight[1, 0]
+2019-10-29 21:42:21,544 - ## current iteration use step 233
+2019-10-29 21:42:21,545 - ## current iteration use stay92
+2019-10-29 21:42:21,545 - ## iteration:1, learning problems: 6
+2019-10-29 21:42:21,933 - ## current iteration weight[1, 0]
+2019-10-29 21:42:21,933 - ## current iteration use step 254
+2019-10-29 21:42:21,933 - ## current iteration use stay63
+2019-10-29 21:42:21,934 - ## iteration:1, learning problems: 7
+2019-10-29 21:42:22,345 - ## current iteration weight[1, 0]
+2019-10-29 21:42:22,345 - ## current iteration use step 270
+2019-10-29 21:42:22,345 - ## current iteration use stay127
+2019-10-29 21:42:22,345 - ## iteration:1, learning problems: 8
+2019-10-29 21:42:22,831 - ## current iteration weight[1, 0]
+2019-10-29 21:42:22,831 - ## current iteration use step 314
+2019-10-29 21:42:22,831 - ## current iteration use stay114
+2019-10-29 21:42:22,831 - ## iteration:1, learning problems: 9
+2019-10-29 21:42:23,303 - ## current iteration weight[1, 0]
+2019-10-29 21:42:23,304 - ## current iteration use step 308
+2019-10-29 21:42:23,304 - ## current iteration use stay107
+2019-10-29 21:42:23,304 - ## iteration:1, learning problems: 10
+2019-10-29 21:42:23,561 - ## current iteration weight[1, 0]
+2019-10-29 21:42:23,562 - ## current iteration use step 167
+2019-10-29 21:42:23,562 - ## current iteration use stay39
+2019-10-29 21:42:23,562 - ## iteration:1, learning problems: 11
+2019-10-29 21:42:24,043 - ## current iteration weight[1, 0]
+2019-10-29 21:42:24,043 - ## current iteration use step 310
+2019-10-29 21:42:24,043 - ## current iteration use stay116
+2019-10-29 21:42:24,043 - ## iteration:1, learning problems: 12
+2019-10-29 21:42:24,552 - ## current iteration weight[1, 0]
+2019-10-29 21:42:24,552 - ## current iteration use step 306
+2019-10-29 21:42:24,552 - ## current iteration use stay111
+2019-10-29 21:42:24,552 - ## iteration:1, learning problems: 13
+2019-10-29 21:42:25,032 - ## current iteration weight[1, 0]
+2019-10-29 21:42:25,032 - ## current iteration use step 313
+2019-10-29 21:42:25,032 - ## current iteration use stay113
+2019-10-29 21:42:25,032 - ## iteration:1, learning problems: 14
+2019-10-29 21:42:25,513 - ## current iteration weight[1, 0]
+2019-10-29 21:42:25,514 - ## current iteration use step 312
+2019-10-29 21:42:25,514 - ## current iteration use stay158
+2019-10-29 21:42:25,514 - ## iteration:1, learning problems: 15
+2019-10-29 21:42:25,998 - ## current iteration weight[1, 0]
+2019-10-29 21:42:25,998 - ## current iteration use step 287
+2019-10-29 21:42:25,998 - ## current iteration use stay96
+2019-10-29 21:42:25,998 - ## iteration:1, learning problems: 16
+2019-10-29 21:42:26,468 - ## current iteration weight[1, 0]
+2019-10-29 21:42:26,468 - ## current iteration use step 305
+2019-10-29 21:42:26,468 - ## current iteration use stay108
+2019-10-29 21:42:26,468 - ## iteration:1, learning problems: 17
+2019-10-29 21:42:26,826 - ## current iteration weight[1, 0]
+2019-10-29 21:42:26,826 - ## current iteration use step 231
+2019-10-29 21:42:26,826 - ## current iteration use stay90
+2019-10-29 21:42:26,826 - ## iteration:1, learning problems: 18
+2019-10-29 21:42:27,230 - ## current iteration weight[1, 0]
+2019-10-29 21:42:27,230 - ## current iteration use step 255
+2019-10-29 21:42:27,230 - ## current iteration use stay73
+2019-10-29 21:42:27,230 - ## iteration:1, learning problems: 19
+2019-10-29 21:42:27,708 - ## current iteration weight[1, 0]
+2019-10-29 21:42:27,708 - ## current iteration use step 312
+2019-10-29 21:42:27,708 - ## current iteration use stay114
+2019-10-29 21:42:27,708 - ## iteration:1, learning problems: 20
+2019-10-29 21:42:28,184 - ## current iteration weight[1, 0]
+2019-10-29 21:42:28,184 - ## current iteration use step 310
+2019-10-29 21:42:28,184 - ## current iteration use stay116
+2019-10-29 21:42:28,184 - ## iteration:1, learning problems: 21
+2019-10-29 21:42:28,445 - ## current iteration weight[1, 0]
+2019-10-29 21:42:28,445 - ## current iteration use step 169
+2019-10-29 21:42:28,445 - ## current iteration use stay40
+2019-10-29 21:42:28,445 - ## iteration:1, learning problems: 22
+2019-10-29 21:42:28,873 - ## current iteration weight[1, 0]
+2019-10-29 21:42:28,873 - ## current iteration use step 250
+2019-10-29 21:42:28,874 - ## current iteration use stay70
+2019-10-29 21:42:28,874 - ## iteration:1, learning problems: 23
+2019-10-29 21:42:30,393 - ## current iteration weight[1, 0]
+2019-10-29 21:42:30,393 - ## current iteration use step 1000
+2019-10-29 21:42:30,393 - ## current iteration use stay769
+2019-10-29 21:42:30,393 - ## iteration:1, learning problems: 24
+2019-10-29 21:42:32,053 - ## current iteration weight[1, 0]
+2019-10-29 21:42:32,053 - ## current iteration use step 1000
+2019-10-29 21:42:32,053 - ## current iteration use stay777
+2019-10-29 21:42:32,054 - ## iteration:1, learning problems: 25
+2019-10-29 21:42:32,445 - ## current iteration weight[1, 0]
+2019-10-29 21:42:32,445 - ## current iteration use step 253
+2019-10-29 21:42:32,445 - ## current iteration use stay64
+2019-10-29 21:42:32,445 - ## iteration:1, learning problems: 26
+2019-10-29 21:42:33,961 - ## current iteration weight[1, 0]
+2019-10-29 21:42:33,962 - ## current iteration use step 1000
+2019-10-29 21:42:33,962 - ## current iteration use stay791
+2019-10-29 21:42:33,962 - ## iteration:1, learning problems: 27
+2019-10-29 21:42:34,344 - ## current iteration weight[1, 0]
+2019-10-29 21:42:34,345 - ## current iteration use step 250
+2019-10-29 21:42:34,345 - ## current iteration use stay61
+2019-10-29 21:42:34,345 - ## iteration:1, learning problems: 28
+2019-10-29 21:42:35,869 - ## current iteration weight[1, 0]
+2019-10-29 21:42:35,869 - ## current iteration use step 1000
+2019-10-29 21:42:35,869 - ## current iteration use stay756
+2019-10-29 21:42:35,869 - ## iteration:1, learning problems: 29
+2019-10-29 21:42:36,260 - ## current iteration weight[1, 0]
+2019-10-29 21:42:36,260 - ## current iteration use step 253
+2019-10-29 21:42:36,261 - ## current iteration use stay61
+2019-10-29 21:42:36,516 - ## iteration:2, learning problems: 0
+2019-10-29 21:42:37,273 - ## iteration:2, learning problems: 1
+2019-10-29 21:42:40,362 - ## iteration:2, learning problems: 2
+2019-10-29 21:42:42,768 - ## iteration:2, learning problems: 3
+2019-10-29 21:42:44,338 - ## iteration:2, learning problems: 4
+2019-10-29 21:42:46,732 - ## iteration:2, learning problems: 5
+2019-10-29 21:42:49,750 - ## iteration:2, learning problems: 6
+2019-10-29 21:42:51,516 - ## iteration:2, learning problems: 7
+2019-10-29 21:42:52,729 - ## iteration:2, learning problems: 8
+2019-10-29 21:42:55,020 - ## iteration:2, learning problems: 9
+2019-10-29 21:42:57,148 - ## iteration:2, learning problems: 10
+2019-10-29 21:43:01,966 - ## iteration:2, learning problems: 11
