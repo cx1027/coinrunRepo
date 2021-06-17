@@ -378,7 +378,7 @@ class moxcs:
             #     print(predictions)
             # get action
             # if j>90:
-            self.env.render()
+            #self.env.render()
             #todo:get action!!!!!!!!!
             if (random.random() < 0.5):
                 action = self._select_action(predictions)
@@ -574,7 +574,7 @@ class moxcs:
     def set_curr_x(self,x):
         self.env.set_curr_x(x)
 
-    def run_testing_episode(self, testWeight, j, iteration):
+    def run_testing_episode(self, testWeight, j, iteration, traintestenv):
         # get first state: curr_state
         #print(self.population)
 
@@ -616,7 +616,7 @@ class moxcs:
             predictions = self._generate_predictions_norm(match_set_action, testWeight)
             #get action
 
-            self.env.render()
+            # self.env.render()
             if len(match_set_action)>0:
                 action = self._select_determinstic_action(predictions)
             else:
@@ -720,7 +720,7 @@ class moxcs:
                 {'actType': actType, 'position': positionList, 'action': actionList, 'iteration': iteration})
             df = df.append(dataframe, ignore_index=True)
 
-            filename = "actionList" + "interation_" + str(iteration)+"_" +str(testWeight) + ".csv"
+            filename = "actionList" + "interation_" + str(iteration)+"_" +str(testWeight)+"_"+traintestenv + ".csv"
             df.to_csv(filename, index=False, sep=',')
 
         print("j:",j," current iteration number of steps", step)

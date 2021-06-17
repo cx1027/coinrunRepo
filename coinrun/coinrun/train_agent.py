@@ -42,8 +42,9 @@ bits = 1
 #The maximum reward
 rho = 1000
 
-training_env_seed = '5'
-testing_env_seed = '5'
+training_env_seed = '1'
+testing_env_seed = '1'
+#just initailized once, it would not affect the result if training on env1 first
 
 
 #paper experiment
@@ -52,9 +53,9 @@ testing_env_seed = '5'
 # interval = 20
 
 #debug
-learning_problems = 11
+learning_problems = 161
 validation_problems = 3
-interval = 10
+interval = 160
 
 nenvs=1
 # arg_strs = setup_utils.setup_and_load()
@@ -298,6 +299,7 @@ def trainingTestingWeight(Allweight,ideaPoint, neighboursize, iteration, Testing
             currentweight=[]
             stays=[]
             inteval=[]
+            # traintestenv = []
             for i in range(validation_problems):
                 # rand_state = getstate()
                 # this_correct = this_correct + reward(rand_state, my_xcs.classify(rand_state))
@@ -315,12 +317,13 @@ def trainingTestingWeight(Allweight,ideaPoint, neighboursize, iteration, Testing
                     #     my_xcs.run_testing_episode(weight, j)
 
                     # env2=--run-id myrun --num-levels 1 --set-seed 5
-                    resultList, stay = my_xcs.run_testing_episode(weight, i, iteration)
+                    resultList, stay = my_xcs.run_testing_episode(weight, i, iteration, training_env_seed_pass+testing_env_seed_pass)
                     resultAllweight.append(resultList)
                     validationproblem.append(i)
                     currentweight.append(weight)
                     stays.append(stay)
                     inteval.append(j)
+                    # traintestenv.append(training_env_seed_pass+testing_env_seed_pass)
                     # df=df.append(pd.DataFrame({'currentweight': weight, 'result': resultList,'stays':stay,'validationproblem':i,'inteval':inteval}),ignore_index=True)
 
 
@@ -329,7 +332,7 @@ def trainingTestingWeight(Allweight,ideaPoint, neighboursize, iteration, Testing
 
 
 
-    filename = "result_" + "interation_" +str(iteration) + ".csv"
+    filename = "result_" + "interation_" +str(iteration) +"_"+training_env_seed_pass+testing_env_seed_pass + ".csv"
     df.to_csv(filename, index=False, sep=',')
 
     # return dataframe
@@ -395,13 +398,13 @@ def main():
     print("aaaaaaaaaaa")
     # result=[]
     # envrionments = [['5','5'],['1','5'],['5','1'],['1','1']]
-    envrionments = [['1', '1']]
+    envrionments = [['1', '1'],['1','5'],['5','5'],['5','1']]
     for environment in envrionments:
         training_env_seed=environment[0]
         testing_env_seed=environment[1]
 
 
-        for iteration in range(0,1):
+        for iteration in range(0,30):
         # context['iteration'] = iteration
             #todo:population is wrong with paraters.state_length
             #population = my_xcs.generate_population([[1, 0]],positions)
